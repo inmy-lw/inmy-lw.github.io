@@ -14,15 +14,15 @@
   url: category/vs.html
   icon: assets/img/icons/vs.svg
   hue: "var(--c-themeHueOrange)"
-- title: Plus
-  icon: assets/img/icons/plus.svg
+#- title: Plus
+#  icon: assets/img/icons/plus.svg
+#  hue: "var(--c-themeHueBlue)"
+#  subnav:
+- title: YouTube
+  icon: assets/img/icons/youtube.svg
+  externalUrl: https://youtube.com/@inmydeewih?si=baArDGBgwNizmDIz
   hue: "var(--c-themeHueBlue)"
-  subnav:
-    - title: YouTube
-#      icon: assets/img/icons/youtube.svg
-      externalUrl: https://youtube.com/@inmydeewih?si=baArDGBgwNizmDIz
-      hue: "var(--c-themeHueBlue)"
-    - title: Discord
-#      icon: assets/img/icons/discord.svg
-      externalUrl: https://discord.gg/UwTZNG84
-      hue: "var(--c-themeHueBlue)"
+- title: Discord
+  icon: assets/img/icons/discord.svg
+  externalUrl: https://discord.gg/UwTZNG84
+  hue: "var(--c-themeHueBlue)"
