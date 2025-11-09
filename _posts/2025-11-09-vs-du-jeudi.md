@@ -2,9 +2,14 @@
 layout: post
 category: [VS]
 title:  "VS du jeudi"
-date:   2025-11-09 13:00:22 +0100
+date:   2025-11-09 22:30:22 +0100
 ---
-A faire pendant le créneau `Avancement du Héros` du CAA
+
+# VS du jeudi (Héros)
+
+<a href="https://youtu.be/SgsCAmUsv5E?t=1694" target="_blank">Vidéo explicative</a>
+
+A faire pendant le créneau `Avancement du Héros` du [CAA](2025-11-09-caa.md)
 - Recrutement des héros
 - Amélioration des héros (EXP)
 

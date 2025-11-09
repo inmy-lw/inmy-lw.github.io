@@ -1,0 +1,9 @@
+---
+layout: post
+category: [VS]
+title:  "VS du dimanche"
+date:   2025-11-09 22:00:22 +0100
+---
+
+# VS du dimanche (préparation du prochain 😉)
+<a href="https://youtu.be/SgsCAmUsv5E?t=4016" target="_blank">Vidéo explicative</a>
