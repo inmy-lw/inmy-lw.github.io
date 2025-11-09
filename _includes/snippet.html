@@ -1,7 +1,7 @@
 <style>
     .snippet_{{ post.id | slugify: "ascii" }}::after {
 
-        background-image: 
+        background-image:
         radial-gradient(ellipse closest-side, var(--c-snippetBackgroundExternal), var(--c-snippetBackgroundInternal)),
         url(
             {% if post.image_dir == "default" %}
@@ -23,16 +23,16 @@
                     <p class="snippet__data__metadata__category__title">No category</p>
                 {% endfor %}
             </section>
-            <p class="snippet__data__metadata__date">{{ post.date | date: '%B %d, %Y' }}</p>
+<!--            <p class="snippet__data__metadata__date">{{ post.date | date: '%B %d, %Y' }}</p>-->
         </section>
         <h2 class="snippet__data__header">{{post.title }}</h2>
         <p class="snippet__data__text">{{ post.excerpt | strip_html }}</p>
         {% if post.author != nil %}
-            <div class="snippet__data__author"> 
+            <div class="snippet__data__author">
                 {% assign author = site.authors | where: "nick", post.author | first %}
                 <img src="{{ site.url }}/{{ author.photo_dir }}"/>
                 <p>{{ author.full_name }}</p>
             </div>
         {% endif %}
     </section>
-</a> 
+</a>
