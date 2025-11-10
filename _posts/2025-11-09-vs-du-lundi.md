@@ -32,6 +32,7 @@ Dans cet onglet du drone
 
 
 ## Si besoin au cas par cas
+
 |           Tâche           |                                                                                              Explication                                                                                               |
 |:-------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Utiliser 660 EXP de Héros | A prioriser surtout le jeudi pour le VS, mais peut être utile dans des VS serrés ou pour débloquer un coffre<br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA](2025-11-09-caa.md) |

@@ -24,6 +24,7 @@ date:   2025-11-09 22:40:22 +0100
 ## Badge de valeur
 
 Les badges de valeur sont ces points :
+
 ![Badge de valeur](/assets/img/screens/badge_valeur.webp)
 
 Ils s'obtiennent principalement dans les coffres obtenus pendant le VS

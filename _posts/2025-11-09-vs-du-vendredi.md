@@ -21,6 +21,7 @@ date:   2025-11-09 22:20:22 +0100
 
 
 ## Si besoin au cas par cas (à prioriser les autres jours, mais ces actions peuvent être utiles en cas de VS serré ou pour augmenter de quelques points pour débloquer un coffre)
+
 |                      Tâche                       |                                                        Explication                                                        |
 |:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
 |   Augmenter la Puissance des Bâtiments de 1 pt   |    Principalement le mardi.<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA](2025-11-09-caa.md)    |
