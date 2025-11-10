@@ -1,5 +1,5 @@
 - title: Important #Menu item title.
-  url: category/important.html #Menu item url.
+  url: /category/important.html #Menu item url.
   icon: /assets/img/icons/important.svg #Menu item icon.
   hue: "var(--c-themeHueRed)" #Menu item hue - see note [1].
 #  subnav: #Subnav. See note [2].
@@ -11,7 +11,7 @@
 #          url: libs.html
 #          hue: "var(--c-themeHueBlue)"
 - title: VS
-  url: category/vs.html
+  url: /category/vs.html
   icon: /assets/img/icons/vs.svg
   hue: "var(--c-themeHueOrange)"
 #- title: Plus
