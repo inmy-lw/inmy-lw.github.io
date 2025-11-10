@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="{{ site.url }}/assets/fonts/fonts.css"/>
-<link rel="stylesheet" href="{{ site.url }}/assets/style.css"/>
-<link rel="stylesheet" href="{{ site.url }}/assets/js/lity.min.css"/>
+<link rel="stylesheet" href="/assets/fonts/fonts.css"/>
+<link rel="stylesheet" href="/assets/style.css"/>
+<link rel="stylesheet" href="/assets/js/lity.min.css"/>
 
 {% if site.favicon != nil %}
 <link rel='shortcut icon' type='image/x-icon' href='{{ site.favicon }}' />
@@ -10,7 +10,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <meta property="og:site_name" content="{{ site.title }}" />
-<meta 
+<meta
     property="og:title"
     content="
         {% if page.title != nil %}
@@ -18,7 +18,7 @@
         {% else %}
             {{site.title}}
         {% endif %}
-    " 
+    "
 />
 {% if page.og_description != nil %}
     <meta property="og:description" content="{{ page.og_description }}" />
