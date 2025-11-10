@@ -10,10 +10,10 @@
                 {% if item.externalUrl != nil %}
                 <a href="{{ item.externalUrl }}" target="_blank">
                     {% else %}
-                    <a href="{{ item.url }}">
+                    <a href="{{ site.url }}/{{ item.url }}">
                         {% endif%}
                         {% if item.icon != nil %}
-                        <img src="{{ item.icon }}"/>
+                        <img src="{{ site.url }}/{{ item.icon }}"/>
                         {% endif %}
                         {% if item.hue != nil %}
                         <p style="color: {{ item.hue }}">{{ item.title }}</p>

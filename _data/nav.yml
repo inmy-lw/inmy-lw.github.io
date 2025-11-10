@@ -1,6 +1,6 @@
 - title: Important #Menu item title.
-  url: /category/important.html #Menu item url.
-  icon: /assets/img/icons/important.svg #Menu item icon.
+  url: category/important.html #Menu item url.
+  icon: assets/img/icons/important.svg #Menu item icon.
   hue: "var(--c-themeHueRed)" #Menu item hue - see note [1].
 #  subnav: #Subnav. See note [2].
 #    - title: C++ #Submenu item title.
@@ -11,18 +11,18 @@
 #          url: libs.html
 #          hue: "var(--c-themeHueBlue)"
 - title: VS
-  url: /category/vs.html
-  icon: /assets/img/icons/vs.svg
+  url: category/vs.html
+  icon: assets/img/icons/vs.svg
   hue: "var(--c-themeHueOrange)"
 #- title: Plus
 #  icon: assets/img/icons/plus.svg
 #  hue: "var(--c-themeHueBlue)"
 #  subnav:
 - title: YouTube
-  icon: /assets/img/icons/youtube.svg
+  icon: assets/img/icons/youtube.svg
   externalUrl: https://youtube.com/@inmydeewih?si=baArDGBgwNizmDIz
   hue: "var(--c-themeHueBlue)"
 - title: Discord
-  icon: /assets/img/icons/discord.svg
+  icon: assets/img/icons/discord.svg
   externalUrl: https://discord.gg/UwTZNG84
   hue: "var(--c-themeHueBlue)"
