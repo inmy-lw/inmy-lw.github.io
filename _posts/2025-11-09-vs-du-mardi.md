@@ -24,13 +24,13 @@ date:   2025-11-09 22:50:22 +0100
 ## En plus
 
 Pour préparer la journée du mercredi :
-- On ne touche pas à ses tâches radar, on les garde pour le VS du mercredi (calculer tout de même pour ne pas bloquer le compteur si vous êtes au taquet)
+- On ne touche pas à ses tâches radar, on les garde pour le VS du mercredi (calculer tout de même pour ne pas bloquer le compteur si vous êtes au taquet).
 
 [Explication vidéo super claire](https://youtu.be/ugD7PMJw214?t=798)
 
 ## Camion Commercial UR
 
-On en obtient en le rafraîchissant avec les contrats commerciaux (les mêmes donnés et gagnés grâce au train)
+On en obtient en le rafraîchissant avec les contrats commerciaux (les mêmes donnés et gagnés grâce au train).
 
 ![Camion UR](/assets/img/screens/camion_ur.webp)
 

@@ -34,7 +34,7 @@ date:   2025-11-09 22:10:22 +0100
 
 ## Où trouver les boucliers
 
-**Note importante : les boucliers ne se cumulent pas... Ils se remplacent donc calculez bien vos durées de bouclier ;)**
+**Note importante : les boucliers ne se cumulent pas... Ils se remplacent, donc calculez bien vos durées de bouclier ;)**
 
 Ils s'achètent dans la boutique d'alliance
 ![Accueil alliance](/assets/img/screens/accueil_alliance.webp)

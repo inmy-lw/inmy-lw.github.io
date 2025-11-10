@@ -25,7 +25,7 @@ date:   2025-11-09 22:30:22 +0100
 ## En plus
 
 Pour préparer la journée du vendredi :
-- On ne touche pas à ses tâches radar, on les garde pour le VS du vendredi (calculer tout de même pour ne pas bloquer le compteur si vous êtes au taquet)
+- On ne touche pas à ses tâches radar, on les garde pour le VS du vendredi (calculer tout de même pour ne pas bloquer le compteur si vous êtes au taquet).
 
 [Explication vidéo super claire](https://youtu.be/ugD7PMJw214?t=798)
 
