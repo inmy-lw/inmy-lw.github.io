@@ -37,7 +37,7 @@ sass:
   silence_deprecations: ['import']
   style: compressed
 
-logo_img: /assets/img/logo_inmy.png #Absolute path to the logo. If not specified, the title will be displayed instead.
+logo_img: /assets/img/banner.webp #Absolute path to the logo. If not specified, the title will be displayed instead.
 #copyright: © ION 2020 #Your copyright.
 
 collections:
