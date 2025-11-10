@@ -9,7 +9,7 @@ date:   2025-11-09 22:50:22 +0100
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=511" target="_blank">Vidéo explicative</a>
 
-![VS mardi](/assets/img/screens/vs_mardi.webp)
+![VS mardi](/assets/img/vs/vs_mardi.webp)
 
 ## Explications
 
