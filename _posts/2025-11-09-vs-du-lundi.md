@@ -9,14 +9,13 @@ date:   2025-11-09 23:00:22 +0100
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=51" target="_blank">Vidéo explicative</a>
 
-![VS Lundi](/assets/img/vs/vs_lundi.webp)
 {% include image.html url="/assets/img/vs/vs_lundi.webp" description="Actions du VS du lundi" %}
 
 ## Explications
 
 |                                    Tâche                                     |                                                              Explication                                                              |
 |:----------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-|                             Utiliser 1 Endurance                             |                           A prioriser pendant le créneau `Boost de drone` pour le [CAA](2025-11-09-caa.md)                            |
+|                             Utiliser 1 Endurance                             |                     A prioriser pendant le créneau `Boost de drone` pour le [CAA]({% post_url 2025-11-09-caa %})                      |
 |                           Compléter 1 Tâche Radar                            |                                                     Economisée depuis le dimanche                                                     |
 |                Utiliser 1 Point de Données de Combat du Drone                |                                                         Explication plus bas                                                          |
 |                          Utiliser 1 Pièce de Drone                           |                                                         Explication plus bas                                                          |
@@ -33,8 +32,8 @@ Dans cet onglet du drone
 
 ## Si besoin au cas par cas
 
-|           Tâche           |                                                                                              Explication                                                                                               |
-|:-------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Utiliser 660 EXP de Héros | A prioriser surtout le jeudi pour le VS, mais peut être utile dans des VS serrés ou pour débloquer un coffre<br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA](2025-11-09-caa.md) |
+|           Tâche           |                                                                                                    Explication                                                                                                     |
+|:-------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Utiliser 660 EXP de Héros | A prioriser surtout le jeudi pour le VS, mais peut être utile dans des VS serrés ou pour débloquer un coffre<br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA]({% post_url 2025-11-09-caa %}) |
 
 

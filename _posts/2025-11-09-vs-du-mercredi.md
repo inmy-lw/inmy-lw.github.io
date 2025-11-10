@@ -13,13 +13,13 @@ date:   2025-11-09 22:40:22 +0100
 
 ## Explications
 
-|                       Tâche                        |                                        Explication                                        |
-|:--------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
-|   Utiliser 1 minute d'Accélération de Recherche    | A prioriser pendant le créneau `Recherche Technologique` pour le [CAA](2025-11-09-caa.md) |
-|  Augmenter la Puissance des Technologique de 1 pt  |                           Terminer une recherche technologique                            |
-|             Utiliser 1 Badge de Valeur             |   Point particulier s'utilisant dans certains types de recherche. Explication plus bas    |
-|              Compléter 1 Tâche Radar               |                                Economisée depuis le mardi                                 |
-| Ouvrir un Coffre de Composant de Drone de Niv. 1-7 |                                   Explication plus bas                                    |
+|                       Tâche                        |                                              Explication                                              |
+|:--------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
+|   Utiliser 1 minute d'Accélération de Recherche    | A prioriser pendant le créneau `Recherche Technologique` pour le [CAA]({% post_url 2025-11-09-caa %}) |
+|  Augmenter la Puissance des Technologique de 1 pt  |                                 Terminer une recherche technologique                                  |
+|             Utiliser 1 Badge de Valeur             |         Point particulier s'utilisant dans certains types de recherche. Explication plus bas          |
+|              Compléter 1 Tâche Radar               |                                      Economisée depuis le mardi                                       |
+| Ouvrir un Coffre de Composant de Drone de Niv. 1-7 |                                         Explication plus bas                                          |
 
 ## Badge de valeur
 

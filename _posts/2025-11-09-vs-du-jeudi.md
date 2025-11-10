@@ -13,14 +13,14 @@ date:   2025-11-09 22:30:22 +0100
 
 ## Explications
 
-|               Tâche                |                                                                     Explication                                                                      |
-|:----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  Effectuer 1 Recrutement de héros  | Utiliser 1 ticket de recrutement de héros dans la taverne.<br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA](2025-11-09-caa.md) |
-|     Utiliser 660 EXP de Héros      |             Augmenter le niveau de ses héros. <br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA](2025-11-09-caa.md)             |
-|  Utiliser 1 Fragment de Héros UR   |                                                           Augmenter le grade d'un héros UR                                                           |
-|  Utiliser 1 Fragment de Héros SSR  |                                                          Augmenter le grade d'un héros SSR                                                           |
-|  Utiliser 1 Fragment de Héros SR   |                                                           Augmenter le grade d'un héros SR                                                           |
-| Consommer 1 Médaille de Compétence |                                                    Augmenter le niveau des compétences des héros                                                     |
+|               Tâche                |                                                                           Explication                                                                            |
+|:----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  Effectuer 1 Recrutement de héros  | Utiliser 1 ticket de recrutement de héros dans la taverne.<br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA]({% post_url 2025-11-09-caa %}) |
+|     Utiliser 660 EXP de Héros      |             Augmenter le niveau de ses héros. <br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA]({% post_url 2025-11-09-caa %})             |
+|  Utiliser 1 Fragment de Héros UR   |                                                                 Augmenter le grade d'un héros UR                                                                 |
+|  Utiliser 1 Fragment de Héros SSR  |                                                                Augmenter le grade d'un héros SSR                                                                 |
+|  Utiliser 1 Fragment de Héros SR   |                                                                 Augmenter le grade d'un héros SR                                                                 |
+| Consommer 1 Médaille de Compétence |                                                          Augmenter le niveau des compétences des héros                                                           |
 
 ## En plus
 

@@ -13,13 +13,13 @@ date:   2025-11-09 22:50:22 +0100
 
 ## Explications
 
-|                      Tâche                       |                                                                       Explication                                                                       |
-|:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Utiliser 1 minute d'Accélération de Construction |                                 A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA](2025-11-09-caa.md)                                  |
-|   Augmenter la Puissance des Bâtiments de 1 pt   | Ouverture des cadeaux accumulés depuis la semaine précédente<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA](2025-11-09-caa.md) |
-|      Envoyer un Camion Commercial UR 1 fois      |                                                                  Explication plus bas                                                                   |
-|           Effectuer 1 Tâche Secrète UR           |                                                                  Explication plus bas                                                                   |
-|               Recruter 1 Survivant               |                                                                    Depuis la taverne                                                                    |
+|                      Tâche                       |                                                                             Explication                                                                             |
+|:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Utiliser 1 minute d'Accélération de Construction |                                 A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})                                  |
+|   Augmenter la Puissance des Bâtiments de 1 pt   | Ouverture des cadeaux accumulés depuis la semaine précédente<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %}) |
+|      Envoyer un Camion Commercial UR 1 fois      |                                                                        Explication plus bas                                                                         |
+|           Effectuer 1 Tâche Secrète UR           |                                                                        Explication plus bas                                                                         |
+|               Recruter 1 Survivant               |                                                                          Depuis la taverne                                                                          |
 
 ## En plus
 
