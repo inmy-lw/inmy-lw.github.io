@@ -1,6 +1,6 @@
 ---
 layout: post
-category: [VS]
+category: VS
 title:  "VS du mercredi"
 date:   2025-11-09 22:40:22 +0100
 ---

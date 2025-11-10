@@ -1,6 +1,6 @@
 ---
 layout: post
-category: [VS]
+category: VS
 title:  "VS du lundi"
 date:   2025-11-09 23:00:22 +0100
 ---
