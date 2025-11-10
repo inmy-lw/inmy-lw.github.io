@@ -10,6 +10,7 @@ date:   2025-11-09 23:00:22 +0100
 <a href="https://youtu.be/SgsCAmUsv5E?t=51" target="_blank">Vidéo explicative</a>
 
 ![VS Lundi](/assets/img/vs/vs_lundi.webp)
+{% include image.html url="/assets/img/vs/vs_lundi.webp" description="Actions du VS du lundi" %}
 
 ## Explications
 
@@ -24,12 +25,11 @@ date:   2025-11-09 23:00:22 +0100
 ## Point de Données de Combat du Drone et Pièces de drone
 Il faut utiliser ces points
 
-![Pieces drone](/assets/img/screens/pieces_drone.webp)
+{% include image.html url="/assets/img/screens/pieces_drone.webp" description="Points de données de combat et pièces de drone" %}
 
 Dans cet onglet du drone
 
-![Point combat drone](/assets/img/screens/points_drone.webp)
-
+{% include image.html url="/assets/img/screens/points_drone.webp" description="Amélioration du drone le lundi" %}
 
 ## Si besoin au cas par cas
 

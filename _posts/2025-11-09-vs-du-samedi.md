@@ -10,7 +10,7 @@ date:   2025-11-09 22:10:22 +0100
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=3501" target="_blank">Vidéo explicative</a>
 
-![VS du samedi](/assets/img/vs/vs_samedi.webp)
+{% include image.html url="/assets/img/vs/vs_samedi.webp" description="Actions du VS du samedi" %}
 
 ## Explications
 
@@ -36,17 +36,12 @@ date:   2025-11-09 22:10:22 +0100
 
 **Note importante : les boucliers ne se cumulent pas... Ils se remplacent, donc calculez bien vos durées de bouclier ;)**
 
-Ils s'achètent dans la boutique d'alliance
-![Accueil alliance](/assets/img/screens/accueil_alliance.webp)
+{% include image.html url="/assets/img/screens/accueil_alliance.webp" description="Accéder à la boutique d'alliance depuis le menu d'alliance" %}
 
-![Boutique alliance](/assets/img/screens/boutique_alliance.webp)
+{% include image.html url="/assets/img/screens/boutique_alliance.webp" description="Obtenir des boucliers dans la boutique d'alliance" %}
 
 ## Appliquer un bouclier
 
-Dans la vue monde, cliquez sur votre base, puis choisissez l'icône du bouclier
+{% include image.html url="/assets/img/screens/bouclier.webp" description="Placer un bouclier après avoir sélectionné sa base dans la vue monde" %}
 
-![Bouton bouclier](/assets/img/screens/bouclier.webp)
-
-Ca vous permettra d'arriver sur un menu qui vous permettra de choisir le bouclier que vous souhaitez appliquer.
-
-![Choix bouclier](/assets/img/screens/choix_bouclier.webp)
+{% include image.html url="/assets/img/screens/choix_bouclier.webp" description="Ecran de sélection du bouclier à appliquer" %}

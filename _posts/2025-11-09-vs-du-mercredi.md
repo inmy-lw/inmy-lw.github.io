@@ -9,7 +9,7 @@ date:   2025-11-09 22:40:22 +0100
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=1115" target="_blank">Vidéo explicative</a>
 
-![VS Mercredi](/assets/img/vs/vs_mercredi.webp)
+{% include image.html url="/assets/img/vs/vs_mercredi.webp" description="Actions du VS du mercredi" %}
 
 ## Explications
 
@@ -23,20 +23,16 @@ date:   2025-11-09 22:40:22 +0100
 
 ## Badge de valeur
 
-Les badges de valeur sont ces points :
+{% include image.html url="/assets/img/screens/badge_valeur.webp" description="Badges de valeur" %}
 
-![Badge de valeur](/assets/img/screens/badge_valeur.webp)
+{% include image.html url="/assets/img/screens/obtention_badge_valeur.webp" description="Obtenir des badges de valeur dans les coffres du VS" %}
 
-Ils s'obtiennent principalement dans les coffres obtenus pendant le VS
-![Obtention badge de valeur](/assets/img/screens/obtention_badge_valeur.webp)
-
-On les utilise dans certains types de recherche dans le centre technologique
-![Utilisation badge de valeur](/assets/img/screens/utilisation_badge_valeur.webp)
+{% include image.html url="/assets/img/screens/utilisation_badge_valeur.webp" description="Utilisation des badges de valeur dans les centres technologiques" %}
 
 ## Coffre de Composant de Drone
 
-Ces coffres se trouvent dans l'inventaire et se récupèrent facilement tout au long de la semaine.
-![Coffre de Composant de Drone](/assets/img/screens/coffres_composants_drone.webp)
+{% include image.html url="/assets/img/screens/coffres_composants_drone.webp" description="Coffres de composant de drone à ouvrir" %}
 
-Ils s'utilisent dans le drone de combat à n'importe quel moment, seule l'ouverture des coffres est comptabilisée pour le VS.
-![Composants de Drone](/assets/img/screens/composants_drone.webp)
+{% include image.html url="/assets/img/screens/composants_drone.webp" description="Utilisation des composants de drone" %}
+
+Seule l'ouverture des coffres est comptabilisée pour le VS, donc les composants peuvent être utilisés n'importe quand.

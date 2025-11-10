@@ -9,7 +9,7 @@ date:   2025-11-09 22:30:22 +0100
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=1694" target="_blank">Vidéo explicative</a>
 
-![VS jeudi](/assets/img/vs/vs_jeudi.webp)
+{% include image.html url="/assets/img/vs/vs_jeudi.webp" description="Actions du VS du jeudi" %}
 
 ## Explications
 
@@ -30,9 +30,9 @@ Pour préparer la journée du vendredi :
 [Explication vidéo super claire](https://youtu.be/ugD7PMJw214?t=798)
 
 ## Fragments de Héros
-Les fragments s'utilisent pour augmenter les grades des héros (leurs étoiles)
-![Fragments](/assets/img/screens/fragments_heros.webp)
+Les fragments s'utilisent pour augmenter les grades des héros (leurs étoiles).
+{% include image.html url="/assets/img/screens/fragments_heros.webp" description="Utilisation des fragments de héros" %}
 
 ## Médailles de Compétence
 Elles s'utilisent pour améliorer les compétences des héros (les niveaux de compétences se débloquent en fonction du grade du héros)
-![Médailles Compétence](/assets/img/screens/medailles_competence.webp)
+{% include image.html url="/assets/img/screens/medailles_competence.webp" description="Utilisation des médailles de compétences" %}

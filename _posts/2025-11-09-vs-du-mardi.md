@@ -9,7 +9,7 @@ date:   2025-11-09 22:50:22 +0100
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=511" target="_blank">Vidéo explicative</a>
 
-![VS mardi](/assets/img/vs/vs_mardi.webp)
+{% include image.html url="/assets/img/vs/vs_mardi.webp" description="Actions du VS du mardi" %}
 
 ## Explications
 
@@ -32,10 +32,11 @@ Pour préparer la journée du mercredi :
 
 On en obtient en le rafraîchissant avec les contrats commerciaux (les mêmes donnés et gagnés grâce au train).
 
-![Camion UR](/assets/img/screens/camion_ur.webp)
+{% include image.html url="/assets/img/screens/camion_ur.webp" description="Obtenir des camions UR" %}
 
 ## Tâche secrète UR
 
 On en obtient en rafraîchissant avec les ordres secrets.
 
 ![Tâches UR](/assets/img/screens/tache_ur.webp)
+{% include image.html url="/assets/img/screens/tache_ur.webp" description="Obtenir des tâches secrètes UR" %}
