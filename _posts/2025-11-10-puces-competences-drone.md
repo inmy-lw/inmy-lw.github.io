@@ -20,26 +20,26 @@ Monter rapidement le bâtiment au **niveau 20** pour débloquer la fabrication d
 
 Obtenez rapidement un **ensemble complet de Puces de Compétence UR.
 
-Utilisez les SSR pour monter de niveau le Boost de Combat
+Utilisez les SSR pour monter de niveau le Boost de Combat.
 
 ## Composants clés
 
 <table>
     <tr>
-        <td style="text-align: center"><img src="/assets/img/puces/coffres_puces.webp"></td>
+        <td style="text-align: center"><img src="/assets/img/puces/coffres_puces.webp" alt="coffres puces"></td>
         <td colspan="2">Les coffres de Puces de Compétence contiennent des puces et des métériaux.<br>Ils peuvent être obtenus via : boutiques, événements spéciaux, packs payants.</td>
     </tr>
     <tr>
-        <td style="text-align: center"><img src="/assets/img/puces/puce_competence.webp"></td>
+        <td style="text-align: center"><img src="/assets/img/puces/puce_competence.webp" alt="Puce compétence"></td>
         <td colspan="2">Les Puces de compétences apportent des effets spécifiques en combat.</td>
     </tr>
     <tr>
-        <td><img src="/assets/img/puces/materiau_basique.webp" style="margin-right: 1rem;"><img src="/assets/img/puces/materiau_premium.webp" style="margin-left: 1rem;"></td>
+        <td><img src="/assets/img/puces/materiau_basique.webp" style="margin-right: 1rem;" alt="Materiau basique"><img src="/assets/img/puces/materiau_premium.webp" style="margin-left: 1rem;" alt="Materiau premium"></td>
         <td>400 matériaux basiques = 1 Puce de Compétence SSR (sauf Initiale).<br>800 matériaux premium = 1 Puce de Compétence UR</td>
         <td>À utiliser dans le <b>Laboratoire de Puces</b>.</td>
     </tr>
     <tr>
-        <td style="text-align: center"><img src="/assets/img/puces/carte_exp_boost.webp"></td>
+        <td style="text-align: center"><img src="/assets/img/puces/carte_exp_boost.webp" alt="Carte EXP boost"></td>
         <td colspan="2">Les <b>Cartes d'EXP de Boost de Combat de Drone</b> servent à faire monter le niveau du Boost de Combat.</td>
     </tr>
 </table>
@@ -48,7 +48,7 @@ Utilisez les SSR pour monter de niveau le Boost de Combat
 
 <table>
     <tr>
-        <td rowspan="2"><img src="/assets/img/puces/ensemble_puces.webp"></td>
+        <td rowspan="2"><img src="/assets/img/puces/ensemble_puces.webp" alt="Ensemble de puces"></td>
         <td>Débloquez jusqu'à 4 ensembles de Puces de Compétence</td>
     </tr>
     <tr>
@@ -67,11 +67,11 @@ Utilisez les SSR pour monter de niveau le Boost de Combat
 ## Paliers des Boost de Combat
 
 Le système de Boost de Combat monte de niveau pour améliorer les attributs des drones et les effets des Puces de
-Compétence
+Compétence.
 
 <table>
     <tr>
-        <td rowspan="6"><img src="/assets/img/puces/boost_combat.webp"></td>
+        <td rowspan="6"><img src="/assets/img/puces/boost_combat.webp" alt="Boost de Combat"></td>
         <td><b>Niveau 10</b></td>
         <td>
             <ul>
