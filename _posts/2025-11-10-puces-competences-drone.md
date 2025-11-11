@@ -9,7 +9,7 @@ date: 2025-11-10 13:00:22 +0100
 
 <a href="https://youtu.be/cBpZLbk4rBc" target="_blank">Vidéo explicative</a>
 
-Au **jour 82**, les joueurs débloquent les systèmes Boost de Comat et Puce de Compétence de drone.
+Au **jour 82**, les joueurs débloquent les systèmes Boost de Combat et Puce de Compétence de drone.
 
 Les **Puces de compétences** sont très utiles pour augmenter la défense, les PV et l'attaque de votre escouade. Plus le
 niveau de rareté est élevé, plus le bonus est important.
@@ -27,14 +27,14 @@ Utilisez les SSR pour monter de niveau le Boost de Combat.
 <table>
     <tr>
         <td style="text-align: center"><img src="/assets/img/puces/coffres_puces.webp" alt="coffres puces"></td>
-        <td colspan="2">Les coffres de Puces de Compétence contiennent des puces et des métériaux.<br>Ils peuvent être obtenus via : boutiques, événements spéciaux, packs payants.</td>
+        <td colspan="2">Les coffres de Puces de Compétence contiennent des puces et des matériaux.<br>Ils peuvent être obtenus via : boutiques, événements spéciaux, packs payants.</td>
     </tr>
     <tr>
         <td style="text-align: center"><img src="/assets/img/puces/puce_competence.webp" alt="Puce compétence"></td>
         <td colspan="2">Les Puces de compétences apportent des effets spécifiques en combat.</td>
     </tr>
     <tr>
-        <td style="display: flex; column-gap: 1rem;"><img src="/assets/img/puces/materiau_basique.webp" alt="Materiau basique"><img src="/assets/img/puces/materiau_premium.webp" alt="Materiau premium"></td>
+        <td style="display: flex; column-gap: 1rem;"><img src="/assets/img/puces/materiau_basique.webp" alt="Matériau basique"><img src="/assets/img/puces/materiau_premium.webp" alt="Matériau premium"></td>
         <td>400 matériaux basiques = 1 Puce de Compétence SSR (sauf Initiale).<br>800 matériaux premium = 1 Puce de Compétence UR</td>
         <td>À utiliser dans le <b>Laboratoire de Puces</b>.</td>
     </tr>
@@ -64,7 +64,7 @@ Utilisez les SSR pour monter de niveau le Boost de Combat.
     </tr>
 </table>
 
-## Paliers des Boost de Combat
+## Paliers des Boosts de Combat
 
 Le système de Boost de Combat monte de niveau pour améliorer les attributs des drones et les effets des Puces de
 Compétence.
