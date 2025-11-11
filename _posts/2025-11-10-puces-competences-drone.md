@@ -34,7 +34,7 @@ Utilisez les SSR pour monter de niveau le Boost de Combat.
         <td colspan="2">Les Puces de compétences apportent des effets spécifiques en combat.</td>
     </tr>
     <tr>
-        <td><img src="/assets/img/puces/materiau_basique.webp" style="margin-right: 1rem;" alt="Materiau basique"><img src="/assets/img/puces/materiau_premium.webp" style="margin-left: 1rem;" alt="Materiau premium"></td>
+        <td style="display: flex; column-gap: 1rem;"><img src="/assets/img/puces/materiau_basique.webp" alt="Materiau basique"><img src="/assets/img/puces/materiau_premium.webp" alt="Materiau premium"></td>
         <td>400 matériaux basiques = 1 Puce de Compétence SSR (sauf Initiale).<br>800 matériaux premium = 1 Puce de Compétence UR</td>
         <td>À utiliser dans le <b>Laboratoire de Puces</b>.</td>
     </tr>
