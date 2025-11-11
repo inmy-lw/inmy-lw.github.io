@@ -5,6 +5,9 @@
 
 .header {
 
+  //background: url(/assets/img/banner.webp) no-repeat center center;
+  //background-size: cover;
+  //background-size: 100%;
 
   @include flexbox {
     flex-direction: column;
@@ -12,8 +15,6 @@
 ;
 
   padding-top: 2rem;
-  //background: url(/assets/img/banner.webp) no-repeat center center;
-  //background-size: cover;
 
   .logo {
 
@@ -177,6 +178,7 @@
           img {
             transform: scale(1.1);
             filter: var(--c-menuItemsFilterHover);
+            opacity: 0.8;
 
             @include for-size('tablet') {
               transform: scale(1);
@@ -186,6 +188,7 @@
           p {
             letter-spacing: .1rem;
             filter: var(--c-menuItemsFilterHover);
+            opacity: 0.8;
 
             @include for-size('tablet') {
               letter-spacing: .2rem;

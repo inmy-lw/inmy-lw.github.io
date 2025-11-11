@@ -36,8 +36,8 @@
     --c-headerImageFilter: none;
     --c-menuLinks: var(--c-themePrimaryDark);
     --c-menuDepth0: var(--c-themeSecondaryLight);
-    --c-menuItemsFilter: brightness(0);
-    --c-menuItemsFilterHover: none;
+    --c-menuItemsFilter: brightness(1);
+    --c-menuItemsFilterHover: brightness(0.3);
     --c-menuShadow: rgba(0,0,0,0.5);
 
     --c-snippetBackgroundExternal: rgba(239, 239, 239, 0.425);
@@ -146,7 +146,7 @@
     .highlight .vg { color: #000000 } /* Name.Variable.Global */
     .highlight .vi { color: #000000 } /* Name.Variable.Instance */
     .highlight .il { color: #0000cf; font-weight: bold } /* Literal.Number.Integer.Long */
-    
+
 
     // *** Dark mode ***
     @media (prefers-color-scheme: dark){
@@ -155,7 +155,7 @@
         --c-menuLinks: var(--c-themePrimaryLight);
         --c-menuDepth0: var(--c-themeSecondaryLight);
         --c-menuItemsFilter: none;
-        --c-menuItemsFilterHover: brightness(100); 
+        --c-menuItemsFilterHover: brightness(0.7);
         --c-menuShadow: rgba(255, 255, 255, 0.2);
 
         --c-articleHeading: var(--c-themePrimaryLight);
@@ -270,7 +270,7 @@
 
 // SIZES
 :root{
-    
+
     --s-p: 1rem;
 }
 
