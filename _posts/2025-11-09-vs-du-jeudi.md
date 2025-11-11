@@ -27,7 +27,7 @@ date:   2025-11-09 22:30:22 +0100
 Pour préparer la journée du vendredi :
 - On ne touche pas à ses tâches radar, on les garde pour le VS du vendredi (calculer tout de même pour ne pas bloquer le compteur si vous êtes au taquet).
 
-[Explication vidéo super claire](https://youtu.be/ugD7PMJw214?t=798)
+<a href="https://youtu.be/ugD7PMJw214?t=798" target="_blank">Explication vidéo super claire</a>
 
 ## Fragments de Héros
 Les fragments s'utilisent pour augmenter les grades des héros (leurs étoiles).
