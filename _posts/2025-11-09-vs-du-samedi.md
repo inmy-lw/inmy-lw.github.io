@@ -14,14 +14,14 @@ date:   2025-11-09 22:10:22 +0100
 
 ## Explications
 
-|                         Tâche                         |                         Explication                          |
-|:-----------------------------------------------------:|:------------------------------------------------------------:|
-|        Envoyer un Camion Commercial UR 1 fois         | Explication dans le [VS du mardi](2025-11-09-vs-du-mardi.md) |
-|              Utiliser 1 Tâche Secrète UR              | Explication dans le [VS du mardi](2025-11-09-vs-du-mardi.md) |
-|       Utiliser 1 minute d'Accélération de Soin        |     Utiliser les accélérateurs pour soigner des unités.      |
-| Chaque Unité de Niv. 1-10 tuée dans l'Alliance rivale |         Unité tuée dans l'alliance adversaire du VS.         |
-|            Chaque Unité de Niv. 1-10 tuée             |                      Unité adverse tuée                      |
-|           Chaque Unité de Niv. 1-10 Perdue            |                   Unité personnelle perdue                   |
+|                         Tâche                         |                               Explication                                |
+|:-----------------------------------------------------:|:------------------------------------------------------------------------:|
+|        Envoyer un Camion Commercial UR 1 fois         | Explication dans le [VS du mardi]({% post_url 2025-11-09-vs-du-mardi %}) |
+|              Utiliser 1 Tâche Secrète UR              | Explication dans le [VS du mardi]({% post_url 2025-11-09-vs-du-mardi %}) |
+|       Utiliser 1 minute d'Accélération de Soin        |           Utiliser les accélérateurs pour soigner des unités.            |
+| Chaque Unité de Niv. 1-10 tuée dans l'Alliance rivale |               Unité tuée dans l'alliance adversaire du VS.               |
+|            Chaque Unité de Niv. 1-10 tuée             |                            Unité adverse tuée                            |
+|           Chaque Unité de Niv. 1-10 Perdue            |                         Unité personnelle perdue                         |
 
 ## Si besoin au cas par cas (à prioriser les autres jours, mais ces actions peuvent être utiles en cas de VS serré ou pour augmenter de quelques points pour débloquer un coffre)
 

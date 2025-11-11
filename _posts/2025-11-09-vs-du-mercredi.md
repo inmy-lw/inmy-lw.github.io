@@ -7,7 +7,7 @@ date:   2025-11-09 22:40:22 +0100
 
 # VS du mercredi (Ere de la science)
 
-<a href="https://youtu.be/SgsCAmUsv5E?t=1115" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/SgsCAmUsv5E?t=1120" target="_blank">Vidéo explicative</a>
 
 {% include image.html url="/assets/img/vs/vs_mercredi.webp" description="Actions du VS du mercredi" %}
 
