@@ -1,5 +1,18 @@
-function boostCalc(origine, boost, secretariat) {
-    if (!origine || !boost) {
+function computeBonus(type, secretariat) {
+    if (!secretariat || !type) {
+        return 0;
+    }
+
+    switch (type) {
+        case 'bat':
+            return secretariat === 'dev' ? 50 : 25 ;
+        case 'tech':
+            return secretariat === 'science' ? 50 : 25 ;
+    }
+}
+
+function boostCalc(type, origine, boost, secretariat) {
+    if (!origine || !boost || !type) {
         return '';
     }
 
@@ -10,7 +23,10 @@ function boostCalc(origine, boost, secretariat) {
         hours: originParts[2],
         days: originParts[3]
     });
-    const bonus = +(boost.replace(',', '.')) + +secretariat + 100;
+
+    const secretariatBonus = computeBonus(type, secretariat);
+
+    const bonus = +(boost.replace(',', '.')) + secretariatBonus + 100;
     const result = dureeOrigine.shiftTo('seconds').seconds / (bonus / 100);
     debugger;
     console.log(result);
@@ -36,12 +52,13 @@ $(document).ready(function () {
     });
 
     $('.calcFormInput').on('change', function (t) {
+        const type = $('#type').val();
         const origine = $('#origine').val();
         const boost = $('#boost').val();
         const secretariat = $('#secretariat').val();
 
-        $('#result').text(boostCalc(origine, boost, secretariat));
+        $('#result').text(boostCalc(type, origine, boost, secretariat));
     });
 
-    $('#result').text(boostCalc($('#origine').val(), $('#boost').val(), $('#secretariat').val()));
+    $('#result').text(boostCalc($('#type').val(), $('#origine').val(), $('#boost').val(), $('#secretariat').val()));
 });
