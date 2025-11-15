@@ -23,16 +23,16 @@ date:   2025-11-09 22:40:22 +0100
 
 ## Badge de valeur
 
-{% include image.html url="/assets/img/screens/badge_valeur.webp" description="Badges de valeur" %}
+{% include image.html url="/assets/img/vs/vs_mercredi/badge_valeur.webp" description="Badges de valeur" %}
 
-{% include image.html url="/assets/img/screens/obtention_badge_valeur.webp" description="Obtenir des badges de valeur dans les coffres du VS" %}
+{% include image.html url="/assets/img/vs/vs_mercredi/obtention_badge_valeur.webp" description="Obtenir des badges de valeur dans les coffres du VS" %}
 
-{% include image.html url="/assets/img/screens/utilisation_badge_valeur.webp" description="Utilisation des badges de valeur dans les centres technologiques" %}
+{% include image.html url="/assets/img/vs/vs_mercredi/utilisation_badge_valeur.webp" description="Utilisation des badges de valeur dans les centres technologiques" %}
 
 ## Coffre de Composant de Drone
 
-{% include image.html url="/assets/img/screens/coffres_composants_drone.webp" description="Coffres de composant de drone à ouvrir" %}
+{% include image.html url="/assets/img/vs/vs_mercredi/coffres_composants_drone.webp" description="Coffres de composant de drone à ouvrir" %}
 
-{% include image.html url="/assets/img/screens/composants_drone.webp" description="Utilisation des composants de drone" %}
+{% include image.html url="/assets/img/vs/vs_mercredi/composants_drone.webp" description="Utilisation des composants de drone" %}
 
 Seule l'ouverture des coffres est comptabilisée pour le VS, donc les composants peuvent être utilisés n'importe quand.
