@@ -20,15 +20,22 @@ date:   2025-11-09 23:00:22 +0100
 |                Utiliser 1 Point de Données de Combat du Drone                |                                                         Explication plus bas                                                          |
 |                          Utiliser 1 Pièce de Drone                           |                                                         Explication plus bas                                                          |
 | Collecter 100 de Nourriture<br/>Collecter 100 de Fer<br/>Collecter 60 Pièces | Envoi des teams en minage (depuis le dimanche soir mais le retour doit être prévu après {{site.heure_bascule}}) puis toute la journée |
+|        Pour 1 Matériau de Puce premium obtenu dans un Coffre de Puce         |                                          Ouvrir les coffres de puces (description plus bas)                                           |
 
 ## Point de Données de Combat du Drone et Pièces de drone
 Il faut utiliser ces points
 
-{% include image.html url="/assets/img/screens/pieces_drone.webp" description="Points de données de combat et pièces de drone" %}
+{% include image.html url="/assets/img/vs/vs_lundi/pieces_drone.webp" description="Points de données de combat et pièces de drone" %}
 
 Dans cet onglet du drone
 
-{% include image.html url="/assets/img/screens/points_drone.webp" description="Amélioration du drone le lundi" %}
+{% include image.html url="/assets/img/vs/vs_lundi/points_drone.webp" description="Amélioration du drone le lundi" %}
+
+## Coffres de Puce
+
+Ce sont les nouveaux coffres arrivés récemment qui permettent d'alimenter l'EXP de Boost de Combat du drone.
+
+{% include image.html url="/assets/img/vs/vs_lundi/coffres_puces.webp" description="Coffres de Puce de drone" %}
 
 ## Si besoin au cas par cas
 
