@@ -32,10 +32,10 @@ Pour préparer la journée du mercredi :
 
 On en obtient en le rafraîchissant avec les contrats commerciaux (les mêmes donnés et gagnés grâce au train).
 
-{% include image.html url="/assets/img/screens/camion_ur.webp" description="Obtenir des camions UR" %}
+{% include image.html url="/assets/img/vs/vs_mardi/camion_ur.webp" description="Obtenir des camions UR" %}
 
 ## Tâche secrète UR
 
 On en obtient en rafraîchissant avec les ordres secrets.
 
-{% include image.html url="/assets/img/screens/tache_ur.webp" description="Obtenir des tâches secrètes UR" %}
+{% include image.html url="/assets/img/vs/vs_mardi/tache_ur.webp" description="Obtenir des tâches secrètes UR" %}
