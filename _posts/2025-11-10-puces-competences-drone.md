@@ -18,7 +18,7 @@ niveau de rareté est élevé, plus le bonus est important.
 
 Monter rapidement le bâtiment au **niveau 20** pour débloquer la fabrication des Puces de Compétence UR.
 
-Obtenez rapidement un **ensemble complet de Puces de Compétence UR.
+Obtenez rapidement un **ensemble complet de Puces de Compétence UR**.
 
 Utilisez les SSR pour monter de niveau le Boost de Combat.
 
@@ -123,6 +123,12 @@ Compétence.
         </td>
     </tr>
 </table>
+
+## Obtenir du Matériel de Puce Premium
+
+On peut obtenir du Matériel de Puce Premium dans 3 coffres du VS : Les coffres à 540 000 points, 2 300 000 points et 7 200 000 points.
+
+{% include image.html url="/assets/img/puces/materiel_premium_coffres_vs.webp" description="Enregistrer une base en tant que favoris" %}
 
 ## Source
 
