@@ -15,7 +15,7 @@ date:   2025-11-09 22:20:22 +0100
 
 |                     Tâche                     |                                                                                              Explication                                                                                               |
 |:---------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|            Compléter 1 Tâche Radar            |                                            Economisées depuis la veille.                                                       Economisée depuis la veille                                             |
+|            Compléter 1 Tâche Radar            |                                                                                     Économisées depuis la veille.                                                                                      |
 | Utiliser 1 minute d'Accélération de Formation |                   Utiliser les accélérateurs pour terminer des formations.<br/>A prioriser pendant le créneau `Progression des Unités` pour le [CAA]({% post_url 2025-11-09-caa %})                    |
 |         Former 1 unité de niveau 1-10         | Former des unités. Pour plus de points, utiliser la promotion (plus rapide que la formation).<br/>A prioriser pendant le créneau `Progression des Unités` pour le [CAA]({% post_url 2025-11-09-caa %}) |
 
@@ -28,4 +28,3 @@ date:   2025-11-09 22:20:22 +0100
 | Utiliser 1 minute d'Accélération de Construction |    Principalement le mardi.<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})    |
 |  Utiliser 1 minute d'Accélération de Recherche   | Principalement le mercredi.<br/>A prioriser pendant le créneau `Recherche Technologique` pour le [CAA]({% post_url 2025-11-09-caa %}) |
 |   Augmenter la Puissance Technologique de 1 pt   | Principalement le mercredi.<br/>A prioriser pendant le créneau `Recherche Technologique` pour le [CAA]({% post_url 2025-11-09-caa %}) |
-
