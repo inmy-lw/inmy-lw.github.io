@@ -31,8 +31,8 @@ Pour préparer la journée du vendredi :
 
 ## Fragments de Héros
 Les fragments s'utilisent pour augmenter les grades des héros (leurs étoiles).
-{% include image.html url="/assets/img/screens/fragments_heros.webp" description="Utilisation des fragments de héros" %}
+{% include image.html url="/assets/img/vs/vs_jeudi/fragments_heros.webp" description="Utilisation des fragments de héros" %}
 
 ## Médailles de Compétence
 Elles s'utilisent pour améliorer les compétences des héros (les niveaux de compétences se débloquent en fonction du grade du héros)
-{% include image.html url="/assets/img/screens/medailles_competence.webp" description="Utilisation des médailles de compétences" %}
+{% include image.html url="/assets/img/vs/vs_jeudi/medailles_competence.webp" description="Utilisation des médailles de compétences" %}
