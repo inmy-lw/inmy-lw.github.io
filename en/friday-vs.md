@@ -1,39 +1,38 @@
 ---
 layout: post
 category: VS
-title:  "VS du vendredi"
+title:  "Friday VS"
 lang: en
 rel: friday_vs
 date:   2025-11-09 22:20:22 +0100
 priority: 14
 ---
 
-# VS du vendredi (Mobilisation Totale)
+# Friday VS (Total Mobilization)
 
-<a href="https://youtu.be/SgsCAmUsv5E?t=2580" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/SgsCAmUsv5E?t=2580" target="_blank">Explanatory video</a>
 
-{% include image.html url="/assets/img/vs/vs_vendredi.webp" description="Actions du VS du vendredi" %}
+{% include image.html url="/assets/img/vs/vs_vendredi.webp" description="Friday VS actions" %}
 
-## Explications
+## Explanations
 
-|                     Tâche                     |                                                                                              Explication                                                                                               |
-|:---------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|            Compléter 1 Tâche Radar            |                                                                                     Économisées depuis la veille.                                                                                      |
-| Utiliser 1 minute d'Accélération de Formation |                   Utiliser les accélérateurs pour terminer des formations.<br/>A prioriser pendant le créneau `Progression des Unités` pour le [CAA]({% post_url 2025-11-09-caa %})                    |
-|         Former 1 unité de niveau 1-10         | Former des unités. Pour plus de points, utiliser la promotion (plus rapide que la formation).<br/>A prioriser pendant le créneau `Progression des Unités` pour le [CAA]({% post_url 2025-11-09-caa %}) |
+|                 Task                  |                                                                              Explanation                                                                             |
+|:-------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         Complete 1 Radar Task         |                                                                     Saved since the previous day.                                                                    |
+| Use 1 minute of Training Acceleration |                 Use accelerators to complete training.<br/>Prioritize during the `Unit Progression` slot for the [CAA]({% post_url 2025-11-09-caa %})                |
+|        Train 1 Level 1-10 Unit        |  Train units. For more points, use promotion (faster than training).<br/>Prioritize during the `Unit Progression` slot for the [CAA]({% post_url 2025-11-09-caa %})  |
 
+## At the end of the day
 
-## En fin de journée
+At the end of the day, a game notification may appear reminding you to put up your shield so you can enjoy a peaceful Saturday 😉.
 
-En fin de journée, une notification du jeu peut apparaître pour prévenir de mettre son bouclier pour être en paix le samedi 😉.
+{% include image.html url="/assets/img/vs/vs_vendredi/rappel_bouclier_jeu.webp" description="Reminder for Saturday... You can put up a shield at this time if you want!" %}
 
-{% include image.html url="/assets/img/vs/vs_vendredi/rappel_bouclier_jeu.webp" description="Rappel de la journée du samedi... On peut éventuellement mettre un bouclier à ce moment-là !" %}
+## If necessary on a case-by-case basis (prioritize other days, but these actions can be useful in the event of a close VS or to increase your score by a few points to unlock a chest)
 
-## Si besoin au cas par cas (à prioriser les autres jours, mais ces actions peuvent être utiles en cas de VS serré ou pour augmenter de quelques points pour débloquer un coffre)
-
-|                      Tâche                       |                                                              Explication                                                              |
-|:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-|   Augmenter la Puissance des Bâtiments de 1 pt   |    Principalement le mardi.<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})    |
-| Utiliser 1 minute d'Accélération de Construction |    Principalement le mardi.<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})    |
-|  Utiliser 1 minute d'Accélération de Recherche   | Principalement le mercredi.<br/>A prioriser pendant le créneau `Recherche Technologique` pour le [CAA]({% post_url 2025-11-09-caa %}) |
-|   Augmenter la Puissance Technologique de 1 pt   | Principalement le mercredi.<br/>A prioriser pendant le créneau `Recherche Technologique` pour le [CAA]({% post_url 2025-11-09-caa %}) |
+|                 Task                  |                                                            Explanation                                                            |
+|:-------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+|    Increase Building Power by 1 pt    |          Mainly on Tuesdays.<br/>Prioritize during the `Town Building` slot for the [CAA]({% post_url 2025-11-09-caa %})          |
+| Use 1 minute of Construction Speed Up |          Mainly on Tuesdays.<br/>Prioritize during the `Town Building` slot for the [CAA]({% post_url 2025-11-09-caa %})          |
+|   Use 1 minute of Research Speedup    |      Mainly on Wednesdays.<br/>Prioritize during the `Technology Research` slot for the [CAA]({% post_url 2025-11-09-caa %})      |
+| Increase Technological Power by 1 pt  | Mainly on Wednesdays.<br/>To be prioritized during the `Technological Research` slot for the [CAA]({% post_url 2025-11-09-caa %}) |

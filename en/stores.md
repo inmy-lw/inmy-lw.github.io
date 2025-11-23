@@ -1,60 +1,60 @@
 ---
 layout: post
 category: tips
-title:  "Boutiques"
+title:  "Stores"
 lang: en
 rel: store
 date:   2025-11-09 23:40:22 +0100
 ---
 
-# Boutiques
+# Stores
 
-<a href="https://youtu.be/lcRA_sQTYnM?t=1448" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/lcRA_sQTYnM?t=1448" target="_blank">Explainer video</a>
 
-On accède aux différentes boutiques du jeu en passant par le bouton Alliance > Boutique d'Alliance.
+You can access the different in-game shops via the Alliance button > Alliance Shop.
 
-_Les Coffres de Puce ont été rajoutés après l'édition de la vidéo !_ 😉
+_Skill Chip Chests were added after the video was published!_ 😉
 
-## Diamants
+## Diamonds
 
-On ne prend rien ici ! 😉
+We don't buy anything here! 😉
 
 ## VIP
 
-- 5 min d'Accélération
-- 1h d'Accélération
-- 3h d'Accélération
-- 8h d'Accélération (VIP 10)
+- 5-min Speedup
+- 1h Speedup
+- 3h Speedup
+- 8h Speedup (VIP 10)
 
 ## Alliance
 
-- Fragment de Héros UR Universel
-- Pièces de Drone
-- **Coffre de Puce de Compétence (SR)**
-- 1h d'accélération de Construction
-- 8h d'Accélération de Construction
-- 1h d'Accélération de Formation
-- 8h d'Accélération de Formation
-- 1h d'Accélération des Soins (quand beaucoup de points à dépenser)
-- 8h d'Accélération des Soins (quand beaucoup de points à dépenser)
-- 1h d'Accélération Tech
-- 8h d'Accélération Tech
+- Universal UR Hero Fragment
+- Drone Parts
+- **Skill Chip Chest (SR)**
+- 1h Construction Speedup
+- 8h Construction Speedup
+- 1h Training Speedup
+- 8h Training Speedup
+- 1h Healing Speedup (when you have many points to spend)
+- 8h Healing Speedup (when you have many points to spend)
+- 1h Tech Speedup
+- 8h Tech Speedup
 
-## Honneur
+## Honor
 
-- Plan d'équipement (UR)
+- Equipment Plan (UR)
 
-## Campagne
+## Campaign
 
-- Coffre de Campagne (UR)
-- Coffre de Composant de Drone Niv. 3
-- Fragment de Héros UR Universel
-- Composant de Décoration Universel
-- **Matériel de Puce Basique**
-- **Coffre de Puce de Compétence (SSR)**
-- **Coffre de Puce de Compétence (R)**
-- Pierre d'Amélioration
-- Pièces de Drone
-- 1h d'Accélération
+- Campaign Chest (UR)
+- Level 3 Drone Component Chest
+- Universal UR Hero Fragment
+- Universal Decoration Component
+- **Basic Chip Material**
+- **Skill Chip Chest (SSR)**
+- **Skill Chip Chest (R)**
+- Upgrade Stone
+- Drone Parts
+- 1h Speedup
 
 

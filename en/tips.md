@@ -7,29 +7,29 @@ rel: tips
 date:   2025-11-09 12:00:22 +0100
 ---
 
-# Eviter l'ouverture des cadeaux involontaire
+# Avoid opening gifts by accident
 
-L'ouverture des cadeaux (acceptation de la fin de construction d'un bâtiment) rapporte beaucoup de points pour le VS. Il faut donc avoir un maximum de cadeaux à ouvrir le mardi. Il existe un paramètre pour prévenir cette ouverture de cadeaux :
+Opening gifts (accepting the completion of a building) yields a lot of points for the VS. So you want to have as many gifts as possible to open on Tuesday. There is a setting to prevent accidental gift openings:
 
-{% include image.html url="/assets/img/tips/confirmation_ouverture_cadeau.webp" description="Avoir une confirmation lors de l'ouverture d'un cadeau" %}
+{% include image.html url="/assets/img/tips/confirmation_ouverture_cadeau.webp" description="Enable confirmation when opening a gift" %}
 
-Une fois ce paramètre activé, ce popup de confirmation apparaîtra lorsqu'on touchera un cadeau
+Once this setting is enabled, this confirmation popup will appear when you tap a gift
 
-{% include image.html url="/assets/img/tips/popup_confirmation_cadeau.webp" description="Popup de confirmation" %}
+{% include image.html url="/assets/img/tips/popup_confirmation_cadeau.webp" description="Confirmation popup" %}
 
-# Marquer une base
+# Bookmark a base
 
-Pour retrouver une base particulière dans la carte, il faut d'abord l'enregistrer en tant que favoris :
+To find a specific base on the map, you must first save it as a favorite:
 
-{% include image.html url="/assets/img/tips/enregistrer_favoris.webp" description="Enregistrer une base en tant que favoris" %}
+{% include image.html url="/assets/img/tips/enregistrer_favoris.webp" description="Save a base as a favorite" %}
 
-Quelle que soit la catégorie de favoris, pour la retrouver :
+Regardless of the favorites category, to find it again:
 
-{% include image.html url="/assets/img/tips/recherche_favoris.webp" description="Retrouver une base favorite" %}
+{% include image.html url="/assets/img/tips/recherche_favoris.webp" description="Find a favorite base" %}
 
-# Coffres gratuits quotidiens
+# Daily free chests
 
-Il existe deux coffres gratuits pouvant être récupérés tous les jours offrant quelques diamants.
+There are two free chests you can claim every day that give a few diamonds.
 
-{% include image.html url="/assets/img/tips/coffres_gratuits.webp" description="Deux petits coffres offerts quotidiennement" %}
+{% include image.html url="/assets/img/tips/coffres_gratuits.webp" description="Two small daily free chests" %}
 

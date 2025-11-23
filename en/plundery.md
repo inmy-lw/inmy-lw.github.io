@@ -1,36 +1,36 @@
 ---
 layout: post
 category: important
-title:  "Pillages"
+title:  "Plunders"
 lang: en
 ref: plundery
 date:   2025-11-09 23:30:22 +0100
 ---
 
-{% if site.duel_serveur != nil %}
-# Duel interserveur : On ne cible que le **#{{site.duel_serveur}}**
+{% if site.duel_server != nil %}
+# Cross-server duel: Only **#{{site.duel_server}}** is targeted
 {% else %}
-# Pillages interserveurs
+# Cross-server raids
 {% endif %}
 
 <a href="https://youtu.be/AZc6yQTF6b0" target="_blank">Vidéo explicative</a>
 
-**Il est interdit de piller des camions ou des tâches sur notre serveur !**
+**It is forbidden to plunder trucks or tasks on our server!**
 
 
 ## Piller des camions
 
-**Toujours garder cochée la case _Filtrer les camions de votre Zone de guerre_**
+**Always keep the box checked _Filter trucks from your War Zone_**
 {% include image.html url="/assets/img/screens/pillage_camion.webp" description="Chercher des camions sur un autre serveur" %}
 
 ## Piller des tâches secrètes
 
-Une fois sur un serveur adverse (accessible en passant par les camions), il est possible de piller des tâches secrètes.
+Once on an enemy server (accessible via trucks), it is possible to plunder secret tasks.
 {% include image.html url="/assets/img/screens/pillages_taches.webp" description="Tâches secrètes dans une vue monde" %}
 
-Les UR (en orange sur la carte) rapportent plus de ressources ! ;)
+URs (shown in orange on the map) yield more resources! ;)
 
-Une fois qu'on a trouvé une jolie tâche qui rapporte beaucoup, on en fait profiter les copains en partageant dans le chat ! :)
-{% include image.html url="/assets/img/screens/partage_tache.webp" description="Partage d'une tâche secrète" %}
+Once you've found a nice task that yields a lot, share it with your friends in the chat! :)
+{% include image.html url="/assets/img/screens/partage_tache.webp" description="Sharing a secret task" %}
 
-Pour éviter de trop polluer le chat, on essaie de partager que des tâches UR de niveau 3+ (dans l'exemple la tâche UR est une tâche de niveau 5).
+To avoid cluttering up the chat, try to only share UR tasks that are level 3+ (in the example, the UR task is a level 5 task).

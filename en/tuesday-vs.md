@@ -1,44 +1,44 @@
 ---
 layout: post
 category: VS
-title:  "VS du mardi"
+title:  "Tuesday VS"
 lang: en
 rel: tuesday_vs
 date:   2025-11-09 22:50:22 +0100
 priority: 11
 ---
 
-# VS du mardi (Expansion de base)
+# Tuesday VS (Base Expansion)
 
-<a href="https://youtu.be/SgsCAmUsv5E?t=511" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/SgsCAmUsv5E?t=511" target="_blank">Explainer video</a>
 
-{% include image.html url="/assets/img/vs/vs_mardi.webp" description="Actions du VS du mardi" %}
+{% include image.html url="/assets/img/vs/vs_mardi.webp" description="Tuesday VS tasks" %}
 
-## Explications
+## Explanation
 
-|                      Tâche                       |                                                                             Explication                                                                             |
+|                      Task                        |                                                                              Explanation                                                                              |
 |:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Utiliser 1 minute d'Accélération de Construction |                                 A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})                                  |
-|   Augmenter la Puissance des Bâtiments de 1 pt   | Ouverture des cadeaux accumulés depuis la semaine précédente<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %}) |
-|      Envoyer un Camion Commercial UR 1 fois      |                                                                        Explication plus bas                                                                         |
-|           Effectuer 1 Tâche Secrète UR           |                                                                        Explication plus bas                                                                         |
-|               Recruter 1 Survivant               |                                                                          Depuis la taverne                                                                          |
+| Use 1 minute of Construction Speedup             | Prioritize during the `City Building` window for the [CAA]({% post_url 2025-11-09-caa %}).                                                                           |
+| Increase Building Power by 1 pt                  | Open the gifts saved from the previous week.<br/>Prioritize during the `City Building` window for the [CAA]({% post_url 2025-11-09-caa %}).                          |
+| Send a UR Trade Truck once                       | See explanation below.                                                                                                                                               |
+| Perform 1 UR Secret Task                         | See explanation below.                                                                                                                                               |
+| Recruit 1 Survivor                               | From the tavern.                                                                                                                                                      |
 
-## En plus
+## Additionally
 
-Pour préparer la journée du mercredi :
-- On ne touche pas à ses tâches radar, on les garde pour le VS du mercredi (calculer tout de même pour ne pas bloquer le compteur si vous êtes au taquet).
+To prepare for Wednesday:
+- Don't touch your radar tasks; keep them for Wednesday's VS (still keep an eye on the counter so you don't cap it if you're at the limit).
 
-<a href="https://youtu.be/ugD7PMJw214?t=798" target="_blank">Explication vidéo super claire</a>
+<a href="https://youtu.be/ugD7PMJw214?t=798" target="_blank">Super clear video explanation</a>
 
-## Camion Commercial UR
+## UR Trade Truck
 
-On en obtient en le rafraîchissant avec les contrats commerciaux (les mêmes donnés et gagnés grâce au train).
+You obtain them by refreshing using trade contracts (the same ones given and earned via the train).
 
-{% include image.html url="/assets/img/vs/vs_mardi/camion_ur.webp" description="Obtenir des camions UR" %}
+{% include image.html url="/assets/img/vs/vs_mardi/camion_ur.webp" description="Get UR Trade Trucks" %}
 
-## Tâche secrète UR
+## UR Secret Task
 
-On en obtient en rafraîchissant avec les ordres secrets.
+You obtain them by refreshing using secret orders.
 
-{% include image.html url="/assets/img/vs/vs_mardi/tache_ur.webp" description="Obtenir des tâches secrètes UR" %}
+{% include image.html url="/assets/img/vs/vs_mardi/tache_ur.webp" description="Get UR secret tasks" %}

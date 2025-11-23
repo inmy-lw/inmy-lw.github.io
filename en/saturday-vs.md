@@ -1,49 +1,49 @@
 ---
 layout: post
 category: [important, VS]
-title:  "VS du samedi"
+title:  "Saturday VS"
 lang: en
 rel: saturday_vs
 date:   2025-11-09 22:10:22 +0100
 priority: 15
 ---
 
-# VS du samedi (bataille générale)
-- BOUCLIER !!! (de {{site.heure_bascule}} à {{site.heure_bascule}}, heure locale) 
+# Saturday VS (general battle)
+- SHIELD!!! (from {{site.heure_bascule}} to {{site.heure_bascule}}, local time)
 
-<a href="https://youtu.be/SgsCAmUsv5E?t=3501" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/SgsCAmUsv5E?t=3501" target="_blank">Explanatory video</a>
 
 {% include image.html url="/assets/img/vs/vs_samedi.webp" description="Actions du VS du samedi" %}
 
-## Explications
+## Explanations
 
-|                         Tâche                         |                               Explication                                |
-|:-----------------------------------------------------:|:------------------------------------------------------------------------:|
-|        Envoyer un Camion Commercial UR 1 fois         | Explication dans le [VS du mardi]({% post_url 2025-11-09-vs-du-mardi %}) |
-|              Utiliser 1 Tâche Secrète UR              | Explication dans le [VS du mardi]({% post_url 2025-11-09-vs-du-mardi %}) |
-|       Utiliser 1 minute d'Accélération de Soin        |           Utiliser les accélérateurs pour soigner des unités.            |
-| Chaque Unité de Niv. 1-10 tuée dans l'Alliance rivale |               Unité tuée dans l'alliance adversaire du VS.               |
-|            Chaque Unité de Niv. 1-10 tuée             |                            Unité adverse tuée                            |
-|           Chaque Unité de Niv. 1-10 Perdue            |                         Unité personnelle perdue                         |
+|                       Task                        |                             Explanation                             |
+|:-------------------------------------------------:|:-------------------------------------------------------------------:|
+|         Send a UR Commercial Truck 1 time         | Explanation in [Tuesday VS]({% post_url 2025-11-09-vs-du-mardi %})  |
+|               Use 1 UR Secret Task                | Explanation in [Tuesday's VS]({% post_url 2025-11-09-tuesday-vs %}) |
+|       Use 1 minute of Healing Acceleration        |                   Use accelerators to heal units.                   |
+| Each Level 1-10 Unit killed in the rival Alliance |           Unit killed in the opposing alliance of the VS.           |
+|            Each Level 1-10 Unit killed            |                        Opposing unit killed                         |
+|             Each Level 1-10 Unit Lost             |                         Personal unit lost                          |
 
-## Si besoin au cas par cas (à prioriser les autres jours, mais ces actions peuvent être utiles en cas de VS serré ou pour augmenter de quelques points pour débloquer un coffre)
+## If necessary on a case-by-case basis (prioritize other days, but these actions may be useful in the event of a close VS or to increase your score by a few points to unlock a chest)
 
-|                      Tâche                       |                                                              Explication                                                              |
-|:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-| Utiliser 1 minute d'Accélération de Construction |    Principalement le mardi.<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})    |
-|  Utiliser 1 minute d'Accélération de Recherche   | Principalement le mercredi.<br/>A prioriser pendant le créneau `Recherche Technologique` pour le [CAA]({% post_url 2025-11-09-caa %}) |
-|  Utiliser 1 minute d'Accélération de Formation   | Principalement le vendredi.<br/>A prioriser pendant le créneau `Progression des Unités` pour le [CAA]({% post_url 2025-11-09-caa %})  |
+|                 Task                  |                                                       Explanation                                                        |
+|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
+| Use 1 minute of Construction Speedup  |     Mainly on Tuesdays.<br/>Prioritize during the `City Building` slot for the [CAA]({% post_url 2025-11-09-caa %})      |
+|    Use 1 minute of Research Boost     | Mainly on Wednesdays.<br/>Prioritize during the `Technology Research` slot for the [CAA]({% post_url 2025-11-09-caa %})  |
+| Use 1 minute of Training Acceleration | Mainly on Fridays.<br/>To be prioritized during the `Unit Progression` slot for the [CAA]({% post_url 2025-11-09-caa %}) |
 
 
-## Où trouver les boucliers
+## Where to find shields
 
-**Note importante : les boucliers ne se cumulent pas... Ils se remplacent, donc calculez bien vos durées de bouclier ;)**
+**Important note: shields do not stack... They replace each other, so calculate your shield durations carefully ;)**
 
 {% include image.html url="/assets/img/vs/vs_samedi/accueil_alliance.webp" description="Accéder à la boutique d'alliance depuis le menu d'alliance" %}
 
 {% include image.html url="/assets/img/vs/vs_samedi/boutique_alliance.webp" description="Obtenir des boucliers dans la boutique d'alliance" %}
 
-## Appliquer un bouclier
+## Apply shield
 
 {% include image.html url="/assets/img/vs/vs_samedi/bouclier.webp" description="Placer un bouclier après avoir sélectionné sa base dans la vue monde" %}
 
