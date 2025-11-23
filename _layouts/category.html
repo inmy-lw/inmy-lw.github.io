@@ -11,8 +11,9 @@ layout: default
             <p>{{ page.description }}</p>
         {% endif %}
     </section>
-     
-    {% for post in site.posts %}
+
+    {% assign posts=site.pages | where:"layout", "post" | where:"lang", page.lang | sort: "priority" %}
+    {% for post in posts %}
     <section class="snippet snippet_{{ post.id | slugify: "ascii" }}">
             {% for category in post.category %}
                 {% if page.category contains category %}

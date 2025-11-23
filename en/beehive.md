@@ -1,0 +1,30 @@
+---
+layout: post
+category: important
+title:  "Ruche"
+lang: en
+rel: behive
+date:   2025-11-09 23:29:22 +0100
+---
+# Revenir dans la ruche
+Pour revenir dans la ruche, il faut profiter du TP offert le samedi pendant le VS.
+
+{% include image.html url="/assets/img/screens/tuto_tp_vs.webp" description="Utilisation du TP du VS" %}
+
+Une fois ce jour passé, il faut acheter un TP avancé dans la boutique d'alliance pour revenir s'aligner dans la ruche.
+
+{% include image.html url="/assets/img/screens/boutique_alliance_tp.webp" description="Boutique d'alliance pour acheter des TP" %}
+
+# Disposition de la ruche
+
+{% include image.html url="/assets/img/screens/ruche.webp" description="Disposition de la ruche autour du maréchal" %}
+
+En Jaune sont disposés les R4 & R5.
+
+En Bleu, les plus forts autres que R4 & R5.
+
+En vert, tous les autres.
+
+# Pourquoi du comment
+
+Cette disposition permet aux R4 et R4 d'avoir moins de distance à parcourir pour aller au maréchal et donc de proposer plus de rallyes. Les R4 & R5 proposent dans leurs rallyes un boost d'attaque de `+2,5%` ou `+5%` qui nous profitent à tous ! 😉

@@ -62,3 +62,7 @@ $(document).ready(function () {
 
     $('#result').text(boostCalc($('#type').val(), $('#origine').val(), $('#boost').val(), $('#secretariat').val()));
 });
+
+addEventListener("hashchange", (event) => {
+
+})

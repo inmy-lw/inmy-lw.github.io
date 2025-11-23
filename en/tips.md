@@ -1,0 +1,35 @@
+---
+layout: post
+category: tips
+title:  "Tips"
+lang: en
+rel: tips
+date:   2025-11-09 12:00:22 +0100
+---
+
+# Eviter l'ouverture des cadeaux involontaire
+
+L'ouverture des cadeaux (acceptation de la fin de construction d'un bâtiment) rapporte beaucoup de points pour le VS. Il faut donc avoir un maximum de cadeaux à ouvrir le mardi. Il existe un paramètre pour prévenir cette ouverture de cadeaux :
+
+{% include image.html url="/assets/img/tips/confirmation_ouverture_cadeau.webp" description="Avoir une confirmation lors de l'ouverture d'un cadeau" %}
+
+Une fois ce paramètre activé, ce popup de confirmation apparaîtra lorsqu'on touchera un cadeau
+
+{% include image.html url="/assets/img/tips/popup_confirmation_cadeau.webp" description="Popup de confirmation" %}
+
+# Marquer une base
+
+Pour retrouver une base particulière dans la carte, il faut d'abord l'enregistrer en tant que favoris :
+
+{% include image.html url="/assets/img/tips/enregistrer_favoris.webp" description="Enregistrer une base en tant que favoris" %}
+
+Quelle que soit la catégorie de favoris, pour la retrouver :
+
+{% include image.html url="/assets/img/tips/recherche_favoris.webp" description="Retrouver une base favorite" %}
+
+# Coffres gratuits quotidiens
+
+Il existe deux coffres gratuits pouvant être récupérés tous les jours offrant quelques diamants.
+
+{% include image.html url="/assets/img/tips/coffres_gratuits.webp" description="Deux petits coffres offerts quotidiennement" %}
+

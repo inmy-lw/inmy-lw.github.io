@@ -1,0 +1,36 @@
+---
+layout: post
+category: important
+title:  "Pillages"
+lang: en
+ref: plundery
+date:   2025-11-09 23:30:22 +0100
+---
+
+{% if site.duel_serveur != nil %}
+# Duel interserveur : On ne cible que le **#{{site.duel_serveur}}**
+{% else %}
+# Pillages interserveurs
+{% endif %}
+
+<a href="https://youtu.be/AZc6yQTF6b0" target="_blank">Vidéo explicative</a>
+
+**Il est interdit de piller des camions ou des tâches sur notre serveur !**
+
+
+## Piller des camions
+
+**Toujours garder cochée la case _Filtrer les camions de votre Zone de guerre_**
+{% include image.html url="/assets/img/screens/pillage_camion.webp" description="Chercher des camions sur un autre serveur" %}
+
+## Piller des tâches secrètes
+
+Une fois sur un serveur adverse (accessible en passant par les camions), il est possible de piller des tâches secrètes.
+{% include image.html url="/assets/img/screens/pillages_taches.webp" description="Tâches secrètes dans une vue monde" %}
+
+Les UR (en orange sur la carte) rapportent plus de ressources ! ;)
+
+Une fois qu'on a trouvé une jolie tâche qui rapporte beaucoup, on en fait profiter les copains en partageant dans le chat ! :)
+{% include image.html url="/assets/img/screens/partage_tache.webp" description="Partage d'une tâche secrète" %}
+
+Pour éviter de trop polluer le chat, on essaie de partager que des tâches UR de niveau 3+ (dans l'exemple la tâche UR est une tâche de niveau 5).

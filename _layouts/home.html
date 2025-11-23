@@ -7,8 +7,9 @@ layout: default
         <h1>{{ site.title }}</h1>
         <p>{{ site.description }}</p>
     </section>
-    
-    {% for post in site.posts %}
+
+    {% assign posts=site.pages | where:"layout", "post" | where:"lang", page.lang %}
+    {% for post in posts %}
         <section class="snippet snippet_{{ post.id | slugify: "ascii" }}">
             {% include snippet.html post=post %}
         </section>

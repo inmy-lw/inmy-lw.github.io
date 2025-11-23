@@ -1,4 +1,14 @@
 - title: Important #Menu item title.
+  translation:
+    - lang: fr
+      value: Important
+    - lang: en
+      value: Important
+    - lang: de
+      value: Wichtig
+    - lang: it
+      value: Importante
+  tag: important
   url: category/important.html #Menu item url.
   icon: assets/img/icons/important.svg #Menu item icon.
   hue: "var(--c-themeHueRed)" #Menu item hue - see note [1].
