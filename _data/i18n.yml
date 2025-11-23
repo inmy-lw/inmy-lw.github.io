@@ -1,9 +1,10 @@
 t:
+  title: "[INm5] I Need Money 543"
   fr:
-    menu_important: Important
+    subtitle: "Bienvenue dans l'alliance INm5 !"
   en:
-    menu_important: Important
+    subtitle: "Welcome to the INm5 Alliance !"
   de:
-    menu_important: Wichtig
+    subtitle: "Willkommen bei der INm5-Allianz !"
   it:
-    menu_important: Importante
+    subtitle: "Benvenuti nell'alleanza INm5 !"
