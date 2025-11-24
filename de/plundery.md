@@ -1,36 +1,36 @@
 ---
 layout: post
 category: important
-title:  "Pillages"
+title:  "Plünderungen"
 lang: de
 ref: plundery
 date:   2025-11-09 23:30:22 +0100
 ---
 
 {% if site.duel_serveur != nil %}
-# Duel interserveur : On ne cible que le **#{{site.duel_serveur}}**
+# Server‑Duell: Wir peilen nur die **#{{site.duel_serveur}}** an
 {% else %}
-# Pillages interserveurs
+# Serverübergreifende Plünderungen
 {% endif %}
 
-<a href="https://youtu.be/AZc6yQTF6b0" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/AZc6yQTF6b0" target="_blank">Erklärvideo</a>
 
-**Il est interdit de piller des camions ou des tâches sur notre serveur !**
+**Es ist verboten, auf unserem Server LKWs oder Aufträge zu plündern!**
 
 
-## Piller des camions
+## LKWs plündern
 
-**Toujours garder cochée la case _Filtrer les camions de votre Zone de guerre_**
-{% include image.html url="/assets/img/screens/pillage_camion.webp" description="Chercher des camions sur un autre serveur" %}
+**Lasse immer die Option _LKWs in deiner Kriegszone filtern_ aktiviert.**
+{% include image.html url="/assets/img/screens/pillage_camion.webp" description="LKWs auf einem anderen Server suchen" %}
 
-## Piller des tâches secrètes
+## Geheimaufträge plündern
 
-Une fois sur un serveur adverse (accessible en passant par les camions), il est possible de piller des tâches secrètes.
-{% include image.html url="/assets/img/screens/pillages_taches.webp" description="Tâches secrètes dans une vue monde" %}
+Sobald du auf einem gegnerischen Server bist (erreichbar über die LKWs), kannst du Geheimaufträge plündern.
+{% include image.html url="/assets/img/screens/pillages_taches.webp" description="Geheimaufträge in einer Weltansicht" %}
 
-Les UR (en orange sur la carte) rapportent plus de ressources ! ;)
+UR (orange auf der Karte) bringen mehr Ressourcen! ;)
 
-Une fois qu'on a trouvé une jolie tâche qui rapporte beaucoup, on en fait profiter les copains en partageant dans le chat ! :)
-{% include image.html url="/assets/img/screens/partage_tache.webp" description="Partage d'une tâche secrète" %}
+Wenn du einen ertragreichen Auftrag findest, teile ihn im Chat, damit auch die anderen profitieren! :)
+{% include image.html url="/assets/img/screens/partage_tache.webp" description="Teilen eines Geheimauftrags" %}
 
-Pour éviter de trop polluer le chat, on essaie de partager que des tâches UR de niveau 3+ (dans l'exemple la tâche UR est une tâche de niveau 5).
+Um den Chat nicht zu überfluten, teilen wir möglichst nur UR‑Aufträge ab Stufe 3+ (im Beispiel ist der UR‑Auftrag Stufe 5).

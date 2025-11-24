@@ -1,85 +1,85 @@
 ---
 layout: post
 category: events
-title:  "Course Aux Armes (CAA)"
+title:  "Waffenwettrüsten (CAA)"
 lang: de
 ref: caa
 date:   2025-11-09 13:00:22 +0100
 ---
-# Course Aux Armes
+# Waffenwettrüsten
 
-<a href="https://youtu.be/ugD7PMJw214?t=38" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/ugD7PMJw214?t=38" target="_blank">Erklärvideo</a>
 
-La Course Aux Armes (CAA) est un événement régulier qu'on trouve dans la liste des événements : 
+Das Waffenwettrüsten (CAA) ist ein regelmäßiges Event, das du in der Event‑Liste findest:
 
-![Bouton evenements](/assets/img/screens/btn_evenements.webp)
+![Event‑Button](/assets/img/screens/btn_evenements.webp)
 
-## But
+## Ziel
 
-Obtenir tous les jours les 18 coffres de récompenses.
+Täglich alle 18 Belohnungskisten erhalten.
 
-{% include image.html url="/assets/img/caa/caa.webp" description="Ecran du CAA" %}
+{% include image.html url="/assets/img/caa/caa.webp" description="CAA‑Bildschirm" %}
 
-## Connaître les différents horaires des créneaux
+## Uhrzeiten der Zeitfenster kennen
 
-{% include image.html url="/assets/img/caa/caa_calendrier.webp" description="Bouton calendrier permettant de connaître les horaires des créneaux" %}
+{% include image.html url="/assets/img/caa/caa_calendrier.webp" description="Kalender‑Button, um die Zeiten der Zeitfenster einzusehen" %}
 
-# Différents créneaux
+# Verschiedene Zeitfenster
 
-## Avancement du Héros
+## Heldenfortschritt
 
-{% include image.html url="/assets/img/caa/caa_heros.webp" description="Créneau Avancement du Héros du CAA" %}
+{% include image.html url="/assets/img/caa/caa_heros.webp" description="Zeitfenster Heldenfortschritt des CAA" %}
 
-Pour obtenir les 12000 points nécéssaires pour obtenir les 3 coffres, ça représente :
+Um die 12000 Punkte für die 3 Kisten zu erhalten, entspricht das:
 
-| Action                     | Quantité requise                                                                                                  |
-|----------------------------|-------------------------------------------------------------------------------------------------------------------|
-| 1 Recrutement de Héros     | 30 tickets à utiliser (12000 / 400 = 30)                                                                          |
-| Utiliser 2000 EXP de Héros | 24M EXP de héros (12000 * 2000 = 24M)<br/>Pour améliorer un héros Lvl 93 (vers Lvl 94), il faut 24M Exp de héros. |
+| Aktion                      | Erforderliche Menge                                                                                                  |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------|
+| 1 Heldenrekrutierung       | 30 Tickets verwenden (12000 / 400 = 30)                                                                              |
+| 2000 Helden‑EXP verwenden  | 24 Mio. Helden‑EXP (12000 × 2000 = 24 Mio.)<br/>Ein Held von Lvl 93 → 94 benötigt etwa 24 Mio. Helden‑EXP.         |
 
-## Bâtiment de la Ville
+## Stadtgebäude
 
-{% include image.html url="/assets/img/caa/caa_batiments.webp" description="Créneau Bâtiment de la Ville du CAA" %}
+{% include image.html url="/assets/img/caa/caa_batiments.webp" description="Zeitfenster Stadtgebäude des CAA" %}
 
-Pour obtenir les 24000 points nécéssaires pour obtenir les 3 coffres, ça représente :
+Um die 24000 Punkte für die 3 Kisten zu erhalten, entspricht das:
 
-| Action                                           | Quantité requise                             |
-|--------------------------------------------------|----------------------------------------------|
-| Augmenter la Puissance des Bâtiments de 1 pt     | 24000 points à obtenir                       |
-| Utiliser 1 minute d'Accélaration de Construction | 2400 minutes = 40 heures (24000 / 10 = 2400) |
-
-
-## Progression des Unités
-
-{% include image.html url="/assets/img/caa/caa_unites.webp" description="Créneau Progression des Unités du CAA" %}
-
-Pour obtenir les 60000 points nécéssaires pour obtenir les 3 coffres, ça représente :
-
-| Action                                        | Quantité requise                                     |
-|-----------------------------------------------|------------------------------------------------------|
-| Former 1 unité de niveau 7                    | 2728 unités niveau 7 à former (60000 / 22 = 2727,27) |
-| Utiliser 1 minute d'Accélération de Formation | 6000 minutes = 100 heures (60000 / 10 = 6000)        |
-
-## Recherche Technologique
-
-{% include image.html url="/assets/img/caa/caa_techno.webp" description="Créneau Recherche Technologique du CAA" %}
-
-Pour obtenir les 24000 points nécéssaires pour obtenir les 3 coffres, ça représente :
-
-| Action                                        | Quantité requise                             |
-|-----------------------------------------------|----------------------------------------------|
-| Augmenter la Puissance Technologique de 1 pt  | 24000 points à augmenter                     |
-| Utiliser 1 minute d'Accélération de Recherche | 2400 minutes = 40 heures (24000 / 10 = 2400) |
+| Aktion                                           | Erforderliche Menge                             |
+|--------------------------------------------------|-------------------------------------------------|
+| Gebäude‑Kampfkraft um 1 Pt erhöhen               | 24000 Punkte zu erzielen                        |
+| 1 Minute Bau‑Beschleuniger verwenden             | 2400 Minuten = 40 Stunden (24000 / 10 = 2400)   |
 
 
-## Boost de drône
+## Einheitenfortschritt
 
-{% include image.html url="/assets/img/caa/caa_drone.webp" description="Créneau Boost de Drone du CAA" %}
+{% include image.html url="/assets/img/caa/caa_unites.webp" description="Zeitfenster Einheitenfortschritt des CAA" %}
 
-Pour obtenir les 30000 points nécéssaires pour obtenir les 3 coffres, ça représente :
+Um die 60000 Punkte für die 3 Kisten zu erhalten, entspricht das:
 
-| Action                                           | Quantité requise                     |
-|--------------------------------------------------|--------------------------------------|
-| Utiliser 10 points de Données de Combat de Drone | 300 000 points (10 * 30000 = 300000) |
-| Utiliser 1 Endurance                             | 300 Endurance (30000 / 100 = 300)    |
+| Aktion                                        | Erforderliche Menge                                      |
+|-----------------------------------------------|-----------------------------------------------------------|
+| 1 Einheit der Stufe 7 ausbilden              | 2728 Einheiten Stufe 7 ausbilden (60000 / 22 = 2727,27)    |
+| 1 Minute Ausbildungs‑Beschleuniger verwenden  | 6000 Minuten = 100 Stunden (60000 / 10 = 6000)            |
+
+## Technologie‑Forschung
+
+{% include image.html url="/assets/img/caa/caa_techno.webp" description="Zeitfenster Technologie‑Forschung des CAA" %}
+
+Um die 24000 Punkte für die 3 Kisten zu erhalten, entspricht das:
+
+| Aktion                                         | Erforderliche Menge                             |
+|-----------------------------------------------|-------------------------------------------------|
+| Technologie‑Kampfkraft um 1 Pt erhöhen         | 24000 Punkte zu erhöhen                         |
+| 1 Minute Forschungs‑Beschleuniger verwenden    | 2400 Minuten = 40 Stunden (24000 / 10 = 2400)   |
+
+
+## Drohnen‑Boost
+
+{% include image.html url="/assets/img/caa/caa_drone.webp" description="Zeitfenster Drohnen‑Boost des CAA" %}
+
+Um die 30000 Punkte für die 3 Kisten zu erhalten, entspricht das:
+
+| Aktion                                           | Erforderliche Menge                        |
+|--------------------------------------------------|-------------------------------------------|
+| 10 Kampfdatensatz‑Punkte der Drohne verwenden    | 300000 Punkte (10 × 30000 = 300000)        |
+| 1 Ausdauer verwenden                             | 300 Ausdauer (30000 / 100 = 300)           |
 

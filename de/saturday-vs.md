@@ -1,50 +1,50 @@
 ---
 layout: post
 category: [important, VS]
-title:  "VS du samedi"
+title:  "VS am Samstag"
 lang: de
 rel: saturday_vs
 date:   2025-11-09 22:10:22 +0100
 priority: 15
 ---
 
-# VS du samedi (bataille générale)
-- BOUCLIER !!! (de {{site.heure_bascule}} à {{site.heure_bascule}}, heure locale) 
+# VS am Samstag (Allgemeine Schlacht)
+- SCHILD!!! (von {{site.heure_bascule}} bis {{site.heure_bascule}}, Ortszeit)
 
-<a href="https://youtu.be/SgsCAmUsv5E?t=3501" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/SgsCAmUsv5E?t=3501" target="_blank">Erklärvideo</a>
 
-{% include image.html url="/assets/img/vs/vs_samedi.webp" description="Actions du VS du samedi" %}
+{% include image.html url="/assets/img/vs/vs_samedi.webp" description="Aufgaben des VS am Samstag" %}
 
-## Explications
+## Erläuterungen
 
-|                         Tâche                         |                               Explication                                |
-|:-----------------------------------------------------:|:------------------------------------------------------------------------:|
-|        Envoyer un Camion Commercial UR 1 fois         | Explication dans le [VS du mardi]({% post_url 2025-11-09-vs-du-mardi %}) |
-|              Utiliser 1 Tâche Secrète UR              | Explication dans le [VS du mardi]({% post_url 2025-11-09-vs-du-mardi %}) |
-|       Utiliser 1 minute d'Accélération de Soin        |           Utiliser les accélérateurs pour soigner des unités.            |
-| Chaque Unité de Niv. 1-10 tuée dans l'Alliance rivale |               Unité tuée dans l'alliance adversaire du VS.               |
-|            Chaque Unité de Niv. 1-10 tuée             |                            Unité adverse tuée                            |
-|           Chaque Unité de Niv. 1-10 Perdue            |                         Unité personnelle perdue                         |
+|                          Aufgabe                          |                                   Erklärung                                    |
+|:---------------------------------------------------------:|:------------------------------------------------------------------------------:|
+| 1x UR-Handelswagen senden                                 | Erklärung im [VS am Dienstag]({% post_url 2025-11-09-vs-du-mardi %})           |
+| 1 UR-Geheimauftrag verwenden                              | Erklärung im [VS am Dienstag]({% post_url 2025-11-09-vs-du-mardi %})           |
+| 1 Minute Heilungs-Beschleuniger verwenden                 | Beschleuniger nutzen, um Einheiten zu heilen.                                   |
+| Jede Einheit Stufe 1–10, die in der gegnerischen Allianz getötet wird | In der gegnerischen VS‑Allianz getötete Einheit.                      |
+| Jede getötete Einheit Stufe 1–10                          | Getötete gegnerische Einheit                                                   |
+| Jede verlorene Einheit Stufe 1–10                         | Eigene verlorene Einheit                                                       |
 
-## Si besoin au cas par cas (à prioriser les autres jours, mais ces actions peuvent être utiles en cas de VS serré ou pour augmenter de quelques points pour débloquer un coffre)
+## Bei Bedarf fallweise (an anderen Tagen priorisieren; hilfreich bei knappen VS oder um ein paar Punkte für eine Kiste zu holen)
 
-|                      Tâche                       |                                                              Explication                                                              |
-|:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-| Utiliser 1 minute d'Accélération de Construction |    Principalement le mardi.<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})    |
-|  Utiliser 1 minute d'Accélération de Recherche   | Principalement le mercredi.<br/>A prioriser pendant le créneau `Recherche Technologique` pour le [CAA]({% post_url 2025-11-09-caa %}) |
-|  Utiliser 1 minute d'Accélération de Formation   | Principalement le vendredi.<br/>A prioriser pendant le créneau `Progression des Unités` pour le [CAA]({% post_url 2025-11-09-caa %})  |
+|                         Aufgabe                          |                                                                 Erklärung                                                                 |
+|:--------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
+| 1 Minute Bau-Beschleuniger verwenden                      | Hauptsächlich am Dienstag.<br/>Im Zeitfenster `Stadtgebäude` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren                   |
+| 1 Minute Forschungs-Beschleuniger verwenden               | Hauptsächlich am Mittwoch.<br/>Im Zeitfenster `Technologie-Forschung` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren          |
+| 1 Minute Ausbildungs-Beschleuniger verwenden              | Hauptsächlich am Freitag.<br/>Im Zeitfenster `Einheitenfortschritt` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren            |
 
 
-## Où trouver les boucliers
+## Wo findet man Schilde
 
-**Note importante : les boucliers ne se cumulent pas... Ils se remplacent, donc calculez bien vos durées de bouclier ;)**
+**Wichtiger Hinweis: Schilde stapeln sich nicht … sie ersetzen sich. Also plane die Schilddauer gut ;)**
 
-{% include image.html url="/assets/img/vs/vs_samedi/accueil_alliance.webp" description="Accéder à la boutique d'alliance depuis le menu d'alliance" %}
+{% include image.html url="/assets/img/vs/vs_samedi/accueil_alliance.webp" description="Über das Allianzen-Menü zum Allianz-Shop gehen" %}
 
-{% include image.html url="/assets/img/vs/vs_samedi/boutique_alliance.webp" description="Obtenir des boucliers dans la boutique d'alliance" %}
+{% include image.html url="/assets/img/vs/vs_samedi/boutique_alliance.webp" description="Schilde im Allianz-Shop erhalten" %}
 
-## Appliquer un bouclier
+## Schild anwenden
 
-{% include image.html url="/assets/img/vs/vs_samedi/bouclier.webp" description="Placer un bouclier après avoir sélectionné sa base dans la vue monde" %}
+{% include image.html url="/assets/img/vs/vs_samedi/bouclier.webp" description="Einen Schild setzen, nachdem die eigene Basis in der Weltansicht ausgewählt wurde" %}
 
-{% include image.html url="/assets/img/vs/vs_samedi/choix_bouclier.webp" description="Ecran de sélection du bouclier à appliquer" %}
+{% include image.html url="/assets/img/vs/vs_samedi/choix_bouclier.webp" description="Auswahlbildschirm für den anzuwendenden Schild" %}

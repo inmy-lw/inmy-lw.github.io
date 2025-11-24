@@ -1,51 +1,51 @@
 ---
 layout: post
 category: tips
-title:  "Outils"
+title:  "Werkzeuge"
 lang: de
 ref: tips
 date:   2025-11-08 00:00:00 +0100
 ---
 
-# Calcul des durées
+# Dauern berechnen
 
-## Trouver son boost de profil pour les bâtiments
+## Eigenen Profil-Boost für Gebäude finden
 
-Il est possible de trouver le boost disponible pour son profil depuis un menu du QG.
+Den für dein Profil verfügbaren Boost findest du über ein Menü im HQ.
 
-{% include image.html url="/assets/img/tips/buff_profils.webp" description="Récapitulatif des différents boosts pour son profil" %}
+{% include image.html url="/assets/img/tips/buff_profils.webp" description="Übersicht der verschiedenen Profil‑Boosts" %}
 
-## Trouver son boost de profil pour la recherche tech
+## Eigenen Profil-Boost für Tech‑Forschung finden
 
-Le boost calculé pour la recherche tech se trouve directement sur le centre tech
+Der berechnete Boost für die Tech‑Forschung steht direkt am Tech‑Zentrum.
 
-{% include image.html url="/assets/img/tips/boost_centre_tech.webp" description="Trouver le boost de recherche en fonction du centre tech" %}
+{% include image.html url="/assets/img/tips/boost_centre_tech.webp" description="Forschungs‑Boost abhängig vom Tech‑Zentrum finden" %}
 
-## Trouver le temps d'origine de sa construction (bâtiment ou tech)
+## Ursprungszeit deiner Konstruktion (Gebäude oder Tech) finden
 
-Pour calculer les temps finaux, il faut pouvoir repérer le temps de construction original :
+Um die Endzeiten zu berechnen, musst du die ursprüngliche Bauzeit kennen:
 
-{% include image.html url="/assets/img/tips/temps_origine.webp" description="Temps d'origine d'une construction (bâtiment ou tech)" %}
+{% include image.html url="/assets/img/tips/temps_origine.webp" description="Ursprungszeit einer Konstruktion (Gebäude oder Tech)" %}
 
-## Estimer le temps de construction de bâtiments
+## Bauzeit von Gebäuden abschätzen
 
 <form action="javascript:void(0)" name="form" id="calcForm">
 </form>
 <table>
     <thead>
         <tr>
-            <th>Type de recherche</th>
-            <th>Temps d'origine (jours:heures:minutes:secondes)</th>
-            <th>Boost profil (%)</th>
-            <th>Secrétariat</th>
-            <th>Estimation temps final</th>
+            <th>Art</th>
+            <th>Ursprungszeit (Tage:Stunden:Minuten:Sekunden)</th>
+            <th>Profil‑Boost (%)</th>
+            <th>Sekretariat</th>
+            <th>Schätzung Endzeit</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
                 <select id="type" name="type" class="calcFormInput">
-                    <option value="bat">Bâtiment</option>
+                    <option value="bat">Gebäude</option>
                     <option value="tech">Tech</option>
                 </select>
             </td>
@@ -57,9 +57,9 @@ Pour calculer les temps finaux, il faut pouvoir repérer le temps de constructio
             </td>
             <td>
                 <select id="secretariat" name="secretariat" class="calcFormInput">
-                    <option value="">Aucun</option>
-                    <option value="science">Science</option>
-                    <option value="dev">Développement</option>
+                    <option value="">Keins</option>
+                    <option value="science">Wissenschaft</option>
+                    <option value="dev">Entwicklung</option>
                 </select>
             </td>
             <td>

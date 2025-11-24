@@ -1,41 +1,41 @@
 ---
 layout: post
 category: VS
-title:  "VS du jeudi"
+title:  "VS am Donnerstag"
 lang: de
 rel: thursday_vs
 date:   2025-11-09 22:30:22 +0100
 priority: 13
 ---
 
-# VS du jeudi (Former des Héros)
+# VS am Donnerstag (Helden ausbilden)
 
-<a href="https://youtu.be/SgsCAmUsv5E?t=1694" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/SgsCAmUsv5E?t=1694" target="_blank">Erklärvideo</a>
 
-{% include image.html url="/assets/img/vs/vs_jeudi.webp" description="Actions du VS du jeudi" %}
+{% include image.html url="/assets/img/vs/vs_jeudi.webp" description="Aufgaben des VS am Donnerstag" %}
 
-## Explications
+## Erläuterungen
 
-|               Tâche                |                                                                           Explication                                                                            |
-|:----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  Effectuer 1 Recrutement de héros  | Utiliser 1 ticket de recrutement de héros dans la taverne.<br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA]({% post_url 2025-11-09-caa %}) |
-|     Utiliser 660 EXP de Héros      |             Augmenter le niveau de ses héros. <br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA]({% post_url 2025-11-09-caa %})             |
-|  Utiliser 1 Fragment de Héros UR   |                                                                 Augmenter le grade d'un héros UR                                                                 |
-|  Utiliser 1 Fragment de Héros SSR  |                                                                Augmenter le grade d'un héros SSR                                                                 |
-|  Utiliser 1 Fragment de Héros SR   |                                                                 Augmenter le grade d'un héros SR                                                                 |
-| Consommer 1 Médaille de Compétence |                                                          Augmenter le niveau des compétences des héros                                                           |
+|                 Aufgabe                 |                                                                            Erklärung                                                                             |
+|:--------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 1 Heldenrekrutierung durchführen       | 1 Heldenrekrutierungs-Ticket in der Taverne verwenden.<br/>Im Zeitfenster `Heldenfortschritt` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren         |
+| 660 Helden-EXP verwenden               | Helden im Level erhöhen.<br/>Im Zeitfenster `Heldenfortschritt` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren                                        |
+| 1 UR-Heldenfragment verwenden          | Rang eines UR-Helden erhöhen                                                                                                                                    |
+| 1 SSR-Heldenfragment verwenden         | Rang eines SSR-Helden erhöhen                                                                                                                                   |
+| 1 SR-Heldenfragment verwenden          | Rang eines SR-Helden erhöhen                                                                                                                                    |
+| 1 Fähigkeitsmedaille verbrauchen       | Fähigkeitslevel der Helden erhöhen                                                                                                                              |
 
-## En plus
+## Zusätzlich
 
-Pour préparer la journée du vendredi :
-- On ne touche pas à ses tâches radar, on les garde pour le VS du vendredi (calculer tout de même pour ne pas bloquer le compteur si vous êtes au taquet).
+Zur Vorbereitung auf Freitag:
+- Radaraufträge nicht anfassen; für den VS am Freitag aufheben (trotzdem kalkulieren, um den Zähler nicht zu blockieren, falls du am Limit bist).
 
-<a href="https://youtu.be/ugD7PMJw214?t=798" target="_blank">Explication vidéo super claire</a>
+<a href="https://youtu.be/ugD7PMJw214?t=798" target="_blank">Sehr klare Videoerklärung</a>
 
-## Fragments de Héros
-Les fragments s'utilisent pour augmenter les grades des héros (leurs étoiles).
-{% include image.html url="/assets/img/vs/vs_jeudi/fragments_heros.webp" description="Utilisation des fragments de héros" %}
+## Heldenfragmente
+Fragmente werden verwendet, um den Rang der Helden (ihre Sterne) zu erhöhen.
+{% include image.html url="/assets/img/vs/vs_jeudi/fragments_heros.webp" description="Verwendung von Heldenfragmenten" %}
 
-## Médailles de Compétence
-Elles s'utilisent pour améliorer les compétences des héros (les niveaux de compétences se débloquent en fonction du grade du héros)
-{% include image.html url="/assets/img/vs/vs_jeudi/medailles_competence.webp" description="Utilisation des médailles de compétences" %}
+## Fähigkeitsmedaillen
+Sie werden verwendet, um die Fähigkeiten der Helden zu verbessern (die Fähigkeitsstufen werden abhängig vom Rang des Helden freigeschaltet)
+{% include image.html url="/assets/img/vs/vs_jeudi/medailles_competence.webp" description="Verwendung von Fähigkeitsmedaillen" %}

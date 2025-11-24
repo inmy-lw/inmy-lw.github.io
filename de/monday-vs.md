@@ -1,49 +1,49 @@
 ---
 layout: post
 category: VS
-title:  "VS du lundi"
+title:  "VS am Montag"
 lang: de
 rel: monday_vs
 date:   2025-11-09 23:00:22 +0100
 priority: 10
 ---
 
-# VS du lundi (Entraînement Radar)
+# VS am Montag (Radar-Training)
 
-<a href="https://youtu.be/SgsCAmUsv5E?t=51" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/SgsCAmUsv5E?t=51" target="_blank">Erklärvideo</a>
 
-{% include image.html url="/assets/img/vs/vs_lundi.webp" description="Actions du VS du lundi" %}
+{% include image.html url="/assets/img/vs/vs_lundi.webp" description="Aufgaben des VS am Montag" %}
 
-## Explications
+## Erläuterungen
 
-|                                    Tâche                                     |                                                              Explication                                                              |
+|                                   Aufgabe                                    |                                                               Erklärung                                                               |
 |:----------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-|                             Utiliser 1 Endurance                             |                     A prioriser pendant le créneau `Boost de drone` pour le [CAA]({% post_url 2025-11-09-caa %})                      |
-|                           Compléter 1 Tâche Radar                            |                                                     Economisée depuis le dimanche                                                     |
-|                Utiliser 1 Point de Données de Combat du Drone                |                                                         Explication plus bas                                                          |
-|                          Utiliser 1 Pièce de Drone                           |                                                         Explication plus bas                                                          |
-| Collecter 100 de Nourriture<br/>Collecter 100 de Fer<br/>Collecter 60 Pièces | Envoi des teams en minage (depuis le dimanche soir mais le retour doit être prévu après {{site.heure_bascule}}) puis toute la journée |
-|        Pour 1 Matériau de Puce premium obtenu dans un Coffre de Puce         |                                          Ouvrir les coffres de puces (description plus bas)                                           |
+|                           1 Ausdauer verwenden                               | In dem Zeitfenster `Drohnen-Boost` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren                                          |
+|                         1 Radarauftrag abschließen                           | Seit Sonntag aufgespart                                                                                                              |
+|        1 Kampfdatensatz-Punkt der Drohne verwenden                           | Erklärung unten                                                                                                                      |
+|                           1 Drohnenteil verwenden                            | Erklärung unten                                                                                                                      |
+| 100 Nahrung sammeln<br/>100 Eisen sammeln<br/>60 Münzen sammeln              | Teams zum Farmen losschicken (ab Sonntagabend, aber Rückkehr nach {{site.heure_bascule}} einplanen) und dann den ganzen Tag über     |
+| 1 Premium-Chipmaterial aus einer Chipkiste erhalten                           | Chipkisten öffnen (Erläuterung unten)                                                                                                |
 
-## Point de Données de Combat du Drone et Pièces de drone
-Il faut utiliser ces points
+## Kampfdatensatz-Punkte der Drohne und Drohnenteile
+Diese Punkte müssen hier eingesetzt werden
 
-{% include image.html url="/assets/img/vs/vs_lundi/pieces_drone.webp" description="Points de données de combat et pièces de drone" %}
+{% include image.html url="/assets/img/vs/vs_lundi/pieces_drone.webp" description="Kampfdatensätze und Drohnenteile" %}
 
-Dans cet onglet du drone
+In diesem Drohnen-Reiter
 
-{% include image.html url="/assets/img/vs/vs_lundi/points_drone.webp" description="Amélioration du drone le lundi" %}
+{% include image.html url="/assets/img/vs/vs_lundi/points_drone.webp" description="Drohnen-Upgrade am Montag" %}
 
-## Coffres de Puce
+## Chipkisten
 
-Ce sont les nouveaux coffres arrivés récemment qui permettent d'alimenter l'EXP de Boost de Combat du drone.
+Das sind die neuen Kisten, die kürzlich hinzugefügt wurden und die EXP des Drohnen-Kampf-Boosts speisen.
 
-{% include image.html url="/assets/img/vs/vs_lundi/coffres_puces.webp" description="Coffres de Puce de drone" %}
+{% include image.html url="/assets/img/vs/vs_lundi/coffres_puces.webp" description="Chipkisten der Drohne" %}
 
-## Si besoin au cas par cas
+## Bei Bedarf fallweise
 
-|           Tâche           |                                                                                                    Explication                                                                                                     |
-|:-------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Utiliser 660 EXP de Héros | A prioriser surtout le jeudi pour le VS, mais peut être utile dans des VS serrés ou pour débloquer un coffre<br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA]({% post_url 2025-11-09-caa %}) |
+|           Aufgabe          |                                                                                                      Erklärung                                                                                                      |
+|:--------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 660 Helden-EXP verwenden   | Vor allem am Donnerstag für den VS priorisieren, kann aber in knappen VS oder zum Freischalten einer Kiste nützlich sein<br/>Im Zeitfenster `Heldenfortschritt` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren |
 
 

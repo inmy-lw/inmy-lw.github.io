@@ -1,44 +1,44 @@
 ---
 layout: post
 category: VS
-title:  "VS du mardi"
+title:  "VS am Dienstag"
 lang: de
 rel: tuesday_vs
 date:   2025-11-09 22:50:22 +0100
 priority: 11
 ---
 
-# VS du mardi (Expansion de base)
+# VS am Dienstag (Basis-Erweiterung)
 
-<a href="https://youtu.be/SgsCAmUsv5E?t=511" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/SgsCAmUsv5E?t=511" target="_blank">Erklärvideo</a>
 
-{% include image.html url="/assets/img/vs/vs_mardi.webp" description="Actions du VS du mardi" %}
+{% include image.html url="/assets/img/vs/vs_mardi.webp" description="Aufgaben des VS am Dienstag" %}
 
-## Explications
+## Erläuterungen
 
-|                      Tâche                       |                                                                             Explication                                                                             |
-|:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Utiliser 1 minute d'Accélération de Construction |                                 A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})                                  |
-|   Augmenter la Puissance des Bâtiments de 1 pt   | Ouverture des cadeaux accumulés depuis la semaine précédente<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %}) |
-|      Envoyer un Camion Commercial UR 1 fois      |                                                                        Explication plus bas                                                                         |
-|           Effectuer 1 Tâche Secrète UR           |                                                                        Explication plus bas                                                                         |
-|               Recruter 1 Survivant               |                                                                          Depuis la taverne                                                                          |
+|                       Aufgabe                      |                                                                              Erklärung                                                                               |
+|:-------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 1 Minute Bau-Beschleuniger verwenden              | Im Zeitfenster `Stadtgebäude` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren                                         |
+| Gebäude-Kampfkraft um 1 Pt erhöhen                | Geschenke der Vorwoche öffnen<br/>Im Zeitfenster `Stadtgebäude` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren       |
+| 1x UR-Handelswagen senden                         | Erklärung unten                                                                                                                |
+| 1 UR-Geheimauftrag ausführen                      | Erklärung unten                                                                                                                |
+| 1 Überlebenden rekrutieren                        | In der Taverne                                                                                                                 |
 
-## En plus
+## Zusätzlich
 
-Pour préparer la journée du mercredi :
-- On ne touche pas à ses tâches radar, on les garde pour le VS du mercredi (calculer tout de même pour ne pas bloquer le compteur si vous êtes au taquet).
+Zur Vorbereitung auf Mittwoch:
+- Radaraufträge nicht anfassen, für den VS am Mittwoch aufheben (trotzdem prüfen, um den Zähler nicht zu blockieren, falls du am Limit bist).
 
-<a href="https://youtu.be/ugD7PMJw214?t=798" target="_blank">Explication vidéo super claire</a>
+<a href="https://youtu.be/ugD7PMJw214?t=798" target="_blank">Sehr klare Videoerklärung</a>
 
-## Camion Commercial UR
+## UR-Handelswagen
 
-On en obtient en le rafraîchissant avec les contrats commerciaux (les mêmes donnés et gagnés grâce au train).
+Den erhält man durch Auffrischen mit Handelsverträgen (die gleichen, die durch den Zug vergeben/gewonnen werden).
 
-{% include image.html url="/assets/img/vs/vs_mardi/camion_ur.webp" description="Obtenir des camions UR" %}
+{% include image.html url="/assets/img/vs/vs_mardi/camion_ur.webp" description="UR-Handelswagen erhalten" %}
 
-## Tâche secrète UR
+## UR-Geheimauftrag
 
-On en obtient en rafraîchissant avec les ordres secrets.
+Den erhält man durch Auffrischen mit Geheimaufträgen.
 
-{% include image.html url="/assets/img/vs/vs_mardi/tache_ur.webp" description="Obtenir des tâches secrètes UR" %}
+{% include image.html url="/assets/img/vs/vs_mardi/tache_ur.webp" description="UR-Geheimaufträge erhalten" %}

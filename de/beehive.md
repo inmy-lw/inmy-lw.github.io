@@ -1,30 +1,30 @@
 ---
 layout: post
 category: important
-title:  "Ruche"
+title:  "Bienenstock"
 lang: de
 rel: behive
 date:   2025-11-09 23:29:22 +0100
 ---
-# Revenir dans la ruche
-Pour revenir dans la ruche, il faut profiter du TP offert le samedi pendant le VS.
+# In den Bienenstock zurückkehren
+Um in den Bienenstock zurückzukehren, solltest du das am Samstag während des VS angebotene TP nutzen.
 
-{% include image.html url="/assets/img/screens/tuto_tp_vs.webp" description="Utilisation du TP du VS" %}
+{% include image.html url="/assets/img/screens/tuto_tp_vs.webp" description="TP des VS verwenden" %}
 
-Une fois ce jour passé, il faut acheter un TP avancé dans la boutique d'alliance pour revenir s'aligner dans la ruche.
+Nach diesem Tag musst du im Allianz‑Shop ein Fortgeschrittenes TP kaufen, um dich im Bienenstock wieder einzureihen.
 
-{% include image.html url="/assets/img/screens/boutique_alliance_tp.webp" description="Boutique d'alliance pour acheter des TP" %}
+{% include image.html url="/assets/img/screens/boutique_alliance_tp.webp" description="Allianz‑Shop zum Kauf von TP" %}
 
-# Disposition de la ruche
+# Anordnung des Bienenstocks
 
-{% include image.html url="/assets/img/screens/ruche.webp" description="Disposition de la ruche autour du maréchal" %}
+{% include image.html url="/assets/img/screens/ruche.webp" description="Anordnung des Bienenstocks rund um den Marschall" %}
 
-En Jaune sont disposés les R4 & R5.
+Gelb sind die R4 & R5.
 
-En Bleu, les plus forts autres que R4 & R5.
+Blau die stärksten Spieler außer R4 & R5.
 
-En vert, tous les autres.
+Grün alle übrigen.
 
-# Pourquoi du comment
+# Warum und wie
 
-Cette disposition permet aux R4 et R4 d'avoir moins de distance à parcourir pour aller au maréchal et donc de proposer plus de rallyes. Les R4 & R5 proposent dans leurs rallyes un boost d'attaque de `+2,5%` ou `+5%` qui nous profitent à tous ! 😉
+Diese Anordnung ermöglicht es den R4 & R5, weniger Weg zum Marschall zu haben und dadurch mehr Rallyes zu starten. R4 & R5 bieten in ihren Rallyes einen Angriffs‑Boost von `+2,5%` bzw. `+5%`, wovon alle profitieren! 😉

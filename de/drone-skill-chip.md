@@ -1,137 +1,135 @@
 ---
 layout: post
 category: events
-title: "Puces de compétence de drone"
+title: "Fähigkeits‑Chips der Drohne"
 lang: de
 rel: drone_skill_chip
 date: 2025-11-10 13:00:22 +0100
 ---
 
-# Puces de compétence de drone
+# Fähigkeits‑Chips der Drohne
 
-<a href="https://youtu.be/cBpZLbk4rBc" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/cBpZLbk4rBc" target="_blank">Erklärvideo</a>
 
-Au **jour 82**, les joueurs débloquent les systèmes Boost de Combat et Puce de Compétence de drone.
+Am **Tag 82** schalten die Spieler die Systeme Drohnen‑Kampf‑Boost und Drohnen‑Fähigkeits‑Chip frei.
 
-Les **Puces de compétences** sont très utiles pour augmenter la défense, les PV et l'attaque de votre escouade. Plus le
-niveau de rareté est élevé, plus le bonus est important.
+Die **Fähigkeits‑Chips** sind sehr hilfreich, um Verteidigung, LP und Angriff deiner Truppe zu erhöhen. Je höher die Seltenheitsstufe, desto größer der Bonus.
 
-## Laboratoire de puces
+## Chip‑Labor
 
-Monter rapidement le bâtiment au **niveau 20** pour débloquer la fabrication des Puces de Compétence UR.
+Bringe das Gebäude schnell auf **Stufe 20**, um die Herstellung der UR‑Fähigkeits‑Chips freizuschalten.
 
-Obtenez rapidement un **ensemble complet de Puces de Compétence UR**.
+Beschaffe dir zügig ein **komplettes Set an UR‑Fähigkeits‑Chips**.
 
-Utilisez les SSR pour monter de niveau le Boost de Combat.
+Verwende SSR, um den Kampf‑Boost zu leveln.
 
-## Composants clés
+## Schlüsselkomponenten
 
 <table>
     <tr>
-        <td style="text-align: center"><img src="/assets/img/puces/coffres_puces.webp" alt="coffres puces"></td>
-        <td colspan="2">Les coffres de Puces de Compétence contiennent des puces et des matériaux.<br>Ils peuvent être obtenus via : boutiques, événements spéciaux, packs payants.</td>
+        <td style="text-align: center"><img src="/assets/img/puces/coffres_puces.webp" alt="Chip‑Kisten"></td>
+        <td colspan="2">Fähigkeits‑Chipkisten enthalten Chips und Materialien.<br>Man erhält sie über: Shops, Spezial‑Events, Kaufpakete.</td>
     </tr>
     <tr>
-        <td style="text-align: center"><img src="/assets/img/puces/puce_competence.webp" alt="Puce compétence"></td>
-        <td colspan="2">Les Puces de compétences apportent des effets spécifiques en combat.</td>
+        <td style="text-align: center"><img src="/assets/img/puces/puce_competence.webp" alt="Fähigkeits‑Chip"></td>
+        <td colspan="2">Fähigkeits‑Chips bringen spezifische Effekte im Kampf.</td>
     </tr>
     <tr>
-        <td style="display: flex; column-gap: 1rem;"><img src="/assets/img/puces/materiau_basique.webp" alt="Matériau basique"><img src="/assets/img/puces/materiau_premium.webp" alt="Matériau premium"></td>
-        <td>400 matériaux basiques = 1 Puce de Compétence SSR (sauf Initiale).<br>800 matériaux premium = 1 Puce de Compétence UR</td>
-        <td>À utiliser dans le <b>Laboratoire de Puces</b>.</td>
+        <td style="display: flex; column-gap: 1rem;"><img src="/assets/img/puces/materiau_basique.webp" alt="Basismaterial"><img src="/assets/img/puces/materiau_premium.webp" alt="Premiummaterial"></td>
+        <td>400 Basismaterialien = 1 SSR‑Fähigkeits‑Chip (außer Initiale).<br>800 Premiummaterialien = 1 UR‑Fähigkeits‑Chip</td>
+        <td>Zu verwenden im <b>Chip‑Labor</b>.</td>
     </tr>
     <tr>
-        <td style="text-align: center"><img src="/assets/img/puces/carte_exp_boost.webp" alt="Carte EXP boost"></td>
-        <td colspan="2">Les <b>Cartes d'EXP de Boost de Combat de Drone</b> servent à faire monter le niveau du Boost de Combat.</td>
+        <td style="text-align: center"><img src="/assets/img/puces/carte_exp_boost.webp" alt="EXP‑Boost‑Karte"></td>
+        <td colspan="2"><b>EXP‑Karten des Drohnen‑Kampf‑Boosts</b> dienen dazu, den Kampf‑Boost zu leveln.</td>
     </tr>
 </table>
 
-## Ensemble de Puces de Compétences
+## Sets von Fähigkeits‑Chips
 
 <table>
     <tr>
-        <td rowspan="2"><img src="/assets/img/puces/ensemble_puces.webp" alt="Ensemble de puces"></td>
-        <td>Débloquez jusqu'à 4 ensembles de Puces de Compétence</td>
+        <td rowspan="2"><img src="/assets/img/puces/ensemble_puces.webp" alt="Chip‑Sets"></td>
+        <td>Schalte bis zu 4 Sets von Fähigkeits‑Chips frei</td>
     </tr>
     <tr>
-        <td>un <b>ensemble</b> = <b>4 emplacements</b> :
+        <td>ein <b>Set</b> = <b>4 Slots</b>:
             <ol>
-                <li>Compétence Initiale</li>
-                <li>Attaque</li>
-                <li>Interférence</li>
-                <li>Défense</li>
+                <li>Initiale Fähigkeit</li>
+                <li>Angriff</li>
+                <li>Störung</li>
+                <li>Verteidigung</li>
             </ol>
-        1 seul ensemble actif par escouade à la fois, non partagé
+        Pro Truppe ist jeweils nur 1 Set aktiv, nicht gemeinsam genutzt
         </td>
     </tr>
 </table>
 
-## Paliers des Boosts de Combat
+## Schwellen des Kampf‑Boosts
 
-Le système de Boost de Combat monte de niveau pour améliorer les attributs des drones et les effets des Puces de
-Compétence.
+Das Kampf‑Boost‑System steigt im Level, um die Drohnen‑Attribute und die Effekte der Fähigkeits‑Chips zu verbessern.
 
 <table>
     <tr>
-        <td rowspan="6"><img src="/assets/img/puces/boost_combat.webp" alt="Boost de Combat"></td>
-        <td><b>Niveau 10</b></td>
+        <td rowspan="6"><img src="/assets/img/puces/boost_combat.webp" alt="Kampf‑Boost"></td>
+        <td><b>Level 10</b></td>
         <td>
             <ul>
-                <li>Ensemble 1</li>
+                <li>Set 1</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td><b>Niveau 150</b></td>
+        <td><b>Level 150</b></td>
         <td>
             <ul>
-                <li>Ensemble 2</li>
-                <li>Bonus de Puce de Compétence niveau 1</li>
+                <li>Set 2</li>
+                <li>Fähigkeits‑Chip‑Bonus Stufe 1</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td><b>Niveau 300</b></td>
+        <td><b>Level 300</b></td>
         <td>
             <ul>
-                <li>Ensemble 3</li>
-                <li>Bonus de Puce de Compétence niveau 2</li>
+                <li>Set 3</li>
+                <li>Fähigkeits‑Chip‑Bonus Stufe 2</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td><b>Niveau 450</b></td>
+        <td><b>Level 450</b></td>
         <td>
             <ul>
-                <li>Ensemble 4</li>
-                <li>Bonus de Puce de Compétence niveau 3</li>
+                <li>Set 4</li>
+                <li>Fähigkeits‑Chip‑Bonus Stufe 3</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td><b>Niveau 600</b></td>
+        <td><b>Level 600</b></td>
         <td>
             <ul>
-                <li>Bonus de Puce de Compétence niveau 4</li>
+                <li>Fähigkeits‑Chip‑Bonus Stufe 4</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td><b>Niveau 750</b></td>
+        <td><b>Level 750</b></td>
         <td>
             <ul>
-                <li>Bonus de Puce de Compétence niveau 5</li>
+                <li>Fähigkeits‑Chip‑Bonus Stufe 5</li>
             </ul>
         </td>
     </tr>
 </table>
 
-## Obtenir du Matériel de Puce Premium
+## Premium‑Chipmaterial erhalten
 
-On peut obtenir du Matériel de Puce Premium dans 3 coffres du VS : Les coffres à 540 000 points, 2 300 000 points et 7 200 000 points.
+Premium‑Chipmaterial erhält man aus 3 VS‑Kisten: den Kisten bei 540000 Punkten, 2300000 Punkten und 7200000 Punkten.
 
-{% include image.html url="/assets/img/puces/materiel_premium_coffres_vs.webp" description="Enregistrer une base en tant que favoris" %}
+{% include image.html url="/assets/img/puces/materiel_premium_coffres_vs.webp" description="Premium‑Chipmaterial aus VS‑Kisten" %}
 
-## Source
+## Quelle
 
-![Source Puces](/assets/img/screens/puces_competences_drone.webp)
+![Quelle Chips](/assets/img/screens/puces_competences_drone.webp)

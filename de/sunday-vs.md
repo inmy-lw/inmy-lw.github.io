@@ -1,18 +1,18 @@
 ---
 layout: post
 category: VS
-title:  "VS du dimanche"
+title:  "VS am Sonntag"
 lang: de
 rel: sunday_vs
 date:   2025-11-09 22:00:22 +0100
 priority: 16
 ---
 
-# VS du dimanche (préparation du prochain 😉)
-<a href="https://youtu.be/SgsCAmUsv5E?t=4016" target="_blank">Vidéo explicative</a>
+# VS am Sonntag (Vorbereitung auf die nächste Woche 😉)
+<a href="https://youtu.be/SgsCAmUsv5E?t=4016" target="_blank">Erklärvideo</a>
 
-Pour préparer la journée du lundi :
-- On envoie ses teams en minage la nuit en s'assurant qu'elles reviendront après {{site.heure_bascule}}.
-- On ne touche pas à ses tâches radar, on les garde pour le VS du lundi (calculer tout de même pour ne pas bloquer le compteur si vous êtes au taquet).
+Zur Vorbereitung auf Montag:
+- Schicke deine Teams über Nacht zum Farmen und stelle sicher, dass sie erst nach {{site.heure_bascule}} zurückkehren.
+- Fasse die Radaraufträge nicht an; hebe sie für den VS am Montag auf (trotzdem kalkulieren, um den Zähler nicht zu blockieren, falls du am Limit bist).
 
-<a href="https://youtu.be/ugD7PMJw214?t=798" target="_blank">Explication vidéo super claire</a>
+<a href="https://youtu.be/ugD7PMJw214?t=798" target="_blank">Sehr klare Videoerklärung</a>
