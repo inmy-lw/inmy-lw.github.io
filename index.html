@@ -7,8 +7,17 @@
             if (/fr/g.test(language)){
                 return "fr";
             }
+            if (/it/g.test(language)){
+                return "it";
+            }
+            if (/de/g.test(language)){
+                return "de";
+            }
+            if (/en/g.test(language)){
+                return "en";
+            }
 
-            return "";
+            return "fr";
         }
 
         const prefix = computePrefix();
