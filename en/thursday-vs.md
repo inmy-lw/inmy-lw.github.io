@@ -16,14 +16,14 @@ priority: 13
 
 ## Explanation
 
-|               Task                 |                                                                           Explanation                                                                            |
-|:----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   Perform 1 Hero Recruitment       | Use 1 Hero Recruitment ticket in the tavern.<br/>Prioritize during the `Hero Advancement` window for the [CAA]({% post_url 2025-11-09-caa %}).                  |
-|     Use 660 Hero EXP               |             Level up your heroes.<br/>Prioritize during the `Hero Advancement` window for the [CAA]({% post_url 2025-11-09-caa %}).                               |
-|    Use 1 UR Hero Fragment          |                                                                 Increase the grade of a UR hero                                                                  |
-|    Use 1 SSR Hero Fragment         |                                                                Increase the grade of an SSR hero                                                                 |
-|    Use 1 SR Hero Fragment          |                                                                 Increase the grade of an SR hero                                                                  |
-|   Consume 1 Skill Medal            |                                                          Increase the level of heroes' skills                                                                     |
+|            Task            |                                                             Explanation                                                             |
+|:--------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| Perform 1 Hero Recruitment | Use 1 Hero Recruitment ticket in the tavern.<br/>Prioritize during the `Hero Advancement` window for the [CAA](/{{page.lang}}/caa). |
+|      Use 660 Hero EXP      |            Level up your heroes.<br/>Prioritize during the `Hero Advancement` window for the [CAA](/{{page.lang}}/caa).             |
+|   Use 1 UR Hero Fragment   |                                                   Increase the grade of a UR hero                                                   |
+|  Use 1 SSR Hero Fragment   |                                                  Increase the grade of an SSR hero                                                  |
+|   Use 1 SR Hero Fragment   |                                                  Increase the grade of an SR hero                                                   |
+|   Consume 1 Skill Medal    |                                                Increase the level of heroes' skills                                                 |
 
 ## Additionally
 

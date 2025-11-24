@@ -16,13 +16,13 @@ priority: 11
 
 ## Erläuterungen
 
-|                       Aufgabe                      |                                                                              Erklärung                                                                               |
-|:-------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 1 Minute Bau-Beschleuniger verwenden              | Im Zeitfenster `Stadtgebäude` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren                                         |
-| Gebäude-Kampfkraft um 1 Pt erhöhen                | Geschenke der Vorwoche öffnen<br/>Im Zeitfenster `Stadtgebäude` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren       |
-| 1x UR-Handelswagen senden                         | Erklärung unten                                                                                                                |
-| 1 UR-Geheimauftrag ausführen                      | Erklärung unten                                                                                                                |
-| 1 Überlebenden rekrutieren                        | In der Taverne                                                                                                                 |
+|               Aufgabe                |                                                   Erklärung                                                    |
+|:------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
+| 1 Minute Bau-Beschleuniger verwenden |                  Im Zeitfenster `Stadtgebäude` für den [CAA](/{{page.lang}}/caa) priorisieren                  |
+|  Gebäude-Kampfkraft um 1 Pt erhöhen  | Geschenke der Vorwoche öffnen<br/>Im Zeitfenster `Stadtgebäude` für den [CAA](/{{page.lang}}/caa) priorisieren |
+|      1x UR-Handelswagen senden       |                                                Erklärung unten                                                 |
+|     1 UR-Geheimauftrag ausführen     |                                                Erklärung unten                                                 |
+|      1 Überlebenden rekrutieren      |                                                 In der Taverne                                                 |
 
 ## Zusätzlich
 

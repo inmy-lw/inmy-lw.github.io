@@ -16,14 +16,14 @@ priority: 10
 
 ## Erläuterungen
 
-|                                   Aufgabe                                    |                                                               Erklärung                                                               |
-|:----------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-|                           1 Ausdauer verwenden                               | In dem Zeitfenster `Drohnen-Boost` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren                                          |
-|                         1 Radarauftrag abschließen                           | Seit Sonntag aufgespart                                                                                                              |
-|        1 Kampfdatensatz-Punkt der Drohne verwenden                           | Erklärung unten                                                                                                                      |
-|                           1 Drohnenteil verwenden                            | Erklärung unten                                                                                                                      |
-| 100 Nahrung sammeln<br/>100 Eisen sammeln<br/>60 Münzen sammeln              | Teams zum Farmen losschicken (ab Sonntagabend, aber Rückkehr nach {{site.heure_bascule}} einplanen) und dann den ganzen Tag über     |
-| 1 Premium-Chipmaterial aus einer Chipkiste erhalten                           | Chipkisten öffnen (Erläuterung unten)                                                                                                |
+|                             Aufgabe                             |                                                            Erklärung                                                             |
+|:---------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
+|                      1 Ausdauer verwenden                       |                        In dem Zeitfenster `Drohnen-Boost` für den [CAA](/{{page.lang}}/caa) priorisieren                         |
+|                   1 Radarauftrag abschließen                    |                                                     Seit Sonntag aufgespart                                                      |
+|           1 Kampfdatensatz-Punkt der Drohne verwenden           |                                                         Erklärung unten                                                          |
+|                     1 Drohnenteil verwenden                     |                                                         Erklärung unten                                                          |
+| 100 Nahrung sammeln<br/>100 Eisen sammeln<br/>60 Münzen sammeln | Teams zum Farmen losschicken (ab Sonntagabend, aber Rückkehr nach {{site.heure_bascule}} einplanen) und dann den ganzen Tag über |
+|       1 Premium-Chipmaterial aus einer Chipkiste erhalten       |                                              Chipkisten öffnen (Erläuterung unten)                                               |
 
 ## Kampfdatensatz-Punkte der Drohne und Drohnenteile
 Diese Punkte müssen hier eingesetzt werden
@@ -42,8 +42,8 @@ Das sind die neuen Kisten, die kürzlich hinzugefügt wurden und die EXP des Dro
 
 ## Bei Bedarf fallweise
 
-|           Aufgabe          |                                                                                                      Erklärung                                                                                                      |
-|:--------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 660 Helden-EXP verwenden   | Vor allem am Donnerstag für den VS priorisieren, kann aber in knappen VS oder zum Freischalten einer Kiste nützlich sein<br/>Im Zeitfenster `Heldenfortschritt` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren |
+|         Aufgabe          |                                                                                                   Erklärung                                                                                                    |
+|:------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 660 Helden-EXP verwenden | Vor allem am Donnerstag für den VS priorisieren, kann aber in knappen VS oder zum Freischalten einer Kiste nützlich sein<br/>Im Zeitfenster `Heldenfortschritt` für den [CAA](/{{page.lang}}/caa) priorisieren |
 
 

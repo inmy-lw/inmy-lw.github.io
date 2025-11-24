@@ -16,13 +16,13 @@ priority: 11
 
 ## Spiegazioni
 
-|                       Compito                       |                                                                              Spiegazione                                                                               |
-|:---------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Usare 1 minuto di Accelerazione di Costruzione      | Da prioritizzare nella finestra `Edifici della Città` per il [CAA]({% post_url 2025-11-09-caa %})                                |
-| Aumentare di 1 pt la Potenza degli Edifici          | Aprire i regali accumulati dalla settimana precedente<br/>Da prioritizzare nella finestra `Edifici della Città` per il [CAA]({% post_url 2025-11-09-caa %}) |
-| Inviare 1 volta un Camion Commerciale UR            |                                                                            Spiegazione sotto                                                                           |
-|        Effettuare 1 Incarico Segreto UR             |                                                                            Spiegazione sotto                                                                           |
-|                  Reclutare 1 Sopravvissuto          |                                                                           Dalla taverna                                                                                 |
+|                    Compito                     |                                                                   Spiegazione                                                                    |
+|:----------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Usare 1 minuto di Accelerazione di Costruzione |                              Da prioritizzare nella finestra `Edifici della Città` per il [CAA](/{{page.lang}}/caa)                              |
+|   Aumentare di 1 pt la Potenza degli Edifici   | Aprire i regali accumulati dalla settimana precedente<br/>Da prioritizzare nella finestra `Edifici della Città` per il [CAA](/{{page.lang}}/caa) |
+|    Inviare 1 volta un Camion Commerciale UR    |                                                                Spiegazione sotto                                                                 |
+|        Effettuare 1 Incarico Segreto UR        |                                                                Spiegazione sotto                                                                 |
+|           Reclutare 1 Sopravvissuto            |                                                                  Dalla taverna                                                                   |
 
 ## In più
 

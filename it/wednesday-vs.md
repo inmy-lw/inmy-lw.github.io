@@ -16,13 +16,13 @@ priority: 12
 
 ## Spiegazioni
 
-|                           Compito                           |                                                Spiegazione                                                 |
-|:--------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
-|   Usare 1 minuto di Accelerazione Ricerca          | Da prioritizzare nella finestra `Ricerca Tecnologica` per il [CAA]({% post_url 2025-11-09-caa %})        |
-|  Aumentare di 1 pt la Potenza Tecnologica          |                                Completare una ricerca tecnologica                                         |
-|           Usare 1 Distintivo di Valore             | Punto specifico usato in alcuni tipi di ricerca. Spiegazione sotto                                         |
-|            Completare 1 Incarico Radar             |                                      Conservato dal martedì                                                |
-| Aprire uno Scrigno Componenti Drone Liv. 1–7       |                                         Spiegazione sotto                                                  |
+|                   Compito                    |                                      Spiegazione                                       |
+|:--------------------------------------------:|:--------------------------------------------------------------------------------------:|
+|   Usare 1 minuto di Accelerazione Ricerca    | Da prioritizzare nella finestra `Ricerca Tecnologica` per il [CAA](/{{page.lang}}/caa) |
+|   Aumentare di 1 pt la Potenza Tecnologica   |                           Completare una ricerca tecnologica                           |
+|         Usare 1 Distintivo di Valore         |           Punto specifico usato in alcuni tipi di ricerca. Spiegazione sotto           |
+|         Completare 1 Incarico Radar          |                                 Conservato dal martedì                                 |
+| Aprire uno Scrigno Componenti Drone Liv. 1–7 |                                   Spiegazione sotto                                    |
 
 ## Distintivo di Valore
 

@@ -16,14 +16,14 @@ priority: 13
 
 ## Spiegazioni
 
-|                 Compito                 |                                                                            Spiegazione                                                                             |
-|:--------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Effettuare 1 Reclutamento Eroe         | Usare 1 biglietto di reclutamento eroe nella taverna.<br/>Da prioritizzare nella finestra `Avanzamento Eroe` per il [CAA]({% post_url 2025-11-09-caa %})         |
-|      Usare 660 EXP Eroe                | Alzare il livello dei propri eroi.<br/>Da prioritizzare nella finestra `Avanzamento Eroe` per il [CAA]({% post_url 2025-11-09-caa %})                              |
-|  Usare 1 Frammento Eroe UR             |                                                                Aumentare il grado di un eroe UR                                                                    |
-|  Usare 1 Frammento Eroe SSR            |                                                                Aumentare il grado di un eroe SSR                                                                   |
-|  Usare 1 Frammento Eroe SR             |                                                                Aumentare il grado di un eroe SR                                                                    |
-| Consumare 1 Medaglia di Abilità        |                                                             Aumentare il livello delle abilità degli eroi                                                          |
+|             Compito             |                                                                  Spiegazione                                                                  |
+|:-------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
+| Effettuare 1 Reclutamento Eroe  | Usare 1 biglietto di reclutamento eroe nella taverna.<br/>Da prioritizzare nella finestra `Avanzamento Eroe` per il [CAA](/{{page.lang}}/caa) |
+|       Usare 660 EXP Eroe        |          Alzare il livello dei propri eroi.<br/>Da prioritizzare nella finestra `Avanzamento Eroe` per il [CAA](/{{page.lang}}/caa)           |
+|    Usare 1 Frammento Eroe UR    |                                                       Aumentare il grado di un eroe UR                                                        |
+|   Usare 1 Frammento Eroe SSR    |                                                       Aumentare il grado di un eroe SSR                                                       |
+|    Usare 1 Frammento Eroe SR    |                                                       Aumentare il grado di un eroe SR                                                        |
+| Consumare 1 Medaglia di Abilità |                                                 Aumentare il livello delle abilità degli eroi                                                 |
 
 ## In più
 

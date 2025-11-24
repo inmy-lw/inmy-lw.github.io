@@ -18,8 +18,8 @@ priority: 13
 
 |                 Aufgabe                 |                                                                            Erklärung                                                                             |
 |:--------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 1 Heldenrekrutierung durchführen       | 1 Heldenrekrutierungs-Ticket in der Taverne verwenden.<br/>Im Zeitfenster `Heldenfortschritt` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren         |
-| 660 Helden-EXP verwenden               | Helden im Level erhöhen.<br/>Im Zeitfenster `Heldenfortschritt` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren                                        |
+| 1 Heldenrekrutierung durchführen       | 1 Heldenrekrutierungs-Ticket in der Taverne verwenden.<br/>Im Zeitfenster `Heldenfortschritt` für den [CAA](/{{page.lang}}/caa) priorisieren         |
+| 660 Helden-EXP verwenden               | Helden im Level erhöhen.<br/>Im Zeitfenster `Heldenfortschritt` für den [CAA](/{{page.lang}}/caa) priorisieren                                        |
 | 1 UR-Heldenfragment verwenden          | Rang eines UR-Helden erhöhen                                                                                                                                    |
 | 1 SSR-Heldenfragment verwenden         | Rang eines SSR-Helden erhöhen                                                                                                                                   |
 | 1 SR-Heldenfragment verwenden          | Rang eines SR-Helden erhöhen                                                                                                                                    |

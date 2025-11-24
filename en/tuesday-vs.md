@@ -16,13 +16,13 @@ priority: 11
 
 ## Explanation
 
-|                      Task                        |                                                                              Explanation                                                                              |
-|:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Use 1 minute of Construction Speedup             | Prioritize during the `City Building` window for the [CAA]({% post_url 2025-11-09-caa %}).                                                                           |
-| Increase Building Power by 1 pt                  | Open the gifts saved from the previous week.<br/>Prioritize during the `City Building` window for the [CAA]({% post_url 2025-11-09-caa %}).                          |
-| Send a UR Trade Truck once                       | See explanation below.                                                                                                                                               |
-| Perform 1 UR Secret Task                         | See explanation below.                                                                                                                                               |
-| Recruit 1 Survivor                               | From the tavern.                                                                                                                                                      |
+|                 Task                 |                                                           Explanation                                                            |
+|:------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
+| Use 1 minute of Construction Speedup |                         Prioritize during the `City Building` window for the [CAA](/{{page.lang}}/caa).                          |
+|   Increase Building Power by 1 pt    | Open the gifts saved from the previous week.<br/>Prioritize during the `City Building` window for the [CAA](/{{page.lang}}/caa). |
+|      Send a UR Trade Truck once      |                                                      See explanation below.                                                      |
+|       Perform 1 UR Secret Task       |                                                      See explanation below.                                                      |
+|          Recruit 1 Survivor          |                                                         From the tavern.                                                         |
 
 ## Additionally
 

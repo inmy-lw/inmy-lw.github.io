@@ -16,11 +16,11 @@ priority: 14
 
 ## Explications
 
-|                     Tâche                     |                                                                                              Explication                                                                                               |
-|:---------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|            Compléter 1 Tâche Radar            |                                                                                     Économisées depuis la veille.                                                                                      |
-| Utiliser 1 minute d'Accélération de Formation |                   Utiliser les accélérateurs pour terminer des formations.<br/>A prioriser pendant le créneau `Progression des Unités` pour le [CAA]({% post_url 2025-11-09-caa %})                    |
-|         Former 1 unité de niveau 1-10         | Former des unités. Pour plus de points, utiliser la promotion (plus rapide que la formation).<br/>A prioriser pendant le créneau `Progression des Unités` pour le [CAA]({% post_url 2025-11-09-caa %}) |
+|                     Tâche                     |                                                                                         Explication                                                                                         |
+|:---------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|            Compléter 1 Tâche Radar            |                                                                                Économisées depuis la veille.                                                                                |
+| Utiliser 1 minute d'Accélération de Formation |                   Utiliser les accélérateurs pour terminer des formations.<br/>A prioriser pendant le créneau `Progression des Unités` pour le [CAA](/{{page.lang}}/caa)                    |
+|         Former 1 unité de niveau 1-10         | Former des unités. Pour plus de points, utiliser la promotion (plus rapide que la formation).<br/>A prioriser pendant le créneau `Progression des Unités` pour le [CAA](/{{page.lang}}/caa) |
 
 
 ## En fin de journée
@@ -31,9 +31,9 @@ En fin de journée, une notification du jeu peut apparaître pour prévenir de m
 
 ## Si besoin au cas par cas (à prioriser les autres jours, mais ces actions peuvent être utiles en cas de VS serré ou pour augmenter de quelques points pour débloquer un coffre)
 
-|                      Tâche                       |                                                              Explication                                                              |
-|:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-|   Augmenter la Puissance des Bâtiments de 1 pt   |    Principalement le mardi.<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})    |
-| Utiliser 1 minute d'Accélération de Construction |    Principalement le mardi.<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})    |
-|  Utiliser 1 minute d'Accélération de Recherche   | Principalement le mercredi.<br/>A prioriser pendant le créneau `Recherche Technologique` pour le [CAA]({% post_url 2025-11-09-caa %}) |
-|   Augmenter la Puissance Technologique de 1 pt   | Principalement le mercredi.<br/>A prioriser pendant le créneau `Recherche Technologique` pour le [CAA]({% post_url 2025-11-09-caa %}) |
+|                      Tâche                       |                                                        Explication                                                         |
+|:------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+|   Augmenter la Puissance des Bâtiments de 1 pt   |    Principalement le mardi.<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA](/{{page.lang}}/caa)    |
+| Utiliser 1 minute d'Accélération de Construction |    Principalement le mardi.<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA](/{{page.lang}}/caa)    |
+|  Utiliser 1 minute d'Accélération de Recherche   | Principalement le mercredi.<br/>A prioriser pendant le créneau `Recherche Technologique` pour le [CAA](/{{page.lang}}/caa) |
+|   Augmenter la Puissance Technologique de 1 pt   | Principalement le mercredi.<br/>A prioriser pendant le créneau `Recherche Technologique` pour le [CAA](/{{page.lang}}/caa) |

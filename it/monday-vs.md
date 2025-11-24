@@ -16,14 +16,14 @@ priority: 10
 
 ## Spiegazioni
 
-|                                     Compito                                     |                                                               Spiegazione                                                               |
-|:-------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
-|                              Usare 1 Resistenza                                 | Da prioritizzare nella finestra `Boost del drone` per il [CAA]({% post_url 2025-11-09-caa %})                                           |
-|                           Completare 1 Incarico Radar                           |                                                     Conservato dalla domenica                                                           |
-|                Usare 1 Punto Dati di Combattimento del Drone                    |                                                         Spiegazione sotto                                                               |
-|                          Usare 1 Pezzo di Drone                                 |                                                         Spiegazione sotto                                                               |
-| Raccogliere 100 Cibo<br/>Raccogliere 100 Ferro<br/>Raccogliere 60 Monete        | Inviare i team a minare (dalla domenica sera ma farli rientrare dopo {{site.heure_bascule}}) poi per tutta la giornata                 |
-|       1 Materiale di Chip premium ottenuto in uno Scrigno di Chip               |                                           Aprire gli scrigni di chip (spiegazione sotto)                                                |
+|                                 Compito                                  |                                                      Spiegazione                                                       |
+|:------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
+|                            Usare 1 Resistenza                            |                   Da prioritizzare nella finestra `Boost del drone` per il [CAA](/{{page.lang}}/caa)                   |
+|                       Completare 1 Incarico Radar                        |                                               Conservato dalla domenica                                                |
+|              Usare 1 Punto Dati di Combattimento del Drone               |                                                   Spiegazione sotto                                                    |
+|                          Usare 1 Pezzo di Drone                          |                                                   Spiegazione sotto                                                    |
+| Raccogliere 100 Cibo<br/>Raccogliere 100 Ferro<br/>Raccogliere 60 Monete | Inviare i team a minare (dalla domenica sera ma farli rientrare dopo {{site.heure_bascule}}) poi per tutta la giornata |
+|       1 Materiale di Chip premium ottenuto in uno Scrigno di Chip        |                                     Aprire gli scrigni di chip (spiegazione sotto)                                     |
 
 ## Punti Dati di Combattimento del Drone e Pezzi del drone
 Questi punti vanno usati
@@ -42,8 +42,8 @@ Sono i nuovi scrigni arrivati di recente che permettono di alimentare l'EXP del 
 
 ## Se necessario caso per caso
 
-|            Compito             |                                                                                                     Spiegazione                                                                                                      |
-|:------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Usare 660 EXP Eroe             | Da prioritizzare soprattutto il giovedì per il VS, ma può essere utile nei VS tirati o per sbloccare uno scrigno<br/>Da prioritizzare nella finestra `Avanzamento Eroe` per il [CAA]({% post_url 2025-11-09-caa %}) |
+|      Compito       |                                                                                               Spiegazione                                                                                                |
+|:------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Usare 660 EXP Eroe | Da prioritizzare soprattutto il giovedì per il VS, ma può essere utile nei VS tirati o per sbloccare uno scrigno<br/>Da prioritizzare nella finestra `Avanzamento Eroe` per il [CAA](/{{page.lang}}/caa) |
 
 

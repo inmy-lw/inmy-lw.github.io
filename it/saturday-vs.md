@@ -17,22 +17,22 @@ priority: 15
 
 ## Spiegazioni
 
-|                          Compito                          |                                 Spiegazione                                 |
-|:---------------------------------------------------------:|:----------------------------------------------------------------------------:|
-| Inviare 1 volta un Camion Commerciale UR                  | Spiegazione nel [VS del martedì]({% post_url 2025-11-09-vs-du-mardi %})      |
-|            Usare 1 Incarico Segreto UR                    | Spiegazione nel [VS del martedì]({% post_url 2025-11-09-vs-du-mardi %})      |
-|      Usare 1 minuto di Accelerazione di Cura              |            Usare acceleratori per curare le unità.                           |
-| Ogni Unità di Liv. 1-10 uccisa nell'Alleanza rivale       |                Unità uccisa nell'alleanza avversaria del VS.                 |
-|             Ogni Unità di Liv. 1-10 uccisa                |                             Unità avversaria uccisa                          |
-|            Ogni Unità di Liv. 1-10 Persa                  |                          Unità personale persa                               |
+|                       Compito                       |                         Spiegazione                         |
+|:---------------------------------------------------:|:-----------------------------------------------------------:|
+|      Inviare 1 volta un Camion Commerciale UR       | Spiegazione nel [VS del martedì](/{{page.lang}}/tuesday-vs) |
+|             Usare 1 Incarico Segreto UR             | Spiegazione nel [VS del martedì](/{{page.lang}}/tuesday-vs) |
+|       Usare 1 minuto di Accelerazione di Cura       |           Usare acceleratori per curare le unità.           |
+| Ogni Unità di Liv. 1-10 uccisa nell'Alleanza rivale |        Unità uccisa nell'alleanza avversaria del VS.        |
+|           Ogni Unità di Liv. 1-10 uccisa            |                   Unità avversaria uccisa                   |
+|            Ogni Unità di Liv. 1-10 Persa            |                    Unità personale persa                    |
 
 ## Se necessario caso per caso (da prioritizzare gli altri giorni, ma queste azioni possono essere utili in un VS tirato o per guadagnare qualche punto per sbloccare uno scrigno)
 
-|                       Compito                        |                                                               Spiegazione                                                               |
-|:----------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
-| Usare 1 minuto di Accelerazione di Costruzione       | Principalmente il martedì.<br/>Da prioritizzare nella finestra `Edifici della Città` per il [CAA]({% post_url 2025-11-09-caa %})       |
-|  Usare 1 minuto di Accelerazione di Ricerca          | Principalmente il mercoledì.<br/>Da prioritizzare nella finestra `Ricerca Tecnologica` per il [CAA]({% post_url 2025-11-09-caa %})     |
-|  Usare 1 minuto di Accelerazione di Addestramento    | Principalmente il venerdì.<br/>Da prioritizzare nella finestra `Progressione delle Unità` per il [CAA]({% post_url 2025-11-09-caa %})  |
+|                     Compito                      |                                                        Spiegazione                                                         |
+|:------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+|  Usare 1 minuto di Accelerazione di Costruzione  |   Principalmente il martedì.<br/>Da prioritizzare nella finestra `Edifici della Città` per il [CAA](/{{page.lang}}/caa)    |
+|    Usare 1 minuto di Accelerazione di Ricerca    |  Principalmente il mercoledì.<br/>Da prioritizzare nella finestra `Ricerca Tecnologica` per il [CAA](/{{page.lang}}/caa)   |
+| Usare 1 minuto di Accelerazione di Addestramento | Principalmente il venerdì.<br/>Da prioritizzare nella finestra `Progressione delle Unità` per il [CAA](/{{page.lang}}/caa) |
 
 
 ## Dove trovare gli scudi

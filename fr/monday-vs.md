@@ -18,7 +18,7 @@ priority: 10
 
 |                                    Tâche                                     |                                                              Explication                                                              |
 |:----------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-|                             Utiliser 1 Endurance                             |                     A prioriser pendant le créneau `Boost de drone` pour le [CAA]({% post_url 2025-11-09-caa %})                      |
+|                             Utiliser 1 Endurance                             |                           A prioriser pendant le créneau `Boost de drone` pour le [CAA](/{{page.lang}}/caa)                           |
 |                           Compléter 1 Tâche Radar                            |                                                     Economisée depuis le dimanche                                                     |
 |                Utiliser 1 Point de Données de Combat du Drone                |                                                         Explication plus bas                                                          |
 |                          Utiliser 1 Pièce de Drone                           |                                                         Explication plus bas                                                          |
@@ -42,8 +42,8 @@ Ce sont les nouveaux coffres arrivés récemment qui permettent d'alimenter l'EX
 
 ## Si besoin au cas par cas
 
-|           Tâche           |                                                                                                    Explication                                                                                                     |
-|:-------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Utiliser 660 EXP de Héros | A prioriser surtout le jeudi pour le VS, mais peut être utile dans des VS serrés ou pour débloquer un coffre<br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA]({% post_url 2025-11-09-caa %}) |
+|           Tâche           |                                                                                               Explication                                                                                               |
+|:-------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Utiliser 660 EXP de Héros | A prioriser surtout le jeudi pour le VS, mais peut être utile dans des VS serrés ou pour débloquer un coffre<br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA](/{{page.lang}}/caa) |
 
 

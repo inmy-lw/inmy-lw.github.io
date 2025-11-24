@@ -18,7 +18,7 @@ priority: 10
 
 |                            Task                            |                                                 Explanation                                                  |
 |:----------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-|                      Use 1 Endurance                       |            Prioritize during the `Drone Boost` slot for the [CAA]({% post_url 2025-11-09-caa %})             |
+|                      Use 1 Endurance                       |                  Prioritize during the `Drone Boost` slot for the [CAA](/{{page.lang}}/caa)                  |
 |                   Complete 1 Radar Task                    |                                              Saved since Sunday                                              |
 |               Use 1 Drone Combat Data Point                |                                              Explanation below                                               |
 |                      Use 1 Drone Part                      |                                              Explanation below                                               |
@@ -42,6 +42,6 @@ These are the new chests that have recently arrived, which allow you to boost th
 
 ## If necessary on a case-by-case basis
 
-|       Task       |                                                                                  Explanation                                                                                  |
-|:----------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Use 660 Hero EXP | Prioritize on Thursdays for VS, but can be useful in close VS or to unlock a chest<br/>Prioritize during the “Hero Advancement” slot for [CAA]({% post_url 2025-11-09-caa %}) |
+|       Task       |                                                                            Explanation                                                                             |
+|:----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Use 660 Hero EXP | Prioritize on Thursdays for VS, but can be useful in close VS or to unlock a chest<br/>Prioritize during the “Hero Advancement” slot for [CAA](/{{page.lang}}/caa) |

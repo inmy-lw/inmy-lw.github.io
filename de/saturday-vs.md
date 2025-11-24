@@ -17,22 +17,22 @@ priority: 15
 
 ## Erläuterungen
 
-|                          Aufgabe                          |                                   Erklärung                                    |
-|:---------------------------------------------------------:|:------------------------------------------------------------------------------:|
-| 1x UR-Handelswagen senden                                 | Erklärung im [VS am Dienstag]({% post_url 2025-11-09-vs-du-mardi %})           |
-| 1 UR-Geheimauftrag verwenden                              | Erklärung im [VS am Dienstag]({% post_url 2025-11-09-vs-du-mardi %})           |
-| 1 Minute Heilungs-Beschleuniger verwenden                 | Beschleuniger nutzen, um Einheiten zu heilen.                                   |
-| Jede Einheit Stufe 1–10, die in der gegnerischen Allianz getötet wird | In der gegnerischen VS‑Allianz getötete Einheit.                      |
-| Jede getötete Einheit Stufe 1–10                          | Getötete gegnerische Einheit                                                   |
-| Jede verlorene Einheit Stufe 1–10                         | Eigene verlorene Einheit                                                       |
+|                                Aufgabe                                |                        Erklärung                         |
+|:---------------------------------------------------------------------:|:--------------------------------------------------------:|
+|                       1x UR-Handelswagen senden                       | Erklärung im [VS am Dienstag](/{{page.lang}}/tuesday-vs) |
+|                     1 UR-Geheimauftrag verwenden                      | Erklärung im [VS am Dienstag](/{{page.lang}}/tuesday-vs) |
+|               1 Minute Heilungs-Beschleuniger verwenden               |      Beschleuniger nutzen, um Einheiten zu heilen.       |
+| Jede Einheit Stufe 1–10, die in der gegnerischen Allianz getötet wird |     In der gegnerischen VS‑Allianz getötete Einheit.     |
+|                   Jede getötete Einheit Stufe 1–10                    |               Getötete gegnerische Einheit               |
+|                   Jede verlorene Einheit Stufe 1–10                   |                 Eigene verlorene Einheit                 |
 
 ## Bei Bedarf fallweise (an anderen Tagen priorisieren; hilfreich bei knappen VS oder um ein paar Punkte für eine Kiste zu holen)
 
-|                         Aufgabe                          |                                                                 Erklärung                                                                 |
-|:--------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
-| 1 Minute Bau-Beschleuniger verwenden                      | Hauptsächlich am Dienstag.<br/>Im Zeitfenster `Stadtgebäude` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren                   |
-| 1 Minute Forschungs-Beschleuniger verwenden               | Hauptsächlich am Mittwoch.<br/>Im Zeitfenster `Technologie-Forschung` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren          |
-| 1 Minute Ausbildungs-Beschleuniger verwenden              | Hauptsächlich am Freitag.<br/>Im Zeitfenster `Einheitenfortschritt` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren            |
+|                   Aufgabe                    |                                                      Erklärung                                                       |
+|:--------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
+|     1 Minute Bau-Beschleuniger verwenden     |     Hauptsächlich am Dienstag.<br/>Im Zeitfenster `Stadtgebäude` für den [CAA](/{{page.lang}}/caa) priorisieren      |
+| 1 Minute Forschungs-Beschleuniger verwenden  | Hauptsächlich am Mittwoch.<br/>Im Zeitfenster `Technologie-Forschung` für den [CAA](/{{page.lang}}/caa) priorisieren |
+| 1 Minute Ausbildungs-Beschleuniger verwenden |  Hauptsächlich am Freitag.<br/>Im Zeitfenster `Einheitenfortschritt` für den [CAA](/{{page.lang}}/caa) priorisieren  |
 
 
 ## Wo findet man Schilde

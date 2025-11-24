@@ -16,13 +16,13 @@ priority: 12
 
 ## Explanation
 
-|                        Task                        |                                              Explanation                                              |
-|:--------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
-|          Use 1 minute of Research Speedup          |      Prioritize during the `Tech Research` window for the [CAA]({% post_url 2025-11-09-caa %}).       |
-|            Increase Tech Power by 1 pt             |                                       Complete a tech research                                        |
-|                 Use 1 Value Badge                  |              A specific point used in certain types of research. See explanation below.               |
-|               Complete 1 Radar Task                |                                          Saved since Tuesday                                          |
-|       Open a Level 1–7 Drone Component Chest       |                                        See explanation below.                                         |
+|                  Task                  |                                   Explanation                                   |
+|:--------------------------------------:|:-------------------------------------------------------------------------------:|
+|    Use 1 minute of Research Speedup    | Prioritize during the `Tech Research` window for the [CAA](/{{page.lang}}/caa). |
+|      Increase Tech Power by 1 pt       |                            Complete a tech research                             |
+|           Use 1 Value Badge            |   A specific point used in certain types of research. See explanation below.    |
+|         Complete 1 Radar Task          |                               Saved since Tuesday                               |
+| Open a Level 1–7 Drone Component Chest |                             See explanation below.                              |
 
 ## Value Badge
 

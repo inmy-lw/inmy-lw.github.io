@@ -16,13 +16,13 @@ priority: 12
 
 ## Erläuterungen
 
-|                           Aufgabe                           |                                               Erklärung                                                |
-|:----------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-|   1 Minute Forschungs-Beschleuniger verwenden               | Im Zeitfenster `Technologie-Forschung` für den [CAA]({% post_url 2025-11-09-caa %}) priorisieren        |
-| Technologie-Kampfkraft um 1 Pt erhöhen                      | Eine Technologieforschung abschließen                                                                  |
-| 1 Wertabzeichen verwenden                                   | Spezieller Punkt, der bei bestimmten Forschungstypen genutzt wird. Erklärung unten                     |
-| 1 Radarauftrag abschließen                                  | Seit Dienstag aufgespart                                                                               |
-| 1 Drohnenkomponenten-Kiste der Stufe 1–7 öffnen             | Erklärung unten                                                                                        |
+|                     Aufgabe                     |                                       Erklärung                                       |
+|:-----------------------------------------------:|:-------------------------------------------------------------------------------------:|
+|   1 Minute Forschungs-Beschleuniger verwenden   | Im Zeitfenster `Technologie-Forschung` für den [CAA](/{{page.lang}}/caa) priorisieren |
+|     Technologie-Kampfkraft um 1 Pt erhöhen      |                         Eine Technologieforschung abschließen                         |
+|            1 Wertabzeichen verwenden            |  Spezieller Punkt, der bei bestimmten Forschungstypen genutzt wird. Erklärung unten   |
+|           1 Radarauftrag abschließen            |                               Seit Dienstag aufgespart                                |
+| 1 Drohnenkomponenten-Kiste der Stufe 1–7 öffnen |                                    Erklärung unten                                    |
 
 ## Wertabzeichen
 
