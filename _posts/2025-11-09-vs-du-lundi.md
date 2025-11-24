@@ -2,6 +2,8 @@
 layout: post
 category: VS
 title:  "VS du lundi"
+lang: fr
+rel: monday_vs
 date:   2025-11-09 23:00:22 +0100
 ---
 

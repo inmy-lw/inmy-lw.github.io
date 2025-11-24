@@ -2,6 +2,8 @@
 layout: post
 category: VS
 title:  "VS du vendredi"
+lang: fr
+rel: friday_vs
 date:   2025-11-09 22:20:22 +0100
 ---
 

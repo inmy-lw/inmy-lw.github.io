@@ -1,3 +1,7 @@
+{% assign lang = page.lang %}
+{% if lang == nil %}
+{% assign lang = 'fr' %}
+{% endif %}
 {% if include.embedded != nil %}
 <ul class="list">
     {% else %}
@@ -10,15 +14,22 @@
                 {% if item.externalUrl != nil %}
                 <a href="{{ item.externalUrl }}" target="_blank">
                     {% else %}
-                    <a href="{{ site.url }}/{{ item.url }}">
+
+                    <a href="{{ site.url }}/{{lang}}/{{ item.url }}">
                         {% endif%}
                         {% if item.icon != nil %}
                         <img src="{{ site.url }}/{{ item.icon }}"/>
                         {% endif %}
-                        {% if item.hue != nil %}
-                        <p style="color: {{ item.hue }}">{{ item.title }}</p>
+                        {% assign translated = (item.translations | where: "lang": page.lang | first).value %}
+                        {% if translated != nil %}
+                        {% assign title = translated %}
                         {% else %}
-                        <p>{{ item.title }}</p>
+                        {% assign title = item.title %}
+                        {% endif %}
+                        {% if item.hue != nil %}
+                        <p style="color: {{ item.hue }}">{{ title }}</p>
+                        {% else %}
+                        <p>{{ title }}</p>
                         {% endif%}
                     </a>
 

@@ -2,6 +2,8 @@
 layout: post
 category: VS
 title:  "VS du jeudi"
+lang: fr
+rel: thursday_vs
 date:   2025-11-09 22:30:22 +0100
 ---
 

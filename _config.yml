@@ -28,6 +28,7 @@ twitter_username: jekyllrb
 github_username: jekyll
 heure_bascule: "03:00"
 duel_serveur: 1781
+page_excerpts: true
 
 # Build settings
 plugins:
@@ -53,6 +54,7 @@ defaults:
       type: category
     values:
       layout: "category"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -2,6 +2,8 @@
 layout: post
 category: VS
 title:  "VS du mardi"
+lang: fr
+rel: tuesday_vs
 date:   2025-11-09 22:50:22 +0100
 ---
 

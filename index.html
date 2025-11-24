@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="">
+<head>
+    <script>
+        const computePrefix = () => {
+            const language = navigator.language;
+            if (/fr/g.test(language)){
+                return "fr";
+            }
+            if (/it/g.test(language)){
+                return "it";
+            }
+            if (/de/g.test(language)){
+                return "de";
+            }
+            if (/en/g.test(language)){
+                return "en";
+            }
+
+            return "fr";
+        }
+
+        const prefix = computePrefix();
+        window.location.assign(`/${prefix}`);
+    </script>
+</head>
+<body>
+
+</body>
+</html>

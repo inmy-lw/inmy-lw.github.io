@@ -2,6 +2,8 @@
 layout: post
 category: [important, VS]
 title:  "VS du samedi"
+lang: fr
+rel: saturday_vs
 date:   2025-11-09 22:10:22 +0100
 ---
 
