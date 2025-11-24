@@ -1,50 +1,50 @@
 ---
 layout: post
 category: [important, VS]
-title:  "VS du samedi"
+title:  "VS del sabato"
 lang: it
 rel: saturday_vs
 date:   2025-11-09 22:10:22 +0100
 priority: 15
 ---
 
-# VS du samedi (bataille générale)
-- BOUCLIER !!! (de {{site.heure_bascule}} à {{site.heure_bascule}}, heure locale) 
+# VS del sabato (battaglia generale)
+- SCUDO!!! (da {{site.heure_bascule}} a {{site.heure_bascule}}, ora locale)
 
-<a href="https://youtu.be/SgsCAmUsv5E?t=3501" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/SgsCAmUsv5E?t=3501" target="_blank">Video esplicativa</a>
 
-{% include image.html url="/assets/img/vs/vs_samedi.webp" description="Actions du VS du samedi" %}
+{% include image.html url="/assets/img/vs/vs_samedi.webp" description="Attività del VS del sabato" %}
 
-## Explications
+## Spiegazioni
 
-|                         Tâche                         |                               Explication                                |
-|:-----------------------------------------------------:|:------------------------------------------------------------------------:|
-|        Envoyer un Camion Commercial UR 1 fois         | Explication dans le [VS du mardi]({% post_url 2025-11-09-vs-du-mardi %}) |
-|              Utiliser 1 Tâche Secrète UR              | Explication dans le [VS du mardi]({% post_url 2025-11-09-vs-du-mardi %}) |
-|       Utiliser 1 minute d'Accélération de Soin        |           Utiliser les accélérateurs pour soigner des unités.            |
-| Chaque Unité de Niv. 1-10 tuée dans l'Alliance rivale |               Unité tuée dans l'alliance adversaire du VS.               |
-|            Chaque Unité de Niv. 1-10 tuée             |                            Unité adverse tuée                            |
-|           Chaque Unité de Niv. 1-10 Perdue            |                         Unité personnelle perdue                         |
+|                          Compito                          |                                 Spiegazione                                 |
+|:---------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| Inviare 1 volta un Camion Commerciale UR                  | Spiegazione nel [VS del martedì]({% post_url 2025-11-09-vs-du-mardi %})      |
+|            Usare 1 Incarico Segreto UR                    | Spiegazione nel [VS del martedì]({% post_url 2025-11-09-vs-du-mardi %})      |
+|      Usare 1 minuto di Accelerazione di Cura              |            Usare acceleratori per curare le unità.                           |
+| Ogni Unità di Liv. 1-10 uccisa nell'Alleanza rivale       |                Unità uccisa nell'alleanza avversaria del VS.                 |
+|             Ogni Unità di Liv. 1-10 uccisa                |                             Unità avversaria uccisa                          |
+|            Ogni Unità di Liv. 1-10 Persa                  |                          Unità personale persa                               |
 
-## Si besoin au cas par cas (à prioriser les autres jours, mais ces actions peuvent être utiles en cas de VS serré ou pour augmenter de quelques points pour débloquer un coffre)
+## Se necessario caso per caso (da prioritizzare gli altri giorni, ma queste azioni possono essere utili in un VS tirato o per guadagnare qualche punto per sbloccare uno scrigno)
 
-|                      Tâche                       |                                                              Explication                                                              |
-|:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-| Utiliser 1 minute d'Accélération de Construction |    Principalement le mardi.<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})    |
-|  Utiliser 1 minute d'Accélération de Recherche   | Principalement le mercredi.<br/>A prioriser pendant le créneau `Recherche Technologique` pour le [CAA]({% post_url 2025-11-09-caa %}) |
-|  Utiliser 1 minute d'Accélération de Formation   | Principalement le vendredi.<br/>A prioriser pendant le créneau `Progression des Unités` pour le [CAA]({% post_url 2025-11-09-caa %})  |
+|                       Compito                        |                                                               Spiegazione                                                               |
+|:----------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
+| Usare 1 minuto di Accelerazione di Costruzione       | Principalmente il martedì.<br/>Da prioritizzare nella finestra `Edifici della Città` per il [CAA]({% post_url 2025-11-09-caa %})       |
+|  Usare 1 minuto di Accelerazione di Ricerca          | Principalmente il mercoledì.<br/>Da prioritizzare nella finestra `Ricerca Tecnologica` per il [CAA]({% post_url 2025-11-09-caa %})     |
+|  Usare 1 minuto di Accelerazione di Addestramento    | Principalmente il venerdì.<br/>Da prioritizzare nella finestra `Progressione delle Unità` per il [CAA]({% post_url 2025-11-09-caa %})  |
 
 
-## Où trouver les boucliers
+## Dove trovare gli scudi
 
-**Note importante : les boucliers ne se cumulent pas... Ils se remplacent, donc calculez bien vos durées de bouclier ;)**
+**Nota importante: gli scudi non si cumulano... Si sostituiscono, quindi calcola bene le durate dello scudo ;)**
 
-{% include image.html url="/assets/img/vs/vs_samedi/accueil_alliance.webp" description="Accéder à la boutique d'alliance depuis le menu d'alliance" %}
+{% include image.html url="/assets/img/vs/vs_samedi/accueil_alliance.webp" description="Accedere al negozio dell'alleanza dal menu alleanza" %}
 
-{% include image.html url="/assets/img/vs/vs_samedi/boutique_alliance.webp" description="Obtenir des boucliers dans la boutique d'alliance" %}
+{% include image.html url="/assets/img/vs/vs_samedi/boutique_alliance.webp" description="Ottenere scudi nel negozio dell'alleanza" %}
 
-## Appliquer un bouclier
+## Applicare uno scudo
 
-{% include image.html url="/assets/img/vs/vs_samedi/bouclier.webp" description="Placer un bouclier après avoir sélectionné sa base dans la vue monde" %}
+{% include image.html url="/assets/img/vs/vs_samedi/bouclier.webp" description="Posizionare uno scudo dopo aver selezionato la propria base nella vista mondo" %}
 
-{% include image.html url="/assets/img/vs/vs_samedi/choix_bouclier.webp" description="Ecran de sélection du bouclier à appliquer" %}
+{% include image.html url="/assets/img/vs/vs_samedi/choix_bouclier.webp" description="Schermata di selezione dello scudo da applicare" %}

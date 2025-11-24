@@ -2,6 +2,6 @@
 layout: category
 lang: it
 category: VS
-title: VS #Category title.
-description: Articles en rapport avec le duel d'alliances (le VS)
+title: VS
+description: Articoli relativi al duello tra alleanze (VS)
 ---

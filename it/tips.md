@@ -1,35 +1,35 @@
 ---
 layout: post
 category: tips
-title:  "Tips"
+title:  "Consigli"
 lang: it
 rel: tips
 date:   2025-11-09 12:00:22 +0100
 ---
 
-# Eviter l'ouverture des cadeaux involontaire
+# Evitare l'apertura involontaria dei regali
 
-L'ouverture des cadeaux (acceptation de la fin de construction d'un bâtiment) rapporte beaucoup de points pour le VS. Il faut donc avoir un maximum de cadeaux à ouvrir le mardi. Il existe un paramètre pour prévenir cette ouverture de cadeaux :
+L'apertura dei regali (accettazione della fine costruzione di un edificio) dà molti punti per il VS. Quindi è bene avere il massimo di regali da aprire il martedì. Esiste un parametro per evitare l'apertura involontaria dei regali:
 
-{% include image.html url="/assets/img/tips/confirmation_ouverture_cadeau.webp" description="Avoir une confirmation lors de l'ouverture d'un cadeau" %}
+{% include image.html url="/assets/img/tips/confirmation_ouverture_cadeau.webp" description="Avere una conferma all'apertura di un regalo" %}
 
-Une fois ce paramètre activé, ce popup de confirmation apparaîtra lorsqu'on touchera un cadeau
+Una volta attivato questo parametro, apparirà questo popup di conferma quando toccherai un regalo
 
-{% include image.html url="/assets/img/tips/popup_confirmation_cadeau.webp" description="Popup de confirmation" %}
+{% include image.html url="/assets/img/tips/popup_confirmation_cadeau.webp" description="Popup di conferma" %}
 
-# Marquer une base
+# Contrassegnare una base
 
-Pour retrouver une base particulière dans la carte, il faut d'abord l'enregistrer en tant que favoris :
+Per ritrovare una base particolare nella mappa, bisogna prima salvarla tra i preferiti:
 
-{% include image.html url="/assets/img/tips/enregistrer_favoris.webp" description="Enregistrer une base en tant que favoris" %}
+{% include image.html url="/assets/img/tips/enregistrer_favoris.webp" description="Salvare una base tra i preferiti" %}
 
-Quelle que soit la catégorie de favoris, pour la retrouver :
+Qualunque sia la categoria dei preferiti, per ritrovarla:
 
-{% include image.html url="/assets/img/tips/recherche_favoris.webp" description="Retrouver une base favorite" %}
+{% include image.html url="/assets/img/tips/recherche_favoris.webp" description="Ritrovare una base preferita" %}
 
-# Coffres gratuits quotidiens
+# Scrigni gratuiti quotidiani
 
-Il existe deux coffres gratuits pouvant être récupérés tous les jours offrant quelques diamants.
+Esistono due scrigni gratuiti che possono essere recuperati ogni giorno e offrono alcuni diamanti.
 
-{% include image.html url="/assets/img/tips/coffres_gratuits.webp" description="Deux petits coffres offerts quotidiennement" %}
+{% include image.html url="/assets/img/tips/coffres_gratuits.webp" description="Due piccoli scrigni offerti quotidianamente" %}
 

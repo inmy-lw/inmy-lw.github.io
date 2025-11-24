@@ -1,36 +1,36 @@
 ---
 layout: post
 category: important
-title:  "Pillages"
+title:  "Razzie"
 lang: it
 ref: plundery
 date:   2025-11-09 23:30:22 +0100
 ---
 
 {% if site.duel_serveur != nil %}
-# Duel interserveur : On ne cible que le **#{{site.duel_serveur}}**
+# Duello inter-server: si punta solo il **#{{site.duel_serveur}}**
 {% else %}
-# Pillages interserveurs
+# Razzie inter-server
 {% endif %}
 
-<a href="https://youtu.be/AZc6yQTF6b0" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/AZc6yQTF6b0" target="_blank">Video esplicativa</a>
 
-**Il est interdit de piller des camions ou des tâches sur notre serveur !**
+**È vietato razziare camion o incarichi sul nostro server!**
 
 
-## Piller des camions
+## Raziare i camion
 
-**Toujours garder cochée la case _Filtrer les camions de votre Zone de guerre_**
+**Tenere sempre attiva l'opzione _Filtra i camion della tua Zona di Guerra_**
 {% include image.html url="/assets/img/screens/pillage_camion.webp" description="Chercher des camions sur un autre serveur" %}
 
-## Piller des tâches secrètes
+## Raziare incarichi segreti
 
-Une fois sur un serveur adverse (accessible en passant par les camions), il est possible de piller des tâches secrètes.
+Una volta su un server avversario (accessibile passando dai camion), è possibile razziare incarichi segreti.
 {% include image.html url="/assets/img/screens/pillages_taches.webp" description="Tâches secrètes dans une vue monde" %}
 
-Les UR (en orange sur la carte) rapportent plus de ressources ! ;)
+Le UR (in arancione sulla mappa) fruttano più risorse! ;)
 
-Une fois qu'on a trouvé une jolie tâche qui rapporte beaucoup, on en fait profiter les copains en partageant dans le chat ! :)
+Una volta trovata una bella missione che rende molto, condividila in chat per farne beneficiare i compagni! :)
 {% include image.html url="/assets/img/screens/partage_tache.webp" description="Partage d'une tâche secrète" %}
 
-Pour éviter de trop polluer le chat, on essaie de partager que des tâches UR de niveau 3+ (dans l'exemple la tâche UR est une tâche de niveau 5).
+Per evitare di inquinare troppo la chat, cerchiamo di condividere solo incarichi UR di livello 3+ (nell'esempio l'incarico UR è di livello 5).

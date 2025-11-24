@@ -1,39 +1,39 @@
 ---
 layout: post
 category: VS
-title:  "VS du vendredi"
+title:  "VS del venerdì"
 lang: it
 rel: friday_vs
 date:   2025-11-09 22:20:22 +0100
 priority: 14
 ---
 
-# VS du vendredi (Mobilisation Totale)
+# VS del venerdì (Mobilitazione Totale)
 
-<a href="https://youtu.be/SgsCAmUsv5E?t=2580" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/SgsCAmUsv5E?t=2580" target="_blank">Video esplicativa</a>
 
-{% include image.html url="/assets/img/vs/vs_vendredi.webp" description="Actions du VS du vendredi" %}
+{% include image.html url="/assets/img/vs/vs_vendredi.webp" description="Attività del VS del venerdì" %}
 
-## Explications
+## Spiegazioni
 
-|                     Tâche                     |                                                                                              Explication                                                                                               |
-|:---------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|            Compléter 1 Tâche Radar            |                                                                                     Économisées depuis la veille.                                                                                      |
-| Utiliser 1 minute d'Accélération de Formation |                   Utiliser les accélérateurs pour terminer des formations.<br/>A prioriser pendant le créneau `Progression des Unités` pour le [CAA]({% post_url 2025-11-09-caa %})                    |
-|         Former 1 unité de niveau 1-10         | Former des unités. Pour plus de points, utiliser la promotion (plus rapide que la formation).<br/>A prioriser pendant le créneau `Progression des Unités` pour le [CAA]({% post_url 2025-11-09-caa %}) |
+|                      Compito                      |                                                                                               Spiegazione                                                                                               |
+|:-------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|             Completare 1 Incarico Radar           |                                                                                     Conservati dal giorno prima.                                                                                       |
+| Usare 1 minuto di Accelerazione Addestramento     | Usare gli acceleratori per completare gli addestramenti.<br/>Da prioritizzare nella finestra `Progressione delle Unità` per il [CAA]({% post_url 2025-11-09-caa %})                                   |
+|        Addestrare 1 unità di livello 1-10         | Addestrare unità. Per più punti, usare la promozione (più veloce dell'addestramento).<br/>Da prioritizzare nella finestra `Progressione delle Unità` per il [CAA]({% post_url 2025-11-09-caa %})       |
 
 
-## En fin de journée
+## A fine giornata
 
-En fin de journée, une notification du jeu peut apparaître pour prévenir de mettre son bouclier pour être en paix le samedi 😉.
+A fine giornata, può apparire una notifica del gioco per ricordare di mettere lo scudo per stare tranquilli il sabato 😉.
 
-{% include image.html url="/assets/img/vs/vs_vendredi/rappel_bouclier_jeu.webp" description="Rappel de la journée du samedi... On peut éventuellement mettre un bouclier à ce moment-là !" %}
+{% include image.html url="/assets/img/vs/vs_vendredi/rappel_bouclier_jeu.webp" description="Promemoria del sabato... Si può eventualmente mettere uno scudo in quel momento!" %}
 
-## Si besoin au cas par cas (à prioriser les autres jours, mais ces actions peuvent être utiles en cas de VS serré ou pour augmenter de quelques points pour débloquer un coffre)
+## Se necessario caso per caso (da prioritizzare gli altri giorni, ma queste azioni possono essere utili in un VS tirato o per aumentare di qualche punto per sbloccare uno scrigno)
 
-|                      Tâche                       |                                                              Explication                                                              |
-|:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-|   Augmenter la Puissance des Bâtiments de 1 pt   |    Principalement le mardi.<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})    |
-| Utiliser 1 minute d'Accélération de Construction |    Principalement le mardi.<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})    |
-|  Utiliser 1 minute d'Accélération de Recherche   | Principalement le mercredi.<br/>A prioriser pendant le créneau `Recherche Technologique` pour le [CAA]({% post_url 2025-11-09-caa %}) |
-|   Augmenter la Puissance Technologique de 1 pt   | Principalement le mercredi.<br/>A prioriser pendant le créneau `Recherche Technologique` pour le [CAA]({% post_url 2025-11-09-caa %}) |
+|                       Compito                        |                                                               Spiegazione                                                               |
+|:----------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|  Aumentare di 1 pt la Potenza degli Edifici          | Principalmente il martedì.<br/>Da prioritizzare nella finestra `Edifici della Città` per il [CAA]({% post_url 2025-11-09-caa %})      |
+| Usare 1 minuto di Accelerazione di Costruzione       | Principalmente il martedì.<br/>Da prioritizzare nella finestra `Edifici della Città` per il [CAA]({% post_url 2025-11-09-caa %})      |
+|  Usare 1 minuto di Accelerazione di Ricerca          | Principalmente il mercoledì.<br/>Da prioritizzare nella finestra `Ricerca Tecnologica` per il [CAA]({% post_url 2025-11-09-caa %})     |
+|  Aumentare di 1 pt la Potenza Tecnologica            | Principalmente il mercoledì.<br/>Da prioritizzare nella finestra `Ricerca Tecnologica` per il [CAA]({% post_url 2025-11-09-caa %})     |

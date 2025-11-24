@@ -1,44 +1,44 @@
 ---
 layout: post
 category: VS
-title:  "VS du mardi"
+title:  "VS del martedì"
 lang: it
 rel: tuesday_vs
 date:   2025-11-09 22:50:22 +0100
 priority: 11
 ---
 
-# VS du mardi (Expansion de base)
+# VS del martedì (Espansione della base)
 
-<a href="https://youtu.be/SgsCAmUsv5E?t=511" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/SgsCAmUsv5E?t=511" target="_blank">Video esplicativa</a>
 
-{% include image.html url="/assets/img/vs/vs_mardi.webp" description="Actions du VS du mardi" %}
+{% include image.html url="/assets/img/vs/vs_mardi.webp" description="Attività del VS del martedì" %}
 
-## Explications
+## Spiegazioni
 
-|                      Tâche                       |                                                                             Explication                                                                             |
-|:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Utiliser 1 minute d'Accélération de Construction |                                 A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %})                                  |
-|   Augmenter la Puissance des Bâtiments de 1 pt   | Ouverture des cadeaux accumulés depuis la semaine précédente<br/>A prioriser pendant le créneau `Bâtiment de la ville` pour le [CAA]({% post_url 2025-11-09-caa %}) |
-|      Envoyer un Camion Commercial UR 1 fois      |                                                                        Explication plus bas                                                                         |
-|           Effectuer 1 Tâche Secrète UR           |                                                                        Explication plus bas                                                                         |
-|               Recruter 1 Survivant               |                                                                          Depuis la taverne                                                                          |
+|                       Compito                       |                                                                              Spiegazione                                                                               |
+|:---------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Usare 1 minuto di Accelerazione di Costruzione      | Da prioritizzare nella finestra `Edifici della Città` per il [CAA]({% post_url 2025-11-09-caa %})                                |
+| Aumentare di 1 pt la Potenza degli Edifici          | Aprire i regali accumulati dalla settimana precedente<br/>Da prioritizzare nella finestra `Edifici della Città` per il [CAA]({% post_url 2025-11-09-caa %}) |
+| Inviare 1 volta un Camion Commerciale UR            |                                                                            Spiegazione sotto                                                                           |
+|        Effettuare 1 Incarico Segreto UR             |                                                                            Spiegazione sotto                                                                           |
+|                  Reclutare 1 Sopravvissuto          |                                                                           Dalla taverna                                                                                 |
 
-## En plus
+## In più
 
-Pour préparer la journée du mercredi :
-- On ne touche pas à ses tâches radar, on les garde pour le VS du mercredi (calculer tout de même pour ne pas bloquer le compteur si vous êtes au taquet).
+Per preparare la giornata di mercoledì:
+- Non toccare gli incarichi radar, conservali per il VS di mercoledì (calcola comunque per non bloccare il contatore se sei al limite).
 
-<a href="https://youtu.be/ugD7PMJw214?t=798" target="_blank">Explication vidéo super claire</a>
+<a href="https://youtu.be/ugD7PMJw214?t=798" target="_blank">Spiegazione video chiarissima</a>
 
-## Camion Commercial UR
+## Camion Commerciale UR
 
-On en obtient en le rafraîchissant avec les contrats commerciaux (les mêmes donnés et gagnés grâce au train).
+Si ottiene aggiornandolo con i contratti commerciali (gli stessi dati e guadagnati grazie al treno).
 
-{% include image.html url="/assets/img/vs/vs_mardi/camion_ur.webp" description="Obtenir des camions UR" %}
+{% include image.html url="/assets/img/vs/vs_mardi/camion_ur.webp" description="Ottenere camion UR" %}
 
-## Tâche secrète UR
+## Incarico segreto UR
 
-On en obtient en rafraîchissant avec les ordres secrets.
+Si ottiene aggiornando con gli ordini segreti.
 
-{% include image.html url="/assets/img/vs/vs_mardi/tache_ur.webp" description="Obtenir des tâches secrètes UR" %}
+{% include image.html url="/assets/img/vs/vs_mardi/tache_ur.webp" description="Ottenere incarichi segreti UR" %}

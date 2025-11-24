@@ -2,6 +2,6 @@
 layout: category
 lang: it
 category: important
-title: Important
-description: Toutes les informations importantes sont ici.
+title: Importante
+description: Tutte le informazioni importanti sono qui.
 ---

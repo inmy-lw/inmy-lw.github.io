@@ -1,30 +1,30 @@
 ---
 layout: post
 category: important
-title:  "Ruche"
+title:  "Alveare"
 lang: it
 rel: behive
 date:   2025-11-09 23:29:22 +0100
 ---
-# Revenir dans la ruche
-Pour revenir dans la ruche, il faut profiter du TP offert le samedi pendant le VS.
+# Rientrare nell'alveare
+Per rientrare nell'alveare, bisogna approfittare del TP offerto il sabato durante il VS.
 
-{% include image.html url="/assets/img/screens/tuto_tp_vs.webp" description="Utilisation du TP du VS" %}
+{% include image.html url="/assets/img/screens/tuto_tp_vs.webp" description="Utilizzo del TP del VS" %}
 
-Une fois ce jour passé, il faut acheter un TP avancé dans la boutique d'alliance pour revenir s'aligner dans la ruche.
+Passato questo giorno, bisogna acquistare un TP avanzato nel negozio dell'alleanza per tornare ad allinearsi nell'alveare.
 
-{% include image.html url="/assets/img/screens/boutique_alliance_tp.webp" description="Boutique d'alliance pour acheter des TP" %}
+{% include image.html url="/assets/img/screens/boutique_alliance_tp.webp" description="Negozio dell'alleanza per acquistare i TP" %}
 
-# Disposition de la ruche
+# Disposizione dell'alveare
 
-{% include image.html url="/assets/img/screens/ruche.webp" description="Disposition de la ruche autour du maréchal" %}
+{% include image.html url="/assets/img/screens/ruche.webp" description="Disposizione dell'alveare attorno al maresciallo" %}
 
-En Jaune sont disposés les R4 & R5.
+In giallo sono disposti gli R4 e R5.
 
-En Bleu, les plus forts autres que R4 & R5.
+In blu, i più forti diversi da R4 e R5.
 
-En vert, tous les autres.
+In verde, tutti gli altri.
 
-# Pourquoi du comment
+# Perché e come
 
-Cette disposition permet aux R4 et R4 d'avoir moins de distance à parcourir pour aller au maréchal et donc de proposer plus de rallyes. Les R4 & R5 proposent dans leurs rallyes un boost d'attaque de `+2,5%` ou `+5%` qui nous profitent à tous ! 😉
+Questa disposizione permette agli R4 e R5 di avere meno distanza da percorrere per arrivare al maresciallo e quindi di proporre più rally. Gli R4 e R5 propongono nei loro rally un bonus d'attacco di `+2,5%` o `+5%` che giova a tutti! 😉

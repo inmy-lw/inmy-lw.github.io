@@ -1,60 +1,60 @@
 ---
 layout: post
 category: tips
-title:  "Boutiques"
+title:  "Negozi"
 lang: it
 rel: store
 date:   2025-11-09 23:40:22 +0100
 ---
 
-# Boutiques
+# Negozi
 
-<a href="https://youtu.be/lcRA_sQTYnM?t=1448" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/lcRA_sQTYnM?t=1448" target="_blank">Video esplicativa</a>
 
-On accède aux différentes boutiques du jeu en passant par le bouton Alliance > Boutique d'Alliance.
+Si accede ai diversi negozi del gioco passando dal pulsante Alleanza > Negozio dell'Alleanza.
 
-_Les Coffres de Puce ont été rajoutés après l'édition de la vidéo !_ 😉
+_Gli Scrigni di Chip sono stati aggiunti dopo l'uscita del video !_ 😉
 
-## Diamants
+## Diamanti
 
-On ne prend rien ici ! 😉
+Qui non si compra nulla! 😉
 
 ## VIP
 
-- 5 min d'Accélération
-- 1h d'Accélération
-- 3h d'Accélération
-- 8h d'Accélération (VIP 10)
+- Accelerazione 5 min
+- Accelerazione 1h
+- Accelerazione 3h
+- Accelerazione 8h (VIP 10)
 
-## Alliance
+## Alleanza
 
-- Fragment de Héros UR Universel
-- Pièces de Drone
-- **Coffre de Puce de Compétence (SR)**
-- 1h d'accélération de Construction
-- 8h d'Accélération de Construction
-- 1h d'Accélération de Formation
-- 8h d'Accélération de Formation
-- 1h d'Accélération des Soins (quand beaucoup de points à dépenser)
-- 8h d'Accélération des Soins (quand beaucoup de points à dépenser)
-- 1h d'Accélération Tech
-- 8h d'Accélération Tech
+- Frammento Eroe UR Universale
+- Pezzi di Drone
+- **Scrigno di Chip di Abilità (SR)**
+- 1h Accelerazione Costruzione
+- 8h Accelerazione Costruzione
+- 1h Accelerazione Addestramento
+- 8h Accelerazione Addestramento
+- 1h Accelerazione Cure (quando hai molti punti da spendere)
+- 8h Accelerazione Cure (quando hai molti punti da spendere)
+- 1h Accelerazione Tech
+- 8h Accelerazione Tech
 
-## Honneur
+## Onore
 
-- Plan d'équipement (UR)
+- Progetto equipaggiamento (UR)
 
-## Campagne
+## Campagna
 
-- Coffre de Campagne (UR)
-- Coffre de Composant de Drone Niv. 3
-- Fragment de Héros UR Universel
-- Composant de Décoration Universel
-- **Matériel de Puce Basique**
-- **Coffre de Puce de Compétence (SSR)**
-- **Coffre de Puce de Compétence (R)**
-- Pierre d'Amélioration
-- Pièces de Drone
-- 1h d'Accélération
+- Scrigno Campagna (UR)
+- Scrigno Componenti Drone Liv. 3
+- Frammento Eroe UR Universale
+- Componente Decorazione Universale
+- **Materiale Chip Basico**
+- **Scrigno di Chip di Abilità (SSR)**
+- **Scrigno di Chip di Abilità (R)**
+- Pietra di Potenziamento
+- Pezzi di Drone
+- 1h di Accelerazione
 
 

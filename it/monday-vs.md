@@ -1,49 +1,49 @@
 ---
 layout: post
 category: VS
-title:  "VS du lundi"
+title:  "VS del lunedì"
 lang: it
 rel: monday_vs
 date:   2025-11-09 23:00:22 +0100
 priority: 10
 ---
 
-# VS du lundi (Entraînement Radar)
+# VS del lunedì (Addestramento Radar)
 
-<a href="https://youtu.be/SgsCAmUsv5E?t=51" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/SgsCAmUsv5E?t=51" target="_blank">Video esplicativa</a>
 
-{% include image.html url="/assets/img/vs/vs_lundi.webp" description="Actions du VS du lundi" %}
+{% include image.html url="/assets/img/vs/vs_lundi.webp" description="Attività del VS del lunedì" %}
 
-## Explications
+## Spiegazioni
 
-|                                    Tâche                                     |                                                              Explication                                                              |
-|:----------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-|                             Utiliser 1 Endurance                             |                     A prioriser pendant le créneau `Boost de drone` pour le [CAA]({% post_url 2025-11-09-caa %})                      |
-|                           Compléter 1 Tâche Radar                            |                                                     Economisée depuis le dimanche                                                     |
-|                Utiliser 1 Point de Données de Combat du Drone                |                                                         Explication plus bas                                                          |
-|                          Utiliser 1 Pièce de Drone                           |                                                         Explication plus bas                                                          |
-| Collecter 100 de Nourriture<br/>Collecter 100 de Fer<br/>Collecter 60 Pièces | Envoi des teams en minage (depuis le dimanche soir mais le retour doit être prévu après {{site.heure_bascule}}) puis toute la journée |
-|        Pour 1 Matériau de Puce premium obtenu dans un Coffre de Puce         |                                          Ouvrir les coffres de puces (description plus bas)                                           |
+|                                     Compito                                     |                                                               Spiegazione                                                               |
+|:-------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
+|                              Usare 1 Resistenza                                 | Da prioritizzare nella finestra `Boost del drone` per il [CAA]({% post_url 2025-11-09-caa %})                                           |
+|                           Completare 1 Incarico Radar                           |                                                     Conservato dalla domenica                                                           |
+|                Usare 1 Punto Dati di Combattimento del Drone                    |                                                         Spiegazione sotto                                                               |
+|                          Usare 1 Pezzo di Drone                                 |                                                         Spiegazione sotto                                                               |
+| Raccogliere 100 Cibo<br/>Raccogliere 100 Ferro<br/>Raccogliere 60 Monete        | Inviare i team a minare (dalla domenica sera ma farli rientrare dopo {{site.heure_bascule}}) poi per tutta la giornata                 |
+|       1 Materiale di Chip premium ottenuto in uno Scrigno di Chip               |                                           Aprire gli scrigni di chip (spiegazione sotto)                                                |
 
-## Point de Données de Combat du Drone et Pièces de drone
-Il faut utiliser ces points
+## Punti Dati di Combattimento del Drone e Pezzi del drone
+Questi punti vanno usati
 
-{% include image.html url="/assets/img/vs/vs_lundi/pieces_drone.webp" description="Points de données de combat et pièces de drone" %}
+{% include image.html url="/assets/img/vs/vs_lundi/pieces_drone.webp" description="Punti dati di combattimento e pezzi del drone" %}
 
-Dans cet onglet du drone
+In questa scheda del drone
 
-{% include image.html url="/assets/img/vs/vs_lundi/points_drone.webp" description="Amélioration du drone le lundi" %}
+{% include image.html url="/assets/img/vs/vs_lundi/points_drone.webp" description="Miglioramento del drone il lunedì" %}
 
-## Coffres de Puce
+## Scrigni di Chip
 
-Ce sont les nouveaux coffres arrivés récemment qui permettent d'alimenter l'EXP de Boost de Combat du drone.
+Sono i nuovi scrigni arrivati di recente che permettono di alimentare l'EXP del Boost di Combattimento del drone.
 
-{% include image.html url="/assets/img/vs/vs_lundi/coffres_puces.webp" description="Coffres de Puce de drone" %}
+{% include image.html url="/assets/img/vs/vs_lundi/coffres_puces.webp" description="Scrigni di chip del drone" %}
 
-## Si besoin au cas par cas
+## Se necessario caso per caso
 
-|           Tâche           |                                                                                                    Explication                                                                                                     |
-|:-------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Utiliser 660 EXP de Héros | A prioriser surtout le jeudi pour le VS, mais peut être utile dans des VS serrés ou pour débloquer un coffre<br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA]({% post_url 2025-11-09-caa %}) |
+|            Compito             |                                                                                                     Spiegazione                                                                                                      |
+|:------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Usare 660 EXP Eroe             | Da prioritizzare soprattutto il giovedì per il VS, ma può essere utile nei VS tirati o per sbloccare uno scrigno<br/>Da prioritizzare nella finestra `Avanzamento Eroe` per il [CAA]({% post_url 2025-11-09-caa %}) |
 
 

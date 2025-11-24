@@ -1,85 +1,85 @@
 ---
 layout: post
 category: events
-title:  "Course Aux Armes (CAA)"
+title:  "Corsa agli Armamenti (CAA)"
 lang: it
 ref: caa
 date:   2025-11-09 13:00:22 +0100
 ---
-# Course Aux Armes
+# Corsa agli Armamenti
 
-<a href="https://youtu.be/ugD7PMJw214?t=38" target="_blank">Vidéo explicative</a>
+<a href="https://youtu.be/ugD7PMJw214?t=38" target="_blank">Video esplicativa</a>
 
-La Course Aux Armes (CAA) est un événement régulier qu'on trouve dans la liste des événements : 
+La Corsa agli Armamenti (CAA) è un evento regolare che si trova nell'elenco degli eventi:
 
-![Bouton evenements](/assets/img/screens/btn_evenements.webp)
+![Pulsante eventi](/assets/img/screens/btn_evenements.webp)
 
-## But
+## Obiettivo
 
-Obtenir tous les jours les 18 coffres de récompenses.
+Ottenere ogni giorno i 18 scrigni ricompensa.
 
-{% include image.html url="/assets/img/caa/caa.webp" description="Ecran du CAA" %}
+{% include image.html url="/assets/img/caa/caa.webp" description="Schermata del CAA" %}
 
-## Connaître les différents horaires des créneaux
+## Conoscere gli orari delle varie finestre
 
-{% include image.html url="/assets/img/caa/caa_calendrier.webp" description="Bouton calendrier permettant de connaître les horaires des créneaux" %}
+{% include image.html url="/assets/img/caa/caa_calendrier.webp" description="Pulsante calendario per conoscere gli orari delle finestre" %}
 
-# Différents créneaux
+# Diverse finestre
 
-## Avancement du Héros
+## Avanzamento dell'Eroe
 
-{% include image.html url="/assets/img/caa/caa_heros.webp" description="Créneau Avancement du Héros du CAA" %}
+{% include image.html url="/assets/img/caa/caa_heros.webp" description="Finestra Avanzamento dell'Eroe del CAA" %}
 
-Pour obtenir les 12000 points nécéssaires pour obtenir les 3 coffres, ça représente :
+Per ottenere i 12000 punti necessari per ottenere i 3 scrigni, questo rappresenta:
 
-| Action                     | Quantité requise                                                                                                  |
-|----------------------------|-------------------------------------------------------------------------------------------------------------------|
-| 1 Recrutement de Héros     | 30 tickets à utiliser (12000 / 400 = 30)                                                                          |
-| Utiliser 2000 EXP de Héros | 24M EXP de héros (12000 * 2000 = 24M)<br/>Pour améliorer un héros Lvl 93 (vers Lvl 94), il faut 24M Exp de héros. |
+| Azione                      | Quantità richiesta                                                                                                 |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------|
+| 1 Reclutamento di Eroe     | 30 biglietti da usare (12000 / 400 = 30)                                                                            |
+| Usare 2000 EXP Eroe        | 24M EXP eroe (12000 * 2000 = 24M)<br/>Per migliorare un eroe Lvl 93 (verso Lvl 94) servono 24M EXP eroe.          |
 
-## Bâtiment de la Ville
+## Edifici della Città
 
-{% include image.html url="/assets/img/caa/caa_batiments.webp" description="Créneau Bâtiment de la Ville du CAA" %}
+{% include image.html url="/assets/img/caa/caa_batiments.webp" description="Finestra Edifici della Città del CAA" %}
 
-Pour obtenir les 24000 points nécéssaires pour obtenir les 3 coffres, ça représente :
+Per ottenere i 24000 punti necessari per ottenere i 3 scrigni, questo rappresenta:
 
-| Action                                           | Quantité requise                             |
-|--------------------------------------------------|----------------------------------------------|
-| Augmenter la Puissance des Bâtiments de 1 pt     | 24000 points à obtenir                       |
-| Utiliser 1 minute d'Accélaration de Construction | 2400 minutes = 40 heures (24000 / 10 = 2400) |
-
-
-## Progression des Unités
-
-{% include image.html url="/assets/img/caa/caa_unites.webp" description="Créneau Progression des Unités du CAA" %}
-
-Pour obtenir les 60000 points nécéssaires pour obtenir les 3 coffres, ça représente :
-
-| Action                                        | Quantité requise                                     |
-|-----------------------------------------------|------------------------------------------------------|
-| Former 1 unité de niveau 7                    | 2728 unités niveau 7 à former (60000 / 22 = 2727,27) |
-| Utiliser 1 minute d'Accélération de Formation | 6000 minutes = 100 heures (60000 / 10 = 6000)        |
-
-## Recherche Technologique
-
-{% include image.html url="/assets/img/caa/caa_techno.webp" description="Créneau Recherche Technologique du CAA" %}
-
-Pour obtenir les 24000 points nécéssaires pour obtenir les 3 coffres, ça représente :
-
-| Action                                        | Quantité requise                             |
-|-----------------------------------------------|----------------------------------------------|
-| Augmenter la Puissance Technologique de 1 pt  | 24000 points à augmenter                     |
-| Utiliser 1 minute d'Accélération de Recherche | 2400 minutes = 40 heures (24000 / 10 = 2400) |
+| Azione                                           | Quantità richiesta                             |
+|--------------------------------------------------|-----------------------------------------------|
+| Aumentare di 1 pt la Potenza degli Edifici       | 24000 punti da ottenere                        |
+| Usare 1 minuto di Accelerazione Costruzione      | 2400 minuti = 40 ore (24000 / 10 = 2400)       |
 
 
-## Boost de drône
+## Progressione delle Unità
 
-{% include image.html url="/assets/img/caa/caa_drone.webp" description="Créneau Boost de Drone du CAA" %}
+{% include image.html url="/assets/img/caa/caa_unites.webp" description="Finestra Progressione delle Unità del CAA" %}
 
-Pour obtenir les 30000 points nécéssaires pour obtenir les 3 coffres, ça représente :
+Per ottenere i 60000 punti necessari per ottenere i 3 scrigni, questo rappresenta:
 
-| Action                                           | Quantité requise                     |
-|--------------------------------------------------|--------------------------------------|
-| Utiliser 10 points de Données de Combat de Drone | 300 000 points (10 * 30000 = 300000) |
-| Utiliser 1 Endurance                             | 300 Endurance (30000 / 100 = 300)    |
+| Azione                                        | Quantità richiesta                                      |
+|-----------------------------------------------|---------------------------------------------------------|
+| Addestrare 1 unità di livello 7               | 2728 unità di livello 7 da addestrare (60000 / 22 = 2727,27) |
+| Usare 1 minuto di Accelerazione Addestramento | 6000 minuti = 100 ore (60000 / 10 = 6000)              |
+
+## Ricerca Tecnologica
+
+{% include image.html url="/assets/img/caa/caa_techno.webp" description="Finestra Ricerca Tecnologica del CAA" %}
+
+Per ottenere i 24000 punti necessari per ottenere i 3 scrigni, questo rappresenta:
+
+| Azione                                        | Quantità richiesta                             |
+|-----------------------------------------------|-----------------------------------------------|
+| Aumentare di 1 pt la Potenza Tecnologica      | 24000 punti da aumentare                       |
+| Usare 1 minuto di Accelerazione Ricerca       | 2400 minuti = 40 ore (24000 / 10 = 2400)       |
+
+
+## Boost del drone
+
+{% include image.html url="/assets/img/caa/caa_drone.webp" description="Finestra Boost del Drone del CAA" %}
+
+Per ottenere i 30000 punti necessari per ottenere i 3 scrigni, questo rappresenta:
+
+| Azione                                           | Quantità richiesta                     |
+|--------------------------------------------------|----------------------------------------|
+| Usare 10 Punti Dati di Combattimento del Drone   | 300 000 punti (10 * 30000 = 300000)    |
+| Usare 1 Resistenza                                | 300 Resistenza (30000 / 100 = 300)     |
 
