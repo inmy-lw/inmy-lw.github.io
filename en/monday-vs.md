@@ -12,7 +12,22 @@ priority: 10
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=51" target="_blank">Explanatory video</a>
 
-{% include image.html url="/assets/img/vs/vs_lundi.webp" description="Actions du VS du lundi" %}
+## Daily Details
+
+
+| VS Pieces <br/>![piece_vs](/assets/img/piece_vs.webp) |             Task              |                                                                                 Explanation                                                                                 |
+|------------------------------------------------------|:----------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| + 300                                                |       Use 1 Endurance        |                                         Prioritize during the `Drone Boost` slot for the [CAA](/{{page.lang}}/caa)                                                          |
+| + 25 000                                             |    Complete 1 Radar Task     |                                                                                 Saved since Sunday                                                                          |
+| + 6                                                  | Use 1 Drone Combat Data Point|                                                                              Explanation below                                                                              |
+| + 5 000                                              |        Use 1 Drone Part      |                                                                              Explanation below                                                                              |
+| + 40                                                 | Collect 100 Food (non-radar) | Send teams to mine (starting Sunday evening, but they must return after {{site.heure_bascule}}) then all day                                                               |
+| + 40                                                 |  Collect 100 Iron (non-radar)| Send teams to mine (starting Sunday evening, but they must return after {{site.heure_bascule}}) then all day                                                               |
+| + 40                                                 |  Collect 60 Coins (non-radar)| Send teams to mine (starting Sunday evening, but they must return after {{site.heure_bascule}}) then all day                                                               |
+| + 2 250                                              | For 1 Premium Chip Material from a Chip Chest |                                                     Open the chip chests (description below)                                                       |
+| + 2                                                  |       Use 660 Hero EXP       | Prioritize on Thursdays for VS, but can be useful in close VS or to unlock a chest<br/>Prioritize during the "Hero Advancement" slot for the [CAA](/{{page.lang}}/caa) |
+| ~~+ 30~~                                             | ~~For each Diamond obtained when buying a pack~~ |                                                                   ~~Hardly ever recommended~~                                                                      |
+
 
 ## Explanations
 

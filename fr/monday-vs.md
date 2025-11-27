@@ -12,18 +12,21 @@ priority: 10
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=51" target="_blank">Vidéo explicative</a>
 
-{% include image.html url="/assets/img/vs/vs_lundi.webp" description="Actions du VS du lundi" %}
+## Détail de la journée
 
-## Explications
 
-|                                    Tâche                                     |                                                              Explication                                                              |
-|:----------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-|                             Utiliser 1 Endurance                             |                           A prioriser pendant le créneau `Boost de drone` pour le [CAA](/{{page.lang}}/caa)                           |
-|                           Compléter 1 Tâche Radar                            |                                                     Economisée depuis le dimanche                                                     |
-|                Utiliser 1 Point de Données de Combat du Drone                |                                                         Explication plus bas                                                          |
-|                          Utiliser 1 Pièce de Drone                           |                                                         Explication plus bas                                                          |
-| Collecter 100 de Nourriture<br/>Collecter 100 de Fer<br/>Collecter 60 Pièces | Envoi des teams en minage (depuis le dimanche soir mais le retour doit être prévu après {{site.heure_bascule}}) puis toute la journée |
-|        Pour 1 Matériau de Puce premium obtenu dans un Coffre de Puce         |                                          Ouvrir les coffres de puces (description plus bas)                                           |
+| Pièces du VS <br/>![piece_vs](/assets/img/piece_vs.webp) |                             Tâche                             |                                                                                               Explication                                                                                               |
+|----------------------------------------------------------|:-------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| + 300                                                    |                     Utiliser 1 Endurance                      |                                                            A prioriser pendant le créneau `Boost de drone` pour le [CAA](/{{page.lang}}/caa)                                                            |
+| + 25 000                                                 |                    Compléter 1 Tâche Radar                    |                                                                                      Economisée depuis le dimanche                                                                                      |
+| + 6                                                      |        Utiliser 1 Point de Données de Combat du Drone         |                                                                                          Explication plus bas                                                                                           |
+| + 5 000                                                  |                   Utiliser 1 Pièce de Drone                   |                                                                                          Explication plus bas                                                                                           |
+| + 40                                                     |        Collecter 100 de Nourriture (hors tâches radar)        |                                  Envoi des teams en minage (depuis le dimanche soir mais le retour doit être prévu après {{site.heure_bascule}}) puis toute la journée                                  |
+| + 40                                                     |           Collecter 100 de Fer (hors tâches radar)            |                                  Envoi des teams en minage (depuis le dimanche soir mais le retour doit être prévu après {{site.heure_bascule}}) puis toute la journée                                  |
+| + 40                                                     |            Collecter 60 Pièces (hors tâches radar)            |                                  Envoi des teams en minage (depuis le dimanche soir mais le retour doit être prévu après {{site.heure_bascule}}) puis toute la journée                                  |
+| + 2 250                                                  | Pour 1 Matériau de Puce premium obtenu dans un Coffre de Puce |                                                                           Ouvrir les coffres de puces (description plus bas)                                                                            |
+| + 2                                                      |                   Utiliser 660 EXP de Héros                   | A prioriser surtout le jeudi pour le VS, mais peut être utile dans des VS serrés ou pour débloquer un coffre<br/>A prioriser pendant le créneau `Avancement du Héros` pour le [CAA](/{{page.lang}}/caa) |
+| ~~+ 30~~                                                 |   ~~Pour chaque Diamant obtenu lors de l'achat d'un pack~~    |                                                                                    ~~Jamais franchement conseillé~~                                                                                     |
 
 ## Point de Données de Combat du Drone et Pièces de drone
 Il faut utiliser ces points
