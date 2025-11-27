@@ -1,3 +1,13 @@
+function changeLanguage(language) {
+    const currentPath = window.location.pathname;
+
+    const regExp = new RegExp(`/${language}/`);
+    if (!regExp.test(currentPath)) {
+        const newPath = currentPath.replace(/\/(en|fr|de|ìt)\//, `/${language}/`);
+        window.location.assign(newPath);
+    }
+}
+
 function computeBonus(type, secretariat) {
     if (!secretariat || !type) {
         return 0;
@@ -5,9 +15,9 @@ function computeBonus(type, secretariat) {
 
     switch (type) {
         case 'bat':
-            return secretariat === 'dev' ? 50 : 25 ;
+            return secretariat === 'dev' ? 50 : 25;
         case 'tech':
-            return secretariat === 'science' ? 50 : 25 ;
+            return secretariat === 'science' ? 50 : 25;
     }
 }
 
@@ -61,8 +71,8 @@ $(document).ready(function () {
     });
 
     $('#result').text(boostCalc($('#type').val(), $('#origine').val(), $('#boost').val(), $('#secretariat').val()));
+
+    $('header.header div.languages a').on('click', function (item) {
+        changeLanguage(item.currentTarget.id);
+    });
 });
-
-addEventListener("hashchange", (event) => {
-
-})
