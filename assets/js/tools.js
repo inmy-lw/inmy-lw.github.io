@@ -2,6 +2,10 @@ function changeLanguage(language) {
     const currentPath = window.location.pathname;
 
     const regExp = new RegExp(`/${language}/`);
+    if (/^\/(en|fr|de|ìt)$/g.test(currentPath)) {
+        window.location.assign(`/${language}`);
+        return;
+    }
     if (!regExp.test(currentPath)) {
         const newPath = currentPath.replace(/\/(en|fr|de|ìt)\//, `/${language}/`);
         window.location.assign(newPath);
