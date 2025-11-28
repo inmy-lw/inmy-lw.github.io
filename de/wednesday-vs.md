@@ -12,7 +12,7 @@ priority: 12
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=1120" target="_blank">Erklärvideo</a>
 
-{% include image.html url="/assets/img/vs/vs_mercredi.webp" description="Aufgaben des VS am Mittwoch" %}
+{% include translated_image.html url="vs/vs_mercredi.webp" description="Aufgaben des VS am Mittwoch" %}
 
 ## Erläuterungen
 
@@ -26,16 +26,16 @@ priority: 12
 
 ## Wertabzeichen
 
-{% include image.html url="/assets/img/vs/vs_mercredi/badge_valeur.webp" description="Wertabzeichen" %}
+{% include translated_image.html url="vs/vs_mercredi/badge_valeur.webp" description="Wertabzeichen" %}
 
-{% include image.html url="/assets/img/vs/vs_mercredi/obtention_badge_valeur.webp" description="Wertabzeichen aus VS‑Kisten erhalten" %}
+{% include translated_image.html url="vs/vs_mercredi/obtention_badge_valeur.webp" description="Wertabzeichen aus VS‑Kisten erhalten" %}
 
-{% include image.html url="/assets/img/vs/vs_mercredi/utilisation_badge_valeur.webp" description="Verwendung der Wertabzeichen in den Tech‑Zentren" %}
+{% include translated_image.html url="vs/vs_mercredi/utilisation_badge_valeur.webp" description="Verwendung der Wertabzeichen in den Tech‑Zentren" %}
 
 ## Drohnenkomponenten‑Kiste
 
-{% include image.html url="/assets/img/vs/vs_mercredi/coffres_composants_drone.webp" description="Zu öffnende Drohnenkomponenten‑Kisten" %}
+{% include translated_image.html url="vs/vs_mercredi/coffres_composants_drone.webp" description="Zu öffnende Drohnenkomponenten‑Kisten" %}
 
-{% include image.html url="/assets/img/vs/vs_mercredi/composants_drone.webp" description="Verwendung der Drohnenkomponenten" %}
+{% include translated_image.html url="vs/vs_mercredi/composants_drone.webp" description="Verwendung der Drohnenkomponenten" %}
 
 Für den VS zählt nur das Öffnen der Kisten; die Komponenten selbst können jederzeit verwendet werden.

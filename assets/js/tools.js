@@ -2,12 +2,12 @@ function changeLanguage(language) {
     const currentPath = window.location.pathname;
 
     const regExp = new RegExp(`/${language}/`);
-    if (/^\/(en|fr|de|ìt)$/g.test(currentPath)) {
+    if (/^\/(en|fr|de|ìt|pl)$/g.test(currentPath)) {
         window.location.assign(`/${language}`);
         return;
     }
     if (!regExp.test(currentPath)) {
-        const newPath = currentPath.replace(/\/(en|fr|de|ìt)\//, `/${language}/`);
+        const newPath = currentPath.replace(/\/(en|fr|de|it|pl)\//, `/${language}/`);
         window.location.assign(newPath);
     }
 }

@@ -12,7 +12,7 @@ priority: 11
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=511" target="_blank">Video esplicativa</a>
 
-{% include image.html url="/assets/img/vs/vs_mardi.webp" description="Attività del VS del martedì" %}
+{% include translated_image.html url="vs/vs_mardi.webp" description="Attività del VS del martedì" %}
 
 ## Spiegazioni
 
@@ -35,10 +35,10 @@ Per preparare la giornata di mercoledì:
 
 Si ottiene aggiornandolo con i contratti commerciali (gli stessi dati e guadagnati grazie al treno).
 
-{% include image.html url="/assets/img/vs/vs_mardi/camion_ur.webp" description="Ottenere camion UR" %}
+{% include translated_image.html url="vs/vs_mardi/camion_ur.webp" description="Ottenere camion UR" %}
 
 ## Incarico segreto UR
 
 Si ottiene aggiornando con gli ordini segreti.
 
-{% include image.html url="/assets/img/vs/vs_mardi/tache_ur.webp" description="Ottenere incarichi segreti UR" %}
+{% include translated_image.html url="vs/vs_mardi/tache_ur.webp" description="Ottenere incarichi segreti UR" %}

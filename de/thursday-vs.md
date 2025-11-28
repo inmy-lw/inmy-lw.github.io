@@ -12,7 +12,7 @@ priority: 13
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=1694" target="_blank">Erklärvideo</a>
 
-{% include image.html url="/assets/img/vs/vs_jeudi.webp" description="Aufgaben des VS am Donnerstag" %}
+{% include translated_image.html url="vs/vs_jeudi.webp" description="Aufgaben des VS am Donnerstag" %}
 
 ## Erläuterungen
 
@@ -34,8 +34,8 @@ Zur Vorbereitung auf Freitag:
 
 ## Heldenfragmente
 Fragmente werden verwendet, um den Rang der Helden (ihre Sterne) zu erhöhen.
-{% include image.html url="/assets/img/vs/vs_jeudi/fragments_heros.webp" description="Verwendung von Heldenfragmenten" %}
+{% include translated_image.html url="vs/vs_jeudi/fragments_heros.webp" description="Verwendung von Heldenfragmenten" %}
 
 ## Fähigkeitsmedaillen
 Sie werden verwendet, um die Fähigkeiten der Helden zu verbessern (die Fähigkeitsstufen werden abhängig vom Rang des Helden freigeschaltet)
-{% include image.html url="/assets/img/vs/vs_jeudi/medailles_competence.webp" description="Verwendung von Fähigkeitsmedaillen" %}
+{% include translated_image.html url="vs/vs_jeudi/medailles_competence.webp" description="Verwendung von Fähigkeitsmedaillen" %}

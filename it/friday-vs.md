@@ -12,7 +12,7 @@ priority: 14
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=2580" target="_blank">Video esplicativa</a>
 
-{% include image.html url="/assets/img/vs/vs_vendredi.webp" description="Attività del VS del venerdì" %}
+{% include translated_image.html url="vs/vs_vendredi.webp" description="Attività del VS del venerdì" %}
 
 ## Spiegazioni
 
@@ -27,7 +27,7 @@ priority: 14
 
 A fine giornata, può apparire una notifica del gioco per ricordare di mettere lo scudo per stare tranquilli il sabato 😉.
 
-{% include image.html url="/assets/img/vs/vs_vendredi/rappel_bouclier_jeu.webp" description="Promemoria del sabato... Si può eventualmente mettere uno scudo in quel momento!" %}
+{% include translated_image.html url="vs/vs_vendredi/rappel_bouclier_jeu.webp" description="Promemoria del sabato... Si può eventualmente mettere uno scudo in quel momento!" %}
 
 ## Se necessario caso per caso (da prioritizzare gli altri giorni, ma queste azioni possono essere utili in un VS tirato o per aumentare di qualche punto per sbloccare uno scrigno)
 

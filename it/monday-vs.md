@@ -12,7 +12,7 @@ priority: 10
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=51" target="_blank">Video esplicativa</a>
 
-{% include image.html url="/assets/img/vs/vs_lundi.webp" description="Attività del VS del lunedì" %}
+{% include translated_image.html url="vs/vs_lundi.webp" description="Attività del VS del lunedì" %}
 
 ## Spiegazioni
 
@@ -28,17 +28,17 @@ priority: 10
 ## Punti Dati di Combattimento del Drone e Pezzi del drone
 Questi punti vanno usati
 
-{% include image.html url="/assets/img/vs/vs_lundi/pieces_drone.webp" description="Punti dati di combattimento e pezzi del drone" %}
+{% include translated_image.html url="vs/vs_lundi/pieces_drone.webp" description="Punti dati di combattimento e pezzi del drone" %}
 
 In questa scheda del drone
 
-{% include image.html url="/assets/img/vs/vs_lundi/points_drone.webp" description="Miglioramento del drone il lunedì" %}
+{% include translated_image.html url="vs/vs_lundi/points_drone.webp" description="Miglioramento del drone il lunedì" %}
 
 ## Scrigni di Chip
 
 Sono i nuovi scrigni arrivati di recente che permettono di alimentare l'EXP del Boost di Combattimento del drone.
 
-{% include image.html url="/assets/img/vs/vs_lundi/coffres_puces.webp" description="Scrigni di chip del drone" %}
+{% include translated_image.html url="vs/vs_lundi/coffres_puces.webp" description="Scrigni di chip del drone" %}
 
 ## Se necessario caso per caso
 

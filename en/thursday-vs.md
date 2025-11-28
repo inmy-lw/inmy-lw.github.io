@@ -12,7 +12,7 @@ priority: 13
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=1694" target="_blank">Explainer video</a>
 
-{% include image.html url="/assets/img/vs/vs_jeudi.webp" description="Thursday VS tasks" %}
+{% include translated_image.html url="vs/vs_jeudi.webp" description="Thursday VS tasks" %}
 
 ## Explanation
 
@@ -34,8 +34,8 @@ To prepare for Friday:
 
 ## Hero Fragments
 Fragments are used to increase heroes' grades (their stars).
-{% include image.html url="/assets/img/vs/vs_jeudi/fragments_heros.webp" description="Using hero fragments" %}
+{% include translated_image.html url="vs/vs_jeudi/fragments_heros.webp" description="Using hero fragments" %}
 
 ## Skill Medals
 They're used to upgrade hero skills (skill levels unlock based on the hero's grade).
-{% include image.html url="/assets/img/vs/vs_jeudi/medailles_competence.webp" description="Using skill medals" %}
+{% include translated_image.html url="vs/vs_jeudi/medailles_competence.webp" description="Using skill medals" %}

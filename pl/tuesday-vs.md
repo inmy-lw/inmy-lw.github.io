@@ -12,7 +12,7 @@ priority: 11
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=511" target="_blank">Film wyjaśniający</a>
 
-{% include image.html url="/assets/img/vs/vs_mardi.webp" description="Akcje na wtorkowe VS" %}
+{% include translated_image.html url="vs/vs_mardi.webp" description="Akcje na wtorkowe VS" %}
 
 ## Wyjaśnienia
 
@@ -35,10 +35,10 @@ Aby przygotować środę:
 
 Otrzymuje się ją odświeżając za pomocą kontraktów handlowych (tych samych, które daje i zdobywa się dzięki pociągowi).
 
-{% include image.html url="/assets/img/vs/vs_mardi/camion_ur.webp" description="Uzyskać ciężarówki UR" %}
+{% include translated_image.html url="vs/vs_mardi/camion_ur.webp" description="Uzyskać ciężarówki UR" %}
 
 ## Sekretne zadanie UR
 
 Otrzymuje się je odświeżając za pomocą rozkazów sekretów.
 
-{% include image.html url="/assets/img/vs/vs_mardi/tache_ur.webp" description="Uzyskać sekretne zadania UR" %}
+{% include translated_image.html url="vs/vs_mardi/tache_ur.webp" description="Uzyskać sekretne zadania UR" %}

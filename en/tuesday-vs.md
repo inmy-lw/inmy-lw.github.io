@@ -12,7 +12,7 @@ priority: 11
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=511" target="_blank">Explainer video</a>
 
-{% include image.html url="/assets/img/vs/vs_mardi.webp" description="Tuesday VS tasks" %}
+{% include translated_image.html url="vs/vs_mardi.webp" description="Tuesday VS tasks" %}
 
 ## Explanation
 
@@ -35,10 +35,10 @@ To prepare for Wednesday:
 
 You obtain them by refreshing using trade contracts (the same ones given and earned via the train).
 
-{% include image.html url="/assets/img/vs/vs_mardi/camion_ur.webp" description="Get UR Trade Trucks" %}
+{% include translated_image.html url="vs/vs_mardi/camion_ur.webp" description="Get UR Trade Trucks" %}
 
 ## UR Secret Task
 
 You obtain them by refreshing using secret orders.
 
-{% include image.html url="/assets/img/vs/vs_mardi/tache_ur.webp" description="Get UR secret tasks" %}
+{% include translated_image.html url="vs/vs_mardi/tache_ur.webp" description="Get UR secret tasks" %}

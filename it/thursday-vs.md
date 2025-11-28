@@ -12,7 +12,7 @@ priority: 13
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=1694" target="_blank">Video esplicativa</a>
 
-{% include image.html url="/assets/img/vs/vs_jeudi.webp" description="Attività del VS del giovedì" %}
+{% include translated_image.html url="vs/vs_jeudi.webp" description="Attività del VS del giovedì" %}
 
 ## Spiegazioni
 
@@ -34,8 +34,8 @@ Per preparare la giornata di venerdì:
 
 ## Frammenti Eroe
 I frammenti si usano per aumentare il grado degli eroi (le loro stelle).
-{% include image.html url="/assets/img/vs/vs_jeudi/fragments_heros.webp" description="Uso dei frammenti eroe" %}
+{% include translated_image.html url="vs/vs_jeudi/fragments_heros.webp" description="Uso dei frammenti eroe" %}
 
 ## Medaglie di Abilità
 Si usano per migliorare le abilità degli eroi (i livelli delle abilità si sbloccano in base al grado dell'eroe)
-{% include image.html url="/assets/img/vs/vs_jeudi/medailles_competence.webp" description="Uso delle medaglie di abilità" %}
+{% include translated_image.html url="vs/vs_jeudi/medailles_competence.webp" description="Uso delle medaglie di abilità" %}

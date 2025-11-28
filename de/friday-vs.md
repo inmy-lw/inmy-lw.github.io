@@ -12,7 +12,7 @@ priority: 14
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=2580" target="_blank">Erklärvideo</a>
 
-{% include image.html url="/assets/img/vs/vs_vendredi.webp" description="Aufgaben des VS am Freitag" %}
+{% include translated_image.html url="vs/vs_vendredi.webp" description="Aufgaben des VS am Freitag" %}
 
 ## Erläuterungen
 
@@ -27,7 +27,7 @@ priority: 14
 
 Am Ende des Tages kann eine In-Game-Benachrichtigung erscheinen, die daran erinnert, den Schild zu setzen, um den Samstag entspannt zu verbringen 😉.
 
-{% include image.html url="/assets/img/vs/vs_vendredi/rappel_bouclier_jeu.webp" description="Erinnerung für Samstag … Man kann an diesem Zeitpunkt den Schild setzen!" %}
+{% include translated_image.html url="vs/vs_vendredi/rappel_bouclier_jeu.webp" description="Erinnerung für Samstag … Man kann an diesem Zeitpunkt den Schild setzen!" %}
 
 ## Bei Bedarf fallweise (an anderen Tagen priorisieren; kann in knappen VS helfen oder um ein paar Punkte für eine Kiste zu gewinnen)
 

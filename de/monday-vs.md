@@ -12,7 +12,7 @@ priority: 10
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=51" target="_blank">Erklärvideo</a>
 
-{% include image.html url="/assets/img/vs/vs_lundi.webp" description="Aufgaben des VS am Montag" %}
+{% include translated_image.html url="vs/vs_lundi.webp" description="Aufgaben des VS am Montag" %}
 
 ## Erläuterungen
 
@@ -28,17 +28,17 @@ priority: 10
 ## Kampfdatensatz-Punkte der Drohne und Drohnenteile
 Diese Punkte müssen hier eingesetzt werden
 
-{% include image.html url="/assets/img/vs/vs_lundi/pieces_drone.webp" description="Kampfdatensätze und Drohnenteile" %}
+{% include translated_image.html url="vs/vs_lundi/pieces_drone.webp" description="Kampfdatensätze und Drohnenteile" %}
 
 In diesem Drohnen-Reiter
 
-{% include image.html url="/assets/img/vs/vs_lundi/points_drone.webp" description="Drohnen-Upgrade am Montag" %}
+{% include translated_image.html url="vs/vs_lundi/points_drone.webp" description="Drohnen-Upgrade am Montag" %}
 
 ## Chipkisten
 
 Das sind die neuen Kisten, die kürzlich hinzugefügt wurden und die EXP des Drohnen-Kampf-Boosts speisen.
 
-{% include image.html url="/assets/img/vs/vs_lundi/coffres_puces.webp" description="Chipkisten der Drohne" %}
+{% include translated_image.html url="vs/vs_lundi/coffres_puces.webp" description="Chipkisten der Drohne" %}
 
 ## Bei Bedarf fallweise
 

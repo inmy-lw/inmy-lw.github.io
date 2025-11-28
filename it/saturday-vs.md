@@ -13,7 +13,7 @@ priority: 15
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=3501" target="_blank">Video esplicativa</a>
 
-{% include image.html url="/assets/img/vs/vs_samedi.webp" description="Attività del VS del sabato" %}
+{% include translated_image.html url="vs/vs_samedi.webp" description="Attività del VS del sabato" %}
 
 ## Spiegazioni
 
@@ -39,12 +39,12 @@ priority: 15
 
 **Nota importante: gli scudi non si cumulano... Si sostituiscono, quindi calcola bene le durate dello scudo ;)**
 
-{% include image.html url="/assets/img/vs/vs_samedi/accueil_alliance.webp" description="Accedere al negozio dell'alleanza dal menu alleanza" %}
+{% include translated_image.html url="vs/vs_samedi/accueil_alliance.webp" description="Accedere al negozio dell'alleanza dal menu alleanza" %}
 
-{% include image.html url="/assets/img/vs/vs_samedi/boutique_alliance.webp" description="Ottenere scudi nel negozio dell'alleanza" %}
+{% include translated_image.html url="vs/vs_samedi/boutique_alliance.webp" description="Ottenere scudi nel negozio dell'alleanza" %}
 
 ## Applicare uno scudo
 
-{% include image.html url="/assets/img/vs/vs_samedi/bouclier.webp" description="Posizionare uno scudo dopo aver selezionato la propria base nella vista mondo" %}
+{% include translated_image.html url="vs/vs_samedi/bouclier.webp" description="Posizionare uno scudo dopo aver selezionato la propria base nella vista mondo" %}
 
-{% include image.html url="/assets/img/vs/vs_samedi/choix_bouclier.webp" description="Schermata di selezione dello scudo da applicare" %}
+{% include translated_image.html url="vs/vs_samedi/choix_bouclier.webp" description="Schermata di selezione dello scudo da applicare" %}

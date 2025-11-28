@@ -12,7 +12,7 @@ priority: 14
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=2580" target="_blank">Explanatory video</a>
 
-{% include image.html url="/assets/img/vs/vs_vendredi.webp" description="Friday VS actions" %}
+{% include translated_image.html url="vs/vs_vendredi.webp" description="Friday VS actions" %}
 
 ## Explanations
 
@@ -26,7 +26,7 @@ priority: 14
 
 At the end of the day, a game notification may appear reminding you to put up your shield so you can enjoy a peaceful Saturday 😉.
 
-{% include image.html url="/assets/img/vs/vs_vendredi/rappel_bouclier_jeu.webp" description="Reminder for Saturday... You can put up a shield at this time if you want!" %}
+{% include image.html url="vs/vs_vendredi/rappel_bouclier_jeu.webp" description="Reminder for Saturday... You can put up a shield at this time if you want!" %}
 
 ## If necessary on a case-by-case basis (prioritize other days, but these actions can be useful in the event of a close VS or to increase your score by a few points to unlock a chest)
 

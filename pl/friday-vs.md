@@ -12,7 +12,7 @@ priority: 14
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=2580" target="_blank">Film wyjaśniający</a>
 
-{% include image.html url="/assets/img/vs/vs_vendredi.webp" description="Akcje piątkowego VS" %}
+{% include translated_image.html url="vs/vs_vendredi.webp" description="Akcje piątkowego VS" %}
 
 ## Wyjaśnienia
 
@@ -26,7 +26,7 @@ priority: 14
 
 Pod koniec dnia może pojawić się powiadomienie w grze, aby przypomnieć o założeniu tarczy na spokojną sobotę 😉.
 
-{% include image.html url="/assets/img/vs/vs_vendredi/rappel_bouclier_jeu.webp" description="Przypomnienie o sobocie… Można wtedy założyć tarczę!" %}
+{% include translated_image.html url="vs/vs_vendredi/rappel_bouclier_jeu.webp" description="Przypomnienie o sobocie… Można wtedy założyć tarczę!" %}
 
 ## W razie potrzeby, indywidualnie (lepiej robić w inne dni, ale może pomóc przy wyrównanym VS lub dobić do skrzyni)
 

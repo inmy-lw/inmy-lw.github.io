@@ -12,7 +12,7 @@ priority: 11
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=511" target="_blank">Erklärvideo</a>
 
-{% include image.html url="/assets/img/vs/vs_mardi.webp" description="Aufgaben des VS am Dienstag" %}
+{% include translated_image.html url="vs/vs_mardi.webp" description="Aufgaben des VS am Dienstag" %}
 
 ## Erläuterungen
 
@@ -35,10 +35,10 @@ Zur Vorbereitung auf Mittwoch:
 
 Den erhält man durch Auffrischen mit Handelsverträgen (die gleichen, die durch den Zug vergeben/gewonnen werden).
 
-{% include image.html url="/assets/img/vs/vs_mardi/camion_ur.webp" description="UR-Handelswagen erhalten" %}
+{% include translated_image.html url="vs/vs_mardi/camion_ur.webp" description="UR-Handelswagen erhalten" %}
 
 ## UR-Geheimauftrag
 
 Den erhält man durch Auffrischen mit Geheimaufträgen.
 
-{% include image.html url="/assets/img/vs/vs_mardi/tache_ur.webp" description="UR-Geheimaufträge erhalten" %}
+{% include translated_image.html url="vs/vs_mardi/tache_ur.webp" description="UR-Geheimaufträge erhalten" %}

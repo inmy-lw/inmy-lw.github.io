@@ -13,7 +13,7 @@ priority: 15
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=3501" target="_blank">Erklärvideo</a>
 
-{% include image.html url="/assets/img/vs/vs_samedi.webp" description="Aufgaben des VS am Samstag" %}
+{% include translated_image.html url="vs/vs_samedi.webp" description="Aufgaben des VS am Samstag" %}
 
 ## Erläuterungen
 
@@ -39,12 +39,13 @@ priority: 15
 
 **Wichtiger Hinweis: Schilde stapeln sich nicht … sie ersetzen sich. Also plane die Schilddauer gut ;)**
 
-{% include image.html url="/assets/img/vs/vs_samedi/accueil_alliance.webp" description="Über das Allianzen-Menü zum Allianz-Shop gehen" %}
 
-{% include image.html url="/assets/img/vs/vs_samedi/boutique_alliance.webp" description="Schilde im Allianz-Shop erhalten" %}
+{% include translated_image.html url="vs/vs_samedi/accueil_alliance.webp" description="Über das Allianzen-Menü zum Allianz-Shop gehen" %}
+
+{% include translated_image.html url="vs/vs_samedi/boutique_alliance.webp" description="Schilde im Allianz-Shop erhalten" %}
 
 ## Schild anwenden
 
-{% include image.html url="/assets/img/vs/vs_samedi/bouclier.webp" description="Einen Schild setzen, nachdem die eigene Basis in der Weltansicht ausgewählt wurde" %}
+{% include translated_image.html url="vs/vs_samedi/bouclier.webp" description="Einen Schild setzen, nachdem die eigene Basis in der Weltansicht ausgewählt wurde" %}
 
-{% include image.html url="/assets/img/vs/vs_samedi/choix_bouclier.webp" description="Auswahlbildschirm für den anzuwendenden Schild" %}
+{% include translated_image.html url="vs/vs_samedi/choix_bouclier.webp" description="Auswahlbildschirm für den anzuwendenden Schild" %}

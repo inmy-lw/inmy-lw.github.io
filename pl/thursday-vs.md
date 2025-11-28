@@ -12,18 +12,18 @@ priority: 13
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=1694" target="_blank">Film wyjaśniający</a>
 
-{% include image.html url="/assets/img/vs/vs_jeudi.webp" description="Akcje czwartkowego VS" %}
+{% include translated_image.html url="vs/vs_jeudi.webp" description="Akcje czwartkowego VS" %}
 
 ## Wyjaśnienia
 
-|                 Zadanie                  |                                                                       Objaśnienie                                                                       |
-|:----------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Wykonać 1 Rekrutację Bohatera            | Użyć 1 biletu rekrutacji w tawernie.<br/>Priorytet w oknie „Postęp Bohatera” dla [CAA](/{{page.lang}}/caa)                                               |
-| Użyć 660 EXP Bohatera                    | Podnosić poziom bohaterów.<br/>Priorytet w oknie „Postęp Bohatera” dla [CAA](/{{page.lang}}/caa)                                                         |
-| Użyć 1 Fragmentu Bohatera UR             | Podnieść rangę bohatera UR                                                                                                                               |
-| Użyć 1 Fragmentu Bohatera SSR            | Podnieść rangę bohatera SSR                                                                                                                              |
-| Użyć 1 Fragmentu Bohatera SR             | Podnieść rangę bohatera SR                                                                                                                               |
-| Zużyć 1 Medal Umiejętności               | Podnieść poziom umiejętności bohaterów                                                                                                                   |
+|            Zadanie            |                                                Objaśnienie                                                 |
+|:-----------------------------:|:----------------------------------------------------------------------------------------------------------:|
+| Wykonać 1 Rekrutację Bohatera | Użyć 1 biletu rekrutacji w tawernie.<br/>Priorytet w oknie „Postęp Bohatera” dla [CAA](/{{page.lang}}/caa) |
+|     Użyć 660 EXP Bohatera     |      Podnosić poziom bohaterów.<br/>Priorytet w oknie „Postęp Bohatera” dla [CAA](/{{page.lang}}/caa)      |
+| Użyć 1 Fragmentu Bohatera UR  |                                         Podnieść rangę bohatera UR                                         |
+| Użyć 1 Fragmentu Bohatera SSR |                                        Podnieść rangę bohatera SSR                                         |
+| Użyć 1 Fragmentu Bohatera SR  |                                         Podnieść rangę bohatera SR                                         |
+|  Zużyć 1 Medal Umiejętności   |                                   Podnieść poziom umiejętności bohaterów                                   |
 
 ## Dodatkowo
 
@@ -34,8 +34,8 @@ Aby przygotować piątek:
 
 ## Fragmenty bohaterów
 Fragmenty służą do podnoszenia rang bohaterów (ich gwiazdek).
-{% include image.html url="/assets/img/vs/vs_jeudi/fragments_heros.webp" description="Użycie fragmentów bohaterów" %}
+{% include translated_image.html url="vs/vs_jeudi/fragments_heros.webp" description="Użycie fragmentów bohaterów" %}
 
 ## Medale umiejętności
 Służą do ulepszania umiejętności bohaterów (poziomy umiejętności odblokowują się zależnie od rangi bohatera)
-{% include image.html url="/assets/img/vs/vs_jeudi/medailles_competence.webp" description="Użycie medali umiejętności" %}
+{% include translated_image.html url="vs/vs_jeudi/medailles_competence.webp" description="Użycie medali umiejętności" %}

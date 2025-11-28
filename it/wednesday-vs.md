@@ -12,7 +12,7 @@ priority: 12
 
 <a href="https://youtu.be/SgsCAmUsv5E?t=1120" target="_blank">Video esplicativa</a>
 
-{% include image.html url="/assets/img/vs/vs_mercredi.webp" description="Attività del VS del mercoledì" %}
+{% include translated_image.html url="vs/vs_mercredi.webp" description="Attività del VS del mercoledì" %}
 
 ## Spiegazioni
 
@@ -26,16 +26,16 @@ priority: 12
 
 ## Distintivo di Valore
 
-{% include image.html url="/assets/img/vs/vs_mercredi/badge_valeur.webp" description="Distintivi di valore" %}
+{% include translated_image.html url="vs/vs_mercredi/badge_valeur.webp" description="Distintivi di valore" %}
 
-{% include image.html url="/assets/img/vs/vs_mercredi/obtention_badge_valeur.webp" description="Ottenere distintivi di valore negli scrigni del VS" %}
+{% include translated_image.html url="vs/vs_mercredi/obtention_badge_valeur.webp" description="Ottenere distintivi di valore negli scrigni del VS" %}
 
-{% include image.html url="/assets/img/vs/vs_mercredi/utilisation_badge_valeur.webp" description="Uso dei distintivi di valore nei centri tecnologici" %}
+{% include translated_image.html url="vs/vs_mercredi/utilisation_badge_valeur.webp" description="Uso dei distintivi di valore nei centri tecnologici" %}
 
 ## Scrigno Componenti Drone
 
-{% include image.html url="/assets/img/vs/vs_mercredi/coffres_composants_drone.webp" description="Scrigni di componenti drone da aprire" %}
+{% include translated_image.html url="vs/vs_mercredi/coffres_composants_drone.webp" description="Scrigni di componenti drone da aprire" %}
 
-{% include image.html url="/assets/img/vs/vs_mercredi/composants_drone.webp" description="Uso dei componenti del drone" %}
+{% include translated_image.html url="vs/vs_mercredi/composants_drone.webp" description="Uso dei componenti del drone" %}
 
 Solo l'apertura degli scrigni viene conteggiata per il VS, quindi i componenti possono essere usati in qualsiasi momento.
