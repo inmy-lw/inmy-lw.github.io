@@ -9,6 +9,20 @@ date: 2025-11-10 13:00:22 +0100
 
 # Diversi eventi ricorrenti
 
+## Guardia del Maresciallo
+
+Il Maresciallo è un evento di alleanza che si svolge ogni due giorni. L'obiettivo è radunarsi per infliggere il maggior numero di danni possibile.
+
+{% include translated_image.html url="events/marechal/presentation_marechal.webp" description="Panoramica del Maresciallo" %}
+
+1. L'obiettivo è raggiungere il grado 5 per ottenere le migliori ricompense possibili.
+2. Pulsante per avviare un raduno. I tempi del raduno sono sempre di 3 minuti.
+3. Pulsante per controllare le ricompense ottenute dall'alleanza e individualmente.
+
+La prima strategia è avviare un raduno con la T2 e unirsi a un raduno con la T1.
+
+{% include translated_image.html url="events/marechal/rally_r4_r5.webp" description="Unirsi al raduno di un R4 o R5 aumenta i danni del 5% o del 2,5%" %}
+
 ## Treno
 
 È possibile prendere il treno ogni giorno. Ogni carrozza contiene diversi tipi di risorse. Si può scegliere la carrozza in cui si desidera viaggiare.

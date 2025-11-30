@@ -9,6 +9,20 @@ date: 2025-11-10 13:00:22 +0100
 
 # Verschiedene wiederkehrende Veranstaltungen
 
+## Marschalls Wache
+
+Der Marschall ist ein Allianz‑Event, das alle zwei Tage stattfindet. Ziel ist es, sich zu einem Rallyeangriff zu versammeln und möglichst viel Schaden zu verursachen.
+
+{% include translated_image.html url="events/marechal/presentation_marechal.webp" description="Übersicht zum Marschall" %}
+
+1. Ziel ist es, Belohnungsphase 5 zu erreichen, um die bestmöglichen Belohnungen zu erhalten.
+2. Schaltfläche, um einen Rallyeangriff zu starten. Die Rallye‑Timer betragen immer 3 Minuten.
+3. Schaltfläche, um die von der Allianz und individuell erhaltenen Belohnungen zu prüfen.
+
+Die erste Strategie ist, einen Rallyeangriff mit T2 zu starten und einem Rallyeangriff mit T1 beizutreten.
+
+{% include translated_image.html url="events/marechal/rally_r4_r5.webp" description="Dem Rallyeangriff eines R4 oder R5 beizutreten erhöht den Schaden um 5% bzw. 2,5%" %}
+
 ## Zug
 
 Es ist möglich, jeden Tag den Zug zu nehmen. Jeder Waggon enthält unterschiedliche Arten von Ressourcen. Man kann den Waggon wählen, in dem man reisen möchte.

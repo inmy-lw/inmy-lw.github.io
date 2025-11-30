@@ -9,6 +9,20 @@ date: 2025-11-10 13:00:22 +0100
 
 # Different recurring events
 
+## Marshal's Guard
+
+The Marshal is an alliance event that takes place every two days. The goal is to rally to deal as much damage as possible.
+
+{% include translated_image.html url="events/marechal/presentation_marechal.webp" description="Marshal overview" %}
+
+1. The goal is to reach stage 5 to get the best possible rewards.
+2. Button to start a rally. Rally timers are always 3 minutes.
+3. Button to check the rewards obtained by the alliance and individually.
+
+The first strategy is to start a rally with T2, and to join a rally with T1.
+
+{% include translated_image.html url="events/marechal/rally_r4_r5.webp" description="Joining an R4 or R5 rally increases damage by 5% or 2.5%" %}
+
 ## Train
 
 It is possible to take the train every day. Each carriage has different types of resources. You can choose the carriage you want to travel in.

@@ -9,6 +9,20 @@ date: 2025-11-10 13:00:22 +0100
 
 # Différents événements récurrents
 
+## Garde du maréchal
+
+Le maréchal est un événement d'alliance qui a lieu tous les deux jours. Le but est de se rallier pour faire le plus de dégâts possibles.
+
+{% include translated_image.html url="events/marechal/presentation_marechal.webp" description="Présentation du maréchal" %}
+
+1. Le but est d'atteindre le rang 5 pour avoir les meilleures récompenses possibles.
+2. Bouton pour lancer un ralliement. Les temps de ralliement sont toujours de 3 minutes. 
+3. Bouton pour vérifier les récompenses obtenues par l'alliance et de manière individuelle.
+
+La première stratégie est de lancer un ralliement avec la T2, et de rejoindre un ralliement avec la T1.
+
+{% include translated_image.html url="events/marechal/rally_r4_r5.webp" description="Rejoindre le ralliement d'un R4 ou R5 augmente les dégâts de 5% ou 2,5%" %}
+
 ## Train
 
 Il est possible de prendre le train tous les jours. Chaque wagon possède différents types de ressources. On peut choisir le wagon dans lequel on veut voyager.
