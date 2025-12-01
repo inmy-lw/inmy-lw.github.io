@@ -1,24 +1,26 @@
 ---
 layout: post
 category: events
-title: "Événements récurrents"
+title: "Événements réguliers"
 lang: fr
 rel: events
 date: 2025-11-10 13:00:22 +0100
 ---
 
-# Différents événements récurrents
+# Différents événements réguliers
 
-## Tempête du Désert
+## Campagne honorable
 
-La tempête du désert est une bataille sur terrain neutre dans laquelle 2 équipes de 20 commandants s'affrontent pour capturer des bâtiments.
+<a href="https://www.youtube.com/watch?v=uEnBpYbmbjw" target="_blank">Vidéo explicative</a>
 
-La participation à cet événément est soumise à une inscription ouverte du lundi 03h00 au jeudi 03h00. Plusieurs créneaux sont disponibles pour participer :
-- Le vendredi entre 12h00 et 12h30
-- Le vendredi entre 21h00 et 21h30
-- Le samedi entre 02h00 et 02h30
+## Vague Zombies
 
-{% include translated_image.html url="events/tdd.webp" description="Méthode d'inscription pour la tempête du désert" %}
+WIP
+
+## Boss recherché (Code XX)
+
+<a href="https://www.youtube.com/watch?v=mxSLm52Hu_8&pp=0gcJCSIKAYcqIYzv" target="_blank">Vidéo explicative</a>
+
 
 ## Garde du maréchal
 

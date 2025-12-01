@@ -1,13 +1,25 @@
 ---
 layout: post
 category: events
-title: "Eventi ricorrenti"
+title: "Eventi regolari"
 lang: it
 rel: events
 date: 2025-11-10 13:00:22 +0100
 ---
 
-# Diversi eventi ricorrenti
+# Diversi eventi regolari
+
+## Campagna onorevole
+
+<a href="https://www.youtube.com/watch?v=uEnBpYbmbjw" target="_blank">Video esplicativo</a>
+
+## Ondata di zombie
+
+WIP
+
+## Boss ricercato (Codice XX)
+
+<a href="https://www.youtube.com/watch?v=mxSLm52Hu_8&pp=0gcJCSIKAYcqIYzv" target="_blank">Video esplicativo</a>
 
 ## Campo di nattaglia Tempesta del deserto
 
@@ -16,7 +28,6 @@ La tempesta del deserto è una battaglia su terreno neutrale in cui 2 squadre di
 La partecipazione a questo evento è soggetta a registrazione aperta dalle 03:00 di lunedì alle 03:00 di giovedì. Sono disponibili diverse fasce orarie per partecipare:
 - Venerdì tra le 12:00 e le 12:30
 - Venerdì tra le 21:00 e le 21:30
-- Sabato tra le 02:00 e le 02:30
 
 {% include translated_image.html url="events/tdd.webp" description="Metodo di registrazione per la Tempesta del deserto" %}
 

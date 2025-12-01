@@ -20,6 +20,14 @@
 #        - title: Libraries
 #          url: libs.html
 #          hue: "var(--c-themeHueBlue)"
+- title: Evolution
+  url: category/evolution.html
+  icon: assets/img/icons/evolutions.svg
+  hue: "var(--c-themeHueGreen)"
+- title: Evenements
+  url: category/events.html
+  icon: assets/img/icons/events.svg
+  hue: "var(--c-themeHuePurple)"
 - title: VS
   url: category/vs.html
   icon: assets/img/icons/vs.svg

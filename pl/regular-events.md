@@ -16,7 +16,6 @@ Burza na pustyni to bitwa na neutralnym terenie, w której dwie drużyny po 20 d
 Udział w tym wydarzeniu wymaga rejestracji, która jest otwarta od poniedziałku od godz. 3:00 do czwartku do godz. 3:00. Dostępnych jest kilka terminów udziału:
 - W piątek między 12:00 a 12:30
 - W piątek między 21:00 a 21:30
-- W sobotę między 02:00 a 02:30
 
 {% include translated_image.html url="events/tdd.webp" description="Sposób rejestracji do Burzy na pustyni" %}
 

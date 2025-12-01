@@ -6,11 +6,11 @@ lang: it
 ref: caa
 date:   2025-11-09 13:00:22 +0100
 ---
-# Corsa agli Armamenti
+# Corsa Alle Armi
 
 <a href="https://youtu.be/ugD7PMJw214?t=38" target="_blank">Video esplicativa</a>
 
-La Corsa agli Armamenti (CAA) è un evento regolare che si trova nell'elenco degli eventi:
+La Corsa Alle Armi (CAA) è un evento regolare che si trova nell'elenco degli eventi:
 
 ![Pulsante eventi](/assets/img/screens/btn_evenements.webp)
 

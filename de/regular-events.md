@@ -1,13 +1,26 @@
 ---
 layout: post
 category: events
-title: "Wiederkehrende Ereignisse"
+title: "Regelmäßige Veranstaltungen"
 lang: de
 rel: events
 date: 2025-11-10 13:00:22 +0100
 ---
 
-# Verschiedene wiederkehrende Veranstaltungen
+Regelmäßige Veranstaltungen
+# Verschiedene regelmäßige Veranstaltungen
+
+## Ehrenvolle Kampagne
+
+<a href="https://www.youtube.com/watch?v=uEnBpYbmbjw" target="_blank">Erklärvideo</a>
+
+## Zombie-Welle
+
+WIP
+
+## Gesuchter Boss (Code XX)
+
+<a href="https://www.youtube.com/watch?v=mxSLm52Hu_8&pp=0gcJCSIKAYcqIYzv" target="_blank">Erklärvideo</a>
 
 ## Wüstensturm
 
@@ -16,7 +29,6 @@ Der Wüstensturm ist eine Schlacht auf neutralem Terrain, in der zwei Teams mit 
 Die Teilnahme an diesem Event ist nur nach einer Anmeldung möglich, die von Montag 03:00 Uhr bis Donnerstag 03:00 Uhr geöffnet ist. Es stehen mehrere Zeitfenster zur Teilnahme zur Verfügung:
 - Freitag zwischen 12:00 und 12:30 Uhr
 - Freitag zwischen 21:00 und 21:30 Uhr
-- Samstag zwischen 02:00 und 02:30 Uhr
 
 {% include translated_image.html url="events/tdd.webp" description="Anmeldemethode für den Wüstensturm" %}
 
