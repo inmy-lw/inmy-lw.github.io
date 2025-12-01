@@ -17,7 +17,7 @@ date: 2025-11-10 13:00:22 +0100
 
 WIP
 
-## Wanted Boss (Code XX)
+## Wanted Boss (Code 87, Code 64, Code 39)
 
 <a href="https://youtu.be/mxSLm52Hu_8?si=vCwYFaZmcojhmbjV" target="_blank">Explanatory video</a>
 

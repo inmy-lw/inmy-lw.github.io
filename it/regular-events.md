@@ -17,7 +17,7 @@ date: 2025-11-10 13:00:22 +0100
 
 WIP
 
-## Boss ricercato (Codice XX)
+## Boss ricercato (Codice 87, Codice 64, Codice 39)
 
 <a href="https://youtu.be/mxSLm52Hu_8?si=vCwYFaZmcojhmbjV" target="_blank">Video esplicativo</a>
 

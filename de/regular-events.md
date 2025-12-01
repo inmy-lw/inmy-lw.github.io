@@ -18,7 +18,7 @@ Regelmäßige Veranstaltungen
 
 WIP
 
-## Gesuchter Boss (Code XX)
+## Gesuchter Boss (Code 87, Code 64, Code 39)
 
 <a href="https://youtu.be/mxSLm52Hu_8?si=vCwYFaZmcojhmbjV" target="_blank">Erklärvideo</a>
 

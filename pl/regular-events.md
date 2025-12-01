@@ -19,7 +19,7 @@ date: 2025-11-10 13:00:22 +0100
 
 WIP
 
-## Poszukiwany boss (Kod XX)
+## Poszukiwany boss (Kod 87, Kod 64, Kod 39)
 
 <a href="https://youtu.be/mxSLm52Hu_8?si=vCwYFaZmcojhmbjV" target="_blank">Film wyjaśniający</a>
 
