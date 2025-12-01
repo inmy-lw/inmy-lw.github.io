@@ -9,6 +9,17 @@ date: 2025-11-10 13:00:22 +0100
 
 # Différents événements récurrents
 
+## Tempête du Désert
+
+La tempête du désert est une bataille sur terrain neutre dans laquelle 2 équipes de 20 commandants s'affrontent pour capturer des bâtiments.
+
+La participation à cet événément est soumise à une inscription ouverte du lundi 03h00 au jeudi 03h00. Plusieurs créneaux sont disponibles pour participer :
+- Le vendredi entre 12h00 et 12h30
+- Le vendredi entre 21h00 et 21h30
+- Le samedi entre 02h00 et 02h30
+
+{% include translated_image.html url="events/tdd.webp" description="Méthode d'inscription pour la tempête du désert" %}
+
 ## Garde du maréchal
 
 Le maréchal est un événement d'alliance qui a lieu tous les deux jours. Le but est de se rallier pour faire le plus de dégâts possibles.

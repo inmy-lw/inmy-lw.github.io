@@ -9,6 +9,18 @@ date: 2025-11-10 13:00:22 +0100
 
 # Different recurring events
 
+## Desert Storm Battlefield
+
+Desert Storm Battlefield is a neutral terrain battle in which two teams of 20 commanders compete to capture buildings.
+
+Participation in this event is subject to registration, which is open from Monday at 3:00 a.m. to Thursday at 3:00 a.m. Several time slots are available for participation:
+- Friday between 12:00 p.m. and 12:30 p.m.
+- Friday between 09:00 p.m. and 09:30 p.m.
+- Saturday between 02:00 a.m. and 02:30 a.m.
+
+{% include translated_image.html url="events/tdd.webp" description="Registration method for Desert Storm Battlefield" %}
+
+
 ## Marshal's Guard
 
 The Marshal is an alliance event that takes place every two days. The goal is to rally to deal as much damage as possible.
