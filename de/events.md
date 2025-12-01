@@ -1,7 +1,7 @@
 ---
 layout: post
 category: events
-title: "Verschiedene Veranstaltungen"
+title: "Wiederkehrende Ereignisse"
 lang: de
 rel: events
 date: 2025-11-10 13:00:22 +0100
