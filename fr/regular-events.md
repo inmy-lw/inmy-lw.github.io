@@ -19,10 +19,11 @@ WIP
 
 ## Boss recherché (Code XX)
 
-<a href="https://www.youtube.com/watch?v=mxSLm52Hu_8&pp=0gcJCSIKAYcqIYzv" target="_blank">Vidéo explicative</a>
-
+<a href="https://youtu.be/mxSLm52Hu_8?si=vCwYFaZmcojhmbjV" target="_blank">Vidéo explicative</a>
 
 ## Garde du maréchal
+
+<a href="https://youtu.be/ZDLfbHe3HfI?si=JJgyRzy-2mqJVgIl" target="_blank">Vidéo explicative</a>
 
 Le maréchal est un événement d'alliance qui a lieu tous les deux jours. Le but est de se rallier pour faire le plus de dégâts possibles.
 

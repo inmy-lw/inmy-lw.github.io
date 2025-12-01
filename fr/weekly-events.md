@@ -11,6 +11,8 @@ date: 2025-11-10 13:00:22 +0100
 
 ## Tempête du Désert (TDD)
 
+<a href="https://youtu.be/Grdcr8MZCVE?si=_7IrPddlexiOFofC" target="_blank">Vidéo explicative</a>
+
 La tempête du désert est une bataille sur terrain neutre dans laquelle 2 équipes de 20 commandants s'affrontent pour capturer des bâtiments.
 
 La participation à cet événement est soumise à une inscription ouverte du lundi 03h00 au jeudi 03h00. Plusieurs créneaux sont disponibles pour participer :
@@ -20,6 +22,8 @@ La participation à cet événement est soumise à une inscription ouverte du lu
 {% include translated_image.html url="events/tdd.webp" description="Méthode d'inscription pour la tempête du désert" %}
 
 ## TDH (Tempête de l'Hiver)
+
+<a href="https://youtu.be/Se0KyWlty6k?si=jQFtjmnwYnKadC2k" target="_blank">Vidéo explicative</a>
 
 La tempête de l'hiver est un événement ayant lieu tous les samedis sur 3 créneaux différents :
 - Le samedi entre 03h00 et 03h00

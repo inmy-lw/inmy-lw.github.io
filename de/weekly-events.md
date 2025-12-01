@@ -11,6 +11,8 @@ date: 2025-11-10 13:00:22 +0100
 
 ## Wüstensturm (TDD)
 
+<a href="https://youtu.be/Grdcr8MZCVE?si=_7IrPddlexiOFofC" target="_blank">Erklärvideo</a>
+
 Der Wüstensturm ist eine Schlacht auf neutralem Terrain, in der zwei Teams mit jeweils 20 Kommandanten gegeneinander antreten, um Gebäude zu erobern.
 
 Die Teilnahme an diesem Event ist von Montag 03:00 Uhr bis Donnerstag 03:00 Uhr möglich. Es stehen mehrere Zeitfenster zur Teilnahme zur Verfügung:
@@ -20,6 +22,8 @@ Die Teilnahme an diesem Event ist von Montag 03:00 Uhr bis Donnerstag 03:00 Uhr 
 {% include translated_image.html url="events/tdd.webp" description="Anmeldemethode für den Wüstensturm" %}
 
 ## TDH (Wintersturm)
+
+<a href="https://youtu.be/Se0KyWlty6k?si=jQFtjmnwYnKadC2k" target="_blank">Erklärvideo</a>
 
 Der Wintersturm ist ein Event, das jeden Samstag in drei verschiedenen Zeitfenstern stattfindet:
 - Samstags zwischen 03:00 und 03:00 Uhr

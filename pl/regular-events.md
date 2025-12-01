@@ -9,17 +9,23 @@ date: 2025-11-10 13:00:22 +0100
 
 # Różne cykliczne wydarzenia
 
-## Burza na pustyni
+# Różne regularne wydarzenia
 
-Burza na pustyni to bitwa na neutralnym terenie, w której dwie drużyny po 20 dowódców walczą o przejęcie budynków.
+## Szlachetna kampania
 
-Udział w tym wydarzeniu wymaga rejestracji, która jest otwarta od poniedziałku od godz. 3:00 do czwartku do godz. 3:00. Dostępnych jest kilka terminów udziału:
-- W piątek między 12:00 a 12:30
-- W piątek między 21:00 a 21:30
+<a href="https://www.youtube.com/watch?v=uEnBpYbmbjw" target="_blank">Film wyjaśniający</a>
 
-{% include translated_image.html url="events/tdd.webp" description="Sposób rejestracji do Burzy na pustyni" %}
+## Fala zombie
+
+WIP
+
+## Poszukiwany boss (Kod XX)
+
+<a href="https://youtu.be/mxSLm52Hu_8?si=vCwYFaZmcojhmbjV" target="_blank">Film wyjaśniający</a>
 
 ## Straż Marszałka
+
+<a href="https://youtu.be/ZDLfbHe3HfI?si=JJgyRzy-2mqJVgIl" target="_blank">Film wyjaśniający</a>
 
 Marszałek to wydarzenie sojuszu odbywające się co dwa dni. Celem jest zorganizowanie rajdu, aby zadać jak najwięcej obrażeń.
 

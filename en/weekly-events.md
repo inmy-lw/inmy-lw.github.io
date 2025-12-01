@@ -11,6 +11,8 @@ date: 2025-11-10 13:00:22 +0100
 
 ## Desert Storm (DS)
 
+<a href="https://youtu.be/Grdcr8MZCVE?si=_7IrPddlexiOFofC" target="_blank">Explanatory video</a>
+
 Desert Storm is a battle on neutral terrain in which two teams of 20 commanders compete to capture buildings.
 
 Participation in this event is subject to open registration from Monday 3:00 a.m. to Thursday 3:00 a.m. Several time slots are available to participate:
@@ -20,6 +22,8 @@ Participation in this event is subject to open registration from Monday 3:00 a.m
 {% include translated_image.html url="events/tdd.webp" description="Registration method for Desert Storm" %}
 
 ## TDH (Winter Storm)
+
+<a href="https://youtu.be/Se0KyWlty6k?si=jQFtjmnwYnKadC2k" target="_blank">Explanatory video</a>
 
 The Winter Storm is an event that takes place every Saturday in 3 different slots:
 - Saturday between 3:00 a.m. and 3:00 a.m.

@@ -11,6 +11,8 @@ date: 2025-11-10 13:00:22 +0100
 
 ## Tempesta del Deserto (TDD)
 
+<a href="https://youtu.be/Grdcr8MZCVE?si=_7IrPddlexiOFofC" target="_blank">Video esplicativo</a>
+
 La Tempesta del Deserto è una battaglia su terreno neutrale in cui 2 squadre di 20 comandanti si affrontano per conquistare degli edifici.
 
 La partecipazione a questo evento è soggetta a registrazione aperta dalle 03:00 di lunedì alle 03:00 di giovedì. Sono disponibili diverse fasce orarie per partecipare:
@@ -20,6 +22,8 @@ La partecipazione a questo evento è soggetta a registrazione aperta dalle 03:00
 {% include translated_image.html url="events/tdd.webp" description="Metodo di registrazione per la Tempesta del deserto" %}
 
 ## TDH (Tempesta invernale)
+
+<a href="https://youtu.be/Se0KyWlty6k?si=jQFtjmnwYnKadC2k" target="_blank">Video esplicativo</a>
 
 La tempesta invernale è un evento che si svolge ogni sabato in 3 fasce orarie diverse:
 - Il sabato tra le 03:00 e le 03:00

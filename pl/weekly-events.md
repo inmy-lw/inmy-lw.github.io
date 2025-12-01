@@ -11,6 +11,8 @@ date: 2025-11-10 13:00:22 +0100
 
 ## Burza Pustyni (TDD)
 
+<a href="https://youtu.be/Grdcr8MZCVE?si=_7IrPddlexiOFofC" target="_blank">Film wyjaśniający</a>
+
 Burza Pustyni to bitwa na neutralnym terenie, w której dwie drużyny po 20 dowódców walczą o przejęcie budynków.
 
 Udział w tym wydarzeniu wymaga rejestracji, która jest otwarta od poniedziałku 03:00 do czwartku 03:00. Dostępnych jest kilka terminów udziału:
@@ -20,6 +22,8 @@ Udział w tym wydarzeniu wymaga rejestracji, która jest otwarta od poniedziałk
 {% include translated_image.html url="events/tdd.webp" description="Sposób rejestracji do Burzy Pustyni" %}
 
 ## TDH (Zimowa burza)
+
+<a href="https://youtu.be/Se0KyWlty6k?si=jQFtjmnwYnKadC2k" target="_blank">Film wyjaśniający</a>
 
 Zimowa burza to wydarzenie odbywające się w każdą sobotę w trzech różnych przedziałach czasowych:
 - W sobotę między 03:00 a 03:00

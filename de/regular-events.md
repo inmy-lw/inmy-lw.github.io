@@ -20,19 +20,11 @@ WIP
 
 ## Gesuchter Boss (Code XX)
 
-<a href="https://www.youtube.com/watch?v=mxSLm52Hu_8&pp=0gcJCSIKAYcqIYzv" target="_blank">Erklärvideo</a>
-
-## Wüstensturm
-
-Der Wüstensturm ist eine Schlacht auf neutralem Terrain, in der zwei Teams mit jeweils 20 Kommandanten gegeneinander antreten, um Gebäude zu erobern.
-
-Die Teilnahme an diesem Event ist nur nach einer Anmeldung möglich, die von Montag 03:00 Uhr bis Donnerstag 03:00 Uhr geöffnet ist. Es stehen mehrere Zeitfenster zur Teilnahme zur Verfügung:
-- Freitag zwischen 12:00 und 12:30 Uhr
-- Freitag zwischen 21:00 und 21:30 Uhr
-
-{% include translated_image.html url="events/tdd.webp" description="Anmeldemethode für den Wüstensturm" %}
+<a href="https://youtu.be/mxSLm52Hu_8?si=vCwYFaZmcojhmbjV" target="_blank">Erklärvideo</a>
 
 ## Marschalls Wache
+
+<a href="https://youtu.be/ZDLfbHe3HfI?si=JJgyRzy-2mqJVgIl" target="_blank">Erklärvideo</a>
 
 Der Marschall ist ein Allianz‑Event, das alle zwei Tage stattfindet. Ziel ist es, sich zu einem Rallyeangriff zu versammeln und möglichst viel Schaden zu verursachen.
 
