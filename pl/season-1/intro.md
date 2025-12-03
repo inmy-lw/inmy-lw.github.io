@@ -10,6 +10,8 @@ priority: 1
 
 # Mechanika
 
+<a href="https://youtu.be/jm5XQRq7p6M?si=mNeUNlxup2TfipWK" target="_blank">Film wyjaśniający</a>
+
 Nasza baza będzie podatna na nowego wirusa.
 
 ![Zainfekowane HQ](/assets/img/season-1/infected_hq.webp)

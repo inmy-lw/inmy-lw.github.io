@@ -10,6 +10,8 @@ priority: 1
 
 # Meccaniche
 
+<a href="https://youtu.be/jm5XQRq7p6M?si=mNeUNlxup2TfipWK" target="_blank">Video esplicativa</a>
+
 La nostra base sarà vulnerabile a un nuovo virus.
 
 ![QG infetto](/assets/img/season-1/infected_hq.webp)

@@ -10,6 +10,8 @@ priority: 1
 
 # Mechanics
 
+<a href="https://youtu.be/jm5XQRq7p6M?si=mNeUNlxup2TfipWK" target="_blank">Explainer video</a>
+
 Our base will be susceptible to a new virus.
 
 ![Infected HQ](/assets/img/season-1/infected_hq.webp)
