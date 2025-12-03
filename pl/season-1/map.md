@@ -10,6 +10,8 @@ priority: 2
 
 # Mapa
 
+<a href="https://youtu.be/T_dl5tCm02M?si=JBHrUh4XQ0Arn0ca" target="_blank">Film wyjaśniający</a>
+
 {% include image.html url="/assets/img/season-1/map.webp" description="Nowa mapa Sezonu 1" %}
 
 Ta mapa składa się z bardzo prostokątnych działek, które można wszystkie zdobyć:

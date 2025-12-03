@@ -10,6 +10,8 @@ priority: 2
 
 # Mappa
 
+<a href="https://youtu.be/T_dl5tCm02M?si=JBHrUh4XQ0Arn0ca" target="_blank">Video esplicativa</a>
+
 {% include image.html url="/assets/img/season-1/map.webp" description="Nuova mappa della Stagione 1" %}
 
 Questa mappa è composta da parcelle molto rettangolari, tutte catturabili:

@@ -10,6 +10,8 @@ priority: 2
 
 # Karte
 
+<a href="https://youtu.be/T_dl5tCm02M?si=JBHrUh4XQ0Arn0ca" target="_blank">Erklärvideo</a>
+
 {% include image.html url="/assets/img/season-1/map.webp" description="Neue Karte der Saison 1" %}
 
 Diese Karte besteht aus sehr rechteckigen Parzellen, die alle erobert werden können:

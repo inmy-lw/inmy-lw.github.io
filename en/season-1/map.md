@@ -10,6 +10,8 @@ priority: 2
 
 # Map
 
+<a href="https://youtu.be/T_dl5tCm02M?si=JBHrUh4XQ0Arn0ca" target="_blank">Explainer video</a>
+
 {% include image.html url="/assets/img/season-1/map.webp" description="New Season 1 Map" %}
 
 This map is made up of very rectangular plots, all of which can be captured:

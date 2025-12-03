@@ -10,6 +10,8 @@ priority: 2
 
 # Carte
 
+<a href="https://youtu.be/T_dl5tCm02M?si=JBHrUh4XQ0Arn0ca" target="_blank">Vidéo explicative</a>
+
 {% include image.html url="/assets/img/season-1/map.webp" description="Nouvelle Carte de la saison 1" %}
 
 Cette carte est composée de parcelles très rectangulaires, qui peuvent être toutes capturées :
