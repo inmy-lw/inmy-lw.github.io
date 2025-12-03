@@ -22,7 +22,7 @@
                         {% endif %}
                         {% assign translated = (item.translations | where: "lang": page.lang | first).value %}
                         {% if translated != nil %}
-                        {% assign title = translated %}
+                        {% assign title = translated.value %}
                         {% else %}
                         {% assign title = item.title %}
                         {% endif %}

@@ -1,5 +1,21 @@
+- title: Saison 1 #Menu item title.
+  translations:
+    - lang: fr
+      value: Saison 1
+    - lang: en
+      value: Season 1
+    - lang: de
+      value: Staffel 1
+    - lang: it
+      value: Stagione 1
+    - lang: pl
+      value: Sezon 1
+  tag: season1
+  url: category/season1.html #Menu item url.
+  icon: assets/img/icons/s1.svg #Menu item icon.
+  hue: "var(--c-themeHueBlue)" #Menu item hue - see note [1].
 - title: Important #Menu item title.
-  translation:
+  translations:
     - lang: fr
       value: Important
     - lang: en
@@ -8,6 +24,8 @@
       value: Wichtig
     - lang: it
       value: Importante
+    - lang: pl
+      value: Ważne
   tag: important
   url: category/important.html #Menu item url.
   icon: assets/img/icons/important.svg #Menu item icon.
@@ -21,10 +39,32 @@
 #          url: libs.html
 #          hue: "var(--c-themeHueBlue)"
 - title: Evolution
+  translations:
+    - lang: fr
+      value: Evolution
+    - lang: en
+      value: Evolution
+    - lang: de
+      value: Entwicklung
+    - lang: it
+      value: Evoluzione
+    - lang: pl
+      value: Ewolucja
   url: category/evolution.html
   icon: assets/img/icons/evolutions.svg
   hue: "var(--c-themeHueGreen)"
-- title: Evenements
+- title: Événements
+  translations:
+    - lang: fr
+      value: Événements
+    - lang: en
+      value: Events
+    - lang: de
+      value: Veranstaltungen
+    - lang: it
+      value: Eventi
+    - lang: pl
+      value: Wydarzenia
   url: category/events.html
   icon: assets/img/icons/events.svg
   hue: "var(--c-themeHuePurple)"
