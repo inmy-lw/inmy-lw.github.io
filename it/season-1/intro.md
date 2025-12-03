@@ -24,12 +24,12 @@ Quando la nostra base è infetta, i nostri alleati avranno la possibilità di cu
 
 |                               Immagine                               |        Nome        |
 |:--------------------------------------------------------------------:|:------------------:|
-|           ![elites](/assets/img/season-1/elites.webp)                |  Élite maledette   |
-|      ![zombie tank](/assets/img/season-1/zombie-tank.webp)           |    Carro zombie    |
-|   ![zombie aircraft](/assets/img/season-1/zombie-aircraft.webp)      |    Aereo zombie    |
-|    ![zombie missile](/assets/img/season-1/zombie-missile.webp)       |   Missile zombie   |
+|             ![elites](/assets/img/season-1/elites.webp)              |  Élite maledette   |
+|        ![zombie tank](/assets/img/season-1/zombie-tank.webp)         |    Carro zombie    |
+|    ![zombie aircraft](/assets/img/season-1/zombie-aircraft.webp)     |    Aereo zombie    |
+|     ![zombie missile](/assets/img/season-1/zombie-missile.webp)      |   Missile zombie   |
 
-Per le Élite maledette servirà una certa resistenza al virus per poter infliggere danni:
+Per gli zombie o le élite maledette, sarà necessario avere una certa resistenza al virus per poter causare loro dei danni:
 
 ![Danni élite](/assets/img/season-1/elite-damages.webp)
 
@@ -48,9 +48,9 @@ Queste nuove risorse si possono ottenere, tra l’altro, quando un livello di É
 
 # Nuovi edifici
 
-|                                        Immagine                                        |           Nome            |                                                                       Effetto                                                                        |
-|:--------------------------------------------------------------------------------------:|:-------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
-|              ![protein farm](/assets/img/season-1/protein-farm.webp)                   |    Fattoria di proteine   | Migliora l’edificio utilizzando **cristalli mutanti** per produrre **proteine immunitarie**                                                         |
-|  ![virus research institute](/assets/img/season-1/virus-research-institute.webp)       | Istituto di ricerca sul virus | Aumenta la **resistenza al virus** utilizzando **proteine immunitarie**                                                                            |
-|         ![centre de secours](/assets/img/season-1/emergency-center.webp)               |    Centro di soccorso     | Conserva le «unità svenute»: truppe ferite durante le battaglie sulla mappa mondiale quando il tuo ospedale è alla massima capacità.              |
-|          ![Hall des métiers](/assets/img/season-1/profession_hall.webp)                |   Sala delle professioni  | Aumenta la **resistenza al virus** utilizzando **proteine immunitarie**                                                                            |
+|                                    Immagine                                     |             Nome              |                                                                                         Effetto                                                                                          |
+|:-------------------------------------------------------------------------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|             ![protein farm](/assets/img/season-1/protein-farm.webp)             |     Fattoria di proteine      |                                               Migliora l’edificio utilizzando **cristalli mutanti** per produrre **proteine immunitarie**                                                |
+| ![virus research institute](/assets/img/season-1/virus-research-institute.webp) | Istituto di ricerca sul virus |                                                         Aumenta la **resistenza al virus** utilizzando **proteine immunitarie**                                                          |
+|        ![centre de secours](/assets/img/season-1/emergency-center.webp)         |      Centro di soccorso       | Conserva le «unità svenute»: truppe ferite durante le battaglie sulla mappa mondiale quando il tuo ospedale è alla massima capacità. Utilizzabile gratuitamente ogni due giorni e mezzo. |
+|         ![Hall des métiers](/assets/img/season-1/profession_hall.webp)          |    Sala delle professioni     |                                                       Edificio per gestire la propria professione. (WIP: pagina sulle professioni)                                                       |

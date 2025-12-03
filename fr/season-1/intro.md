@@ -29,7 +29,7 @@ Lorsque notre base est infecté, nos alliés auront la possibilité de nous soig
 |  ![zombie aircraft](/assets/img/season-1/zombie-aircraft.webp)  |  Zombie Avion   |
 |   ![zombie missile](/assets/img/season-1/zombie-missile.webp)   | Zombie Missile  |
 
-Pour les élites maudites, il faudra avoir une certaine résistance au virus pour pouvoir leur faire des dégâts :
+Pour les zombies ou les élites maudites, il faudra avoir une certaine résistance au virus pour pouvoir leur faire des dégâts :
 
 ![elite damage](/assets/img/season-1/elite-damages.webp)
 
@@ -48,9 +48,9 @@ Ces nouvelles ressources peuvent notamment être obtenues lorsqu'un niveau d'él
 
 # Nouveaux bâtiments
 
-|                                       Image                                       |           Nom           |                                                                     Effet                                                                      |
-|:---------------------------------------------------------------------------------:|:-----------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
-|              ![protein farm](/assets/img/season-1/protein-farm.webp)              |    Ferme à protéines    |                    Améliorer le bâtiment en utilisant des **cristaux mutants** pour produire des **protéines immunitaires**                    |
-|  ![virus research institute](/assets/img/season-1/virus-research-institute.webp)  |  Institut de recherche  |                               Améliorer la **résistance au virus** en utilisant des **protéines immunitaires**.                                |
-|         ![centre de secours](/assets/img/season-1/emergency-center.webp)          |    Centre de secours    |  Stocke les « unités évanouies » : les troupes blessées lors des batailles sur la carte du monde lorsque votre hôpital est à pleine capacité.  |
-|          ![Hall des métiers](/assets/img/season-1/profession_hall.webp)           |    Hall des métiers     |                               Améliorer la **résistance au virus** en utilisant des **protéines immunitaires**.                                |
+|                                       Image                                       |           Nom           |                                                                                             Effet                                                                                              |
+|:---------------------------------------------------------------------------------:|:-----------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|              ![protein farm](/assets/img/season-1/protein-farm.webp)              |    Ferme à protéines    |                                            Améliorer le bâtiment en utilisant des **cristaux mutants** pour produire des **protéines immunitaires**                                            |
+|  ![virus research institute](/assets/img/season-1/virus-research-institute.webp)  |  Institut de recherche  |                                                       Améliorer la **résistance au virus** en utilisant des **protéines immunitaires**.                                                        |
+|         ![centre de secours](/assets/img/season-1/emergency-center.webp)          |    Centre de secours    | Stocke les « unités évanouies » : les troupes blessées lors des batailles sur la carte du monde lorsque votre hôpital est à pleine capacité. Utilisable gratuitement tous les 2 jours et demi. |
+|          ![Hall des métiers](/assets/img/season-1/profession_hall.webp)           |    Hall des métiers     |                                                                  Bâtiment pour gérer son métier. (WIP : page sur les métiers)                                                                  |
