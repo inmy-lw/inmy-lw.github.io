@@ -21,7 +21,7 @@ Questa mappa è composta da parcelle molto rettangolari, tutte catturabili:
     - Apparirà quindi un boss, al quale bisognerà infliggere una certa quantità di danni nel tempo assegnato (un po’ come
       la [Guardia del Maresciallo](/{{page.lang}}/regular-events.html))
     - Una volta catturata la fortezza, anche la parcella verrà catturata.
-- Città (nominate)
+- Città (nominate, indicate con "2" sull'immagine)
     - Equivalenti ai villaggi attualmente presenti sulla nostra mappa attuale (Stagione 0)
     - Catturabili solo se le parcelle adiacenti sono già state catturate.
     - Cattura simile alla cattura dei villaggi nella Stagione 0.
@@ -37,6 +37,8 @@ Questa mappa è composta da parcelle molto rettangolari, tutte catturabili:
           - Domenica: Città di livello 6
         - Settimana 4
           - Domenica: Città di livello 7
+
+{% include image.html url="/assets/img/season-1/military-stronghold.webp" description="Vista di una fortezza e degli zombie durante la conquista" %}
 
 **Attenzione alla resistenza al virus durante la cattura!** Il lanciatore del raduno condivide la sua resistenza con tutti i
 membri del raduno (a meno che un membro non abbia una resistenza superiore).

@@ -21,7 +21,7 @@ This map is made up of very rectangular plots, all of which can be captured:
     - A boss will then appear, and you must deal a certain amount of damage within the time limit (similar to
       the [Marshal Guard](/{{page.lang}}/regular-events.html))
     - Once the fortress is captured, the plot will be captured as well.
-- Cities (named)
+- Cities (named, marked as ‘2’ on the image)
     - Equivalent to the villages currently known on our current map (Season 0)
     - Capturable only if adjacent plots have already been captured.
     - Capture is similar to village capture in Season 0.
@@ -37,6 +37,8 @@ This map is made up of very rectangular plots, all of which can be captured:
           - Sunday: Level 6 Cities
         - Week 4
           - Sunday: Level 7 Cities
+
+{% include image.html url="/assets/img/season-1/military-stronghold.webp" description="View of a fortress and zombies during capture" %}
 
 **Watch your virus resistance during capture!** The rally launcher shares their resistance with all
 members of the rally (unless a member has a higher resistance).

@@ -21,7 +21,7 @@ Cette carte est composée de parcelles très rectangulaires, qui peuvent être t
     - Un boss apparaîtra alors, il faudra lui infliger un certain nombre de dégâts dans le temps imparti (un peu comme
       la [Garde du maréchal](/{{page.lang}}/regular-events.html))
     - Une fois la forteresse capturée, la parcelle le sera aussi.
-- Les villes (nommées)
+- Les villes (nommées, en '2' sur l'image)
     - Equivalent des villages actuellement connus sur notre carte actuelle (Saison 0)
     - Capturable uniquement si les parcelles adjacentes ont déjà été capturées.
     - Capture similaire à la capture des villages dans la saison 0.
@@ -37,6 +37,8 @@ Cette carte est composée de parcelles très rectangulaires, qui peuvent être t
           - Dimanche : Villes de niveau 6
         - Semaine 4
           - Dimanche : Villes de niveau 7
+
+{% include image.html url="/assets/img/season-1/military-stronghold.webp" description="Vue d'une forteresse et des zombies lors de la capture" %}
 
 **Attention à votre résistance au virus pendant la capture !** Le lanceur du ralliement offre sa résistance à tous les
 membres du ralliement (sauf si un membre du ralliement a une résistance supérieure).

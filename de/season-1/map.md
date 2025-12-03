@@ -21,7 +21,7 @@ Diese Karte besteht aus sehr rechteckigen Parzellen, die alle erobert werden kö
     - Danach erscheint ein Boss, dem innerhalb der vorgegebenen Zeit eine bestimmte Menge Schaden zugefügt werden muss (ähnlich wie
       die [Marschallwache](/{{page.lang}}/regular-events.html))
     - Sobald die Festung erobert ist, wird auch die Parzelle erobert.
-- Städte (benannt)
+- Städte (benannt, mit „2“ auf dem Bild)
     - Entsprechen den Dörfern, die auf unserer aktuellen Karte (Saison 0) bekannt sind
     - Nur eroberbar, wenn die angrenzenden Parzellen bereits erobert wurden.
     - Eroberung ähnlich der Dorferoberung in Saison 0.
@@ -37,6 +37,8 @@ Diese Karte besteht aus sehr rechteckigen Parzellen, die alle erobert werden kö
           - Sonntag: Städte der Stufe 6
         - Woche 4
           - Sonntag: Städte der Stufe 7
+
+{% include image.html url="/assets/img/season-1/military-stronghold.webp" description="Blick auf eine Festung und Zombies während der Eroberung" %}
 
 **Achtet während der Eroberung auf eure Virusresistenz!** Der Starter des Zusammenschlusses (Rally) teilt seine Resistenz mit allen
 Mitgliedern des Zusammenschlusses (außer wenn ein Mitglied eine höhere Resistenz hat).

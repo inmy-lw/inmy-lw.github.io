@@ -21,7 +21,7 @@ Ta mapa składa się z bardzo prostokątnych działek, które można wszystkie z
     - Następnie pojawi się boss, któremu trzeba zadać określoną ilość obrażeń w wyznaczonym czasie (podobnie jak
       [Straż Marszałka](/{{page.lang}}/regular-events.html))
     - Gdy twierdza zostanie zdobyta, działka również zostanie przejęta.
-- Miasta (nazwane)
+- Miasta (nazwane, oznaczone „2” na obrazku)
     - Odpowiednik wiosek znanych obecnie na naszej aktualnej mapie (Sezon 0)
     - Możliwe do zdobycia tylko wtedy, gdy sąsiadujące działki zostały już przejęte.
     - Zdobywanie podobne do zdobywania wiosek w Sezonie 0.
@@ -37,6 +37,8 @@ Ta mapa składa się z bardzo prostokątnych działek, które można wszystkie z
           - Niedziela: Miasta poziomu 6
         - Tydzień 4
           - Niedziela: Miasta poziomu 7
+
+{% include image.html url="/assets/img/season-1/military-stronghold.webp" description="Widok fortecy i zombie podczas zdobycia" %}
 
 **Uważajcie na odporność na wirusa podczas zdobywania!** Inicjator zgrupowania udostępnia swoją odporność wszystkim
 członkom zgrupowania (chyba że któryś z członków ma wyższą odporność).
