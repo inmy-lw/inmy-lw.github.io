@@ -43,6 +43,8 @@ Ces armes exclusives ajouteront un nouvel onglet sur le héros concerné, et leu
 
 Les armes exclusives seront payantes pendant la saison 1 ; mais elles seront disponibles plus tard dans l'inter-saison pour tout le monde.
 
+
+
 ## Tickets "Retour du héros"
 
 Dans la taverne, en plus des tickets de "Recrutement de Héros" et des tickets de "Recrutement de Survivant", il apparaîtra un nouveau type de ticket "Retour du héros" qui permet de pouvoir récupérer des héros UR non obtenus (par ex : Williams).

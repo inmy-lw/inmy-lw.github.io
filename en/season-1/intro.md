@@ -57,3 +57,8 @@ These new resources can be obtained, in particular, when a Cursed Elite level is
 | ![virus research institute](/assets/img/season-1/virus-research-institute.webp) | Virus Research Institute |                                            Increase **virus resistance** using **Immune Proteins**                                             |
 |        ![centre de secours](/assets/img/season-1/emergency-center.webp)         |     Emergency Center     | Stores the «fainted units»: troops wounded during battles on the world map when your hospital is at full capacity. Free to use every 2.5 days. |
 |         ![Hall des métiers](/assets/img/season-1/profession_hall.webp)          |   Hall of Professions    |                                         Building to manage your profession. (WIP: page on professions)                                         |
+
+
+## Construction time and resources
+
+{% include image.html url="/assets/img/season-1/new-building-resources.webp" description="Resources used and construction time for new buildings" %}

@@ -56,3 +56,7 @@ Queste nuove risorse si possono ottenere, tra l’altro, quando un livello di É
 | ![virus research institute](/assets/img/season-1/virus-research-institute.webp) | Istituto di ricerca sul virus |                                                         Aumenta la **resistenza al virus** utilizzando **proteine immunitarie**                                                          |
 |        ![centre de secours](/assets/img/season-1/emergency-center.webp)         |      Centro di soccorso       | Conserva le «unità svenute»: truppe ferite durante le battaglie sulla mappa mondiale quando il tuo ospedale è alla massima capacità. Utilizzabile gratuitamente ogni due giorni e mezzo. |
 |         ![Hall des métiers](/assets/img/season-1/profession_hall.webp)          |    Sala delle professioni     |                                                       Edificio per gestire la propria professione. (WIP: pagina sulle professioni)                                                       |
+
+## Tempi di costruzione e risorse
+
+{% include image.html url="/assets/img/season-1/new-building-resources.webp" description="Risorse utilizzate e tempi di costruzione dei nuovi edifici" %}

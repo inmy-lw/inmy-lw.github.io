@@ -58,3 +58,7 @@ wurde.
 | ![virus research institute](/assets/img/season-1/virus-research-institute.webp) | Virusforschungsinstitut |                                                               **Virusresistenz** mithilfe von **Immunproteinen** erhöhen                                                                |
 |        ![centre de secours](/assets/img/season-1/emergency-center.webp)         |     Rettungszentrum     | Speichert die «ohnmächtigen Einheiten»: Truppen, die bei Kämpfen auf der Weltkarte verletzt wurden, wenn dein Krankenhaus volle Kapazität hat. Alle zweieinhalb Tage kostenlos nutzbar. |
 |         ![Hall des métiers](/assets/img/season-1/profession_hall.webp)          |       Berufshalle       |                                                             Gebäude zur Verwaltung seines Berufs. (WIP: Seite über Berufe)                                                              |
+
+## Bauzeit und Ressourcen
+
+{% include image.html url="/assets/img/season-1/new-building-resources.webp" description="Verwendete Ressourcen und Bauzeit für neue Gebäude" %}
