@@ -43,6 +43,38 @@ Diese exklusiven Waffen fügen beim betreffenden Helden einen neuen Tab hinzu, u
 
 Die exklusiven Waffen sind während Saison 1 kostenpflichtig; später in der Zwischensaison werden sie jedoch für alle verfügbar sein.
 
+### Freischalten exklusiver Waffen
+
+Um eine exklusive Waffe freizuschalten, brauchst du:
+- der Held hat 5 Sterne
+- 50 Fragmente der exklusiven Waffe des Helden
+
+{% include image.html url="/assets/img/season-1/weapon-shard.webp" description="Fragmente für exklusive Waffen (Kim, DVA, Tesla, Universal)" %}
+
+### Die exklusive Waffe verbessern
+
+Sobald die exklusive Waffe freigeschaltet ist, startet sie auf Stufe 1. Sie kann bis Stufe 30 verbessert werden.
+
+| Stufe | Fragmente pro Abschnitt | Fragmente gesamt |
+|:-----:|:------------------------:|:----------------:|
+|   1   |           50             |        50        |
+| 2 - 5 |           20             |        80        |
+| 6 - 10|           40             |        200       |
+|11 - 15|           60             |        300       |
+|16 - 20|           100            |        500       |
+|21 - 25|           150            |        750       |
+|26 - 30|           200            |       1000       |
+
+Um eine exklusive Waffe auf Stufe 30 zu verbessern, werden insgesamt **2880 Fragmente** benötigt.
+
+### Fragmente erhalten
+
+Universelle Fragmente können aus VS‑Truhen, in bestimmten In‑Game‑Shops und im Event „Schwarzmarkt“ am Ende der Saison erhalten werden.
+
+Es werden neue Truhentypen erscheinen, in denen wir zwischen UR‑Fragmenten oder Fragmenten für exklusive Waffen wählen können.
+
+{% include image.html url="/assets/img/season-1/shard-choice-chest.webp" description="Auswahltruhe für Fragmente" %}
+
 ## „Rückkehr des Helden“-Tickets
 
 In der Taverne erscheint neben den Tickets „Heldenrekrutierung“ und „Überlebendenrekrutierung“ ein neuer Tickettyp „Rückkehr des Helden“, mit dem man nicht erhaltene UR‑Helden (z. B. Williams) bekommen kann.

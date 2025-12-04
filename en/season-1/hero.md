@@ -43,6 +43,38 @@ These exclusive weapons will add a new tab to the hero, and their upgrading will
 
 Exclusive weapons will be paid during Season 1; but they will become available later during the inter‑season for everyone.
 
+### Unlocking exclusive weapons
+
+To unlock an exclusive weapon, you need:
+- the hero is 5‑star
+- 50 fragments of the hero’s exclusive weapon
+
+{% include image.html url="/assets/img/season-1/weapon-shard.webp" description="Exclusive weapon fragments (Kim, DVA, Tesla, Universal)" %}
+
+### Upgrading the exclusive weapon
+
+Once the exclusive weapon is unlocked, it starts at level 1. It can be upgraded up to level 30.
+
+| Level  | Fragments per section | Total fragments |
+|:------:|:---------------------:|:---------------:|
+|   1    |          50           |       50        |
+|  2 - 5 |          20           |       80        |
+| 6 - 10 |          40           |       200       |
+| 11 - 15|          60           |       300       |
+| 16 - 20|          100          |       500       |
+| 21 - 25|          150          |       750       |
+| 26 - 30|          200          |      1000       |
+
+To upgrade an exclusive weapon to level 30, you therefore need a total of **2880 fragments**.
+
+### Getting fragments
+
+Universal fragments can be obtained from VS chests, in certain in‑game shops, and in the "Black Market" event at the end of the season.
+
+New types of chests will appear, in which we can choose between UR fragments or exclusive weapon fragments.
+
+{% include image.html url="/assets/img/season-1/shard-choice-chest.webp" description="Fragment choice chest" %}
+
 ## "Hero Return" tickets
 
 In the tavern, in addition to the "Hero Recruitment" tickets and "Survivor Recruitment" tickets, a new ticket type "Hero Return" will appear, allowing you to obtain UR heroes you didn’t get (e.g., Williams).

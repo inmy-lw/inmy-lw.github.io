@@ -43,6 +43,38 @@ Te ekskluzywne bronie dodadzą nową zakładkę u danego bohatera, a ich ulepsza
 
 Ekskluzywne bronie będą płatne w Sezonie 1; później, w międzysezonie, staną się dostępne dla wszystkich.
 
+### Odblokowanie ekskluzywnych broni
+
+Aby odblokować ekskluzywną broń, potrzebujesz:
+- bohater ma 5 gwiazdek
+- 50 fragmentów ekskluzywnej broni bohatera
+
+{% include image.html url="/assets/img/season-1/weapon-shard.webp" description="Fragmenty ekskluzywnych broni (Kim, DVA, Tesla, Uniwersalne)" %}
+
+### Ulepszanie ekskluzywnej broni
+
+Po odblokowaniu ekskluzywna broń ma poziom 1. Można ją ulepszyć do poziomu 30.
+
+| Poziom | Fragmenty na sekcję | Fragmenty łącznie |
+|:------:|:-------------------:|:-----------------:|
+|   1    |         50          |        50         |
+|  2 - 5 |         20          |        80         |
+|  6 - 10|         40          |        200        |
+| 11 - 15|         60          |        300        |
+| 16 - 20|         100         |        500        |
+| 21 - 25|         150         |        750        |
+| 26 - 30|         200         |       1000        |
+
+Aby ulepszyć ekskluzywną broń do poziomu 30, potrzeba łącznie **2880 fragmentów**.
+
+### Zdobywanie fragmentów
+
+Fragmenty uniwersalne można zdobyć ze skrzynek VS, w niektórych sklepach w grze oraz w wydarzeniu "Czarny Rynek" pod koniec sezonu.
+
+Pojawią się nowe rodzaje skrzynek, w których będziemy mogli wybierać między fragmentami UR a fragmentami ekskluzywnej broni.
+
+{% include image.html url="/assets/img/season-1/shard-choice-chest.webp" description="Skrzynia wyboru fragmentów" %}
+
 ## Bilety "Powrót bohatera"
 
 W tawernie, oprócz biletów „Rekrutacja Bohatera” i „Rekrutacja Ocalałych”, pojawi się nowy typ biletu „Powrót bohatera”, który pozwoli zdobyć nieuzyskanych wcześniej bohaterów UR (np. Williamsa).

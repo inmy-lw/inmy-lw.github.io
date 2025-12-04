@@ -43,7 +43,37 @@ Ces armes exclusives ajouteront un nouvel onglet sur le héros concerné, et leu
 
 Les armes exclusives seront payantes pendant la saison 1 ; mais elles seront disponibles plus tard dans l'inter-saison pour tout le monde.
 
+### Déblocage des armes exclusives
 
+Pour débloquer une arme exclusive, il faut :
+- le héros possède le grade 5 étoiles
+- 50 fragments de l'arme exclusive du héros
+
+{% include image.html url="/assets/img/season-1/weapon-shard.webp" description="Fragments d'armes exclusives (Kim, DVA, Tesla, Universel)" %}
+
+### Améliorer l'arme exclusive
+
+Une fois que l'arme exclusive est débloquée, elle est au niveau 1. Elle peut être améliorée jusqu'au niveau 30.
+
+| Niveau  | Nombre de fragments par section | Nombre de fragments total |
+|:-------:|:-------------------------------:|:-------------------------:|
+|    1    |               50                |            50             |
+|  2 - 5  |               20                |            80             |
+| 6 - 10  |               40                |            200            |
+| 11 - 15 |               60                |            300            |
+| 16 - 20 |               100               |            500            |
+| 21 - 25 |               150               |            750            |
+| 26 - 30 |               200               |           1000            |
+
+Pour améliorer une arme exclusive jusqu'au niveau 30, il faut donc un total de **2880 fragments**.
+
+### Obtenir des fragments
+
+Des fragments universels pourront être récupérés dans les coffres du VS, dans certaines boutiques du jeu et dans l'événement "Marché Noir" à la fin de la saison.
+
+Des nouveaux types de coffres apparaîtront, dans lesquels nous aurons le choix entre des fragments UR ou des fragments d'arme exclusive.
+
+{% include image.html url="/assets/img/season-1/shard-choice-chest.webp" description="Coffre de choix de fragments" %}
 
 ## Tickets "Retour du héros"
 
