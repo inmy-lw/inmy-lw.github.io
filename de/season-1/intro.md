@@ -59,6 +59,15 @@ wurde.
 |        ![centre de secours](/assets/img/season-1/emergency-center.webp)         |     Rettungszentrum     | Speichert die «ohnmächtigen Einheiten»: Truppen, die bei Kämpfen auf der Weltkarte verletzt wurden, wenn dein Krankenhaus volle Kapazität hat. Alle zweieinhalb Tage kostenlos nutzbar. |
 |         ![Hall des métiers](/assets/img/season-1/profession_hall.webp)          |       Berufshalle       |                                                             Gebäude zur Verwaltung seines Berufs. (WIP: Seite über Berufe)                                                              |
 
+## Saisonale Gebäude
+
+Es werden neue, zeitlich begrenzte Gebäude erscheinen (sie verschwinden nach der Saison wieder): neue Militärbasen für Panzer, Flugzeuge und Raketen.
+Diese Gebäude sind ab der 3. Woche verfügbar und lassen sich ausschließlich mit Saisonressourcen verbessern (**Mutantenkristall** und **Immunprotein**).
+
+Sie erhöhen die LP der entsprechenden Helden pro Stufe um 1 %.
+
+![new building](/assets/img/season-1/seasonal-buildings.webp)
+
 ## Bauzeit und Ressourcen
 
 {% include image.html url="/assets/img/season-1/new-building-resources.webp" description="Verwendete Ressourcen und Bauzeit für neue Gebäude" %}

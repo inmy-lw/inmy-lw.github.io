@@ -58,6 +58,15 @@ Te nowe zasoby można uzyskać m.in. po pierwszym pokonaniu poziomu Przeklętej 
 |        ![centre de secours](/assets/img/season-1/emergency-center.webp)         |     Centrum ratunkowe      | Przechowuje «zemdlone jednostki»: oddziały zranione podczas bitew na mapie świata, gdy twój szpital jest w pełni zapełniony. Można korzystać bezpłatnie co dwa i pół dnia. |
 |         ![Hall des métiers](/assets/img/season-1/profession_hall.webp)          |        Sala zawodów        |                                                   Budynek do zarządzania swoim zawodem. (WIP: strona poświęcona zawodom)                                                   |
 
+## Budynki sezonowe
+
+Pojawią się nowe, tymczasowe budynki (znikną po sezonie): nowe bazy wojskowe czołgu, samolotu i pocisku.
+Budynki będą dostępne od 3. tygodnia i do ulepszania będą używać wyłącznie zasobów sezonu (**Kryształ mutanta** i **Białko odpornościowe**).
+
+Zwiększają one PZ odpowiednich bohaterów o 1% na poziom.
+
+![new building](/assets/img/season-1/seasonal-buildings.webp)
+
 ## Czas budowy i zasoby
 
 {% include image.html url="/assets/img/season-1/new-building-resources.webp" description="Zasoby wykorzystane i czas budowy nowych budynków" %}

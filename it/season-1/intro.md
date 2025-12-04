@@ -57,6 +57,15 @@ Queste nuove risorse si possono ottenere, tra l’altro, quando un livello di É
 |        ![centre de secours](/assets/img/season-1/emergency-center.webp)         |      Centro di soccorso       | Conserva le «unità svenute»: truppe ferite durante le battaglie sulla mappa mondiale quando il tuo ospedale è alla massima capacità. Utilizzabile gratuitamente ogni due giorni e mezzo. |
 |         ![Hall des métiers](/assets/img/season-1/profession_hall.webp)          |    Sala delle professioni     |                                                       Edificio per gestire la propria professione. (WIP: pagina sulle professioni)                                                       |
 
+## Edifici stagionali
+
+Appariranno nuovi edifici temporanei (scompariranno dopo la stagione): nuove basi militari di carro armato, aereo e missile.
+Questi edifici saranno disponibili a partire dalla 3ª settimana e si potranno migliorare esclusivamente con le risorse della stagione (**Cristallo mutante** e **Proteina immunitaria**).
+
+Aumentano gli HP degli eroi interessati dell'1% per livello.
+
+![new building](/assets/img/season-1/seasonal-buildings.webp)
+
 ## Tempi di costruzione e risorse
 
 {% include image.html url="/assets/img/season-1/new-building-resources.webp" description="Risorse utilizzate e tempi di costruzione dei nuovi edifici" %}

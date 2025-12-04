@@ -58,6 +58,15 @@ These new resources can be obtained, in particular, when a Cursed Elite level is
 |        ![centre de secours](/assets/img/season-1/emergency-center.webp)         |     Emergency Center     | Stores the «fainted units»: troops wounded during battles on the world map when your hospital is at full capacity. Free to use every 2.5 days. |
 |         ![Hall des métiers](/assets/img/season-1/profession_hall.webp)          |   Hall of Professions    |                                         Building to manage your profession. (WIP: page on professions)                                         |
 
+## Seasonal buildings
+
+New temporary buildings will appear (they will disappear after the season): new military bases for tank, aircraft, and missile.
+These buildings will be available starting from week 3, and will use only season resources to upgrade (**Mutant Crystal** and **Immune Protein**).
+
+They increase the HP of the relevant heroes by 1% per level.
+
+![new building](/assets/img/season-1/seasonal-buildings.webp)
+
 
 ## Construction time and resources
 

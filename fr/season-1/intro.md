@@ -57,6 +57,15 @@ Ces nouvelles ressources peuvent notamment être obtenues lorsqu'un niveau d'él
 |         ![centre de secours](/assets/img/season-1/emergency-center.webp)          |    Centre de secours    | Stocke les « unités évanouies » : les troupes blessées lors des batailles sur la carte du monde lorsque votre hôpital est à pleine capacité. Utilisable gratuitement tous les 2 jours et demi. |
 |          ![Hall des métiers](/assets/img/season-1/profession_hall.webp)           |    Hall des métiers     |                                                                  Bâtiment pour gérer son métier. (WIP : page sur les métiers)                                                                  |
 
+## Bâtiments de saison
+
+De nouveaux bâtiments éphémères vont apparaître (ils disparaîtront après la saison) : des nouvelles bases militaires de tank, avion et missile.
+Ces bâtiments seront disponibles à partir de la 3è semaine, et n'utiliseront que des ressources de la saison pour être améliorés (**Cristal mutant** et **Protéine immunitaire**).
+
+Ils augmenteront de 1% les PV des héros concernés par niveau.
+
+![new building](/assets/img/season-1/seasonal-buildings.webp)
+
 ## Temps de construction et ressources
 
 {% include image.html url="/assets/img/season-1/new-building-resources.webp" description="Ressources utilisées et temps de construction des nouveaux bâtiments" %}
