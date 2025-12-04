@@ -47,3 +47,17 @@ This is a new event that is similar in principle to hidden treasures (which you 
 
 1. Different vials to collect
 2. Cooldown for recombination
+
+## Method for free teleportation
+
+Similar to VS, there is a method that allows you to teleport for free during the war zone expedition.
+
+{% include image.html url="/assets/img/season-1/free-teleport.webp" description="Free teleportation method" %}
+
+1. Click the Season 1 button
+2. Select the first card, then "Regrouping"
+3. Select a different server and teleport to it
+4. You will then be temporarily transported to this server
+5. Return to your server for free and repeat.
+
+**As with VS, this action can be done every 3 minutes, so it's recommended to have your shield to avoid being trapped.**

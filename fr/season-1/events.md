@@ -47,3 +47,18 @@ C'est un nouvel événement qui ressemble sur le principe aux trésors cachés (
 
 1. Différentes fioles à rassembler
 2. Temps de recharge pour la recombinaison
+
+## Méthode pour se téléporter gratuitement
+
+De la même manière que pour le VS, il existe une méthode qui permettra de se téléporter gratuitement pendant l'expédition de zone de guerre.
+
+{% include image.html url="/assets/img/season-1/free-teleport.webp" description="Méthode de téléportation gratuite" %}
+
+1. Cliquer sur le bouton Saison 1
+2. Sélectionner le premier encart, puis "Regroupement"
+3. Sélectionner un serveur différent puis s'y téléporter
+4. On sera alors temporairement transporté sur ce serveur
+5. Retourner gratuitement sur notre serveur puis recommencer.
+
+**De la même manière que pour le VS, la manipulation peut être faite toutes les 3 minutes, il est donc conseillé d'avoir son bouclier pour éviter d'être pris au piège**.
+

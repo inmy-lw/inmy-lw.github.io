@@ -47,3 +47,17 @@ Dies ist ein neues Event, das vom Prinzip her den versteckten Schätzen ähnelt 
 
 1. Verschiedene zu sammelnde Phiolen
 2. Abklingzeit für die Rekombination
+
+## Methode für kostenlose Teleportation
+
+Ähnlich wie beim VS gibt es eine Methode, mit der man sich während der Kriegszonen-Expedition kostenlos teleportieren kann.
+
+{% include image.html url="/assets/img/season-1/free-teleport.webp" description="Methode der kostenlosen Teleportation" %}
+
+1. Auf die Schaltfläche „Season 1“ tippen
+2. Das erste Feld auswählen und dann „Zusammenlegung“
+3. Einen anderen Server auswählen und dorthin teleportieren
+4. Man wird dann vorübergehend auf diesen Server versetzt
+5. Kostenlos auf den eigenen Server zurückkehren und wiederholen.
+
+**Wie beim VS kann diese Aktion alle 3 Minuten durchgeführt werden; es wird daher empfohlen, den Schild aktiv zu haben, um nicht in eine Falle zu geraten.**

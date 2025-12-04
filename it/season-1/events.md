@@ -47,3 +47,17 @@ In questa schermata riepilogativa si trovano:
 
 1. Diverse fiale da raccogliere
 2. Tempo di ricarica per la ricombinazione
+
+## Metodo per teletrasportarsi gratuitamente
+
+Allo stesso modo del VS, esiste un metodo che permette di teletrasportarsi gratuitamente durante la spedizione in zona di guerra.
+
+{% include image.html url="/assets/img/season-1/free-teleport.webp" description="Metodo di teletrasporto gratuito" %}
+
+1. Toccare il pulsante Stagione 1
+2. Selezionare il primo riquadro, quindi "Raggruppamento"
+3. Selezionare un server diverso e teletrasportarsi su di esso
+4. Si verrà quindi trasferiti temporaneamente su quel server
+5. Tornare gratuitamente sul proprio server e ripetere.
+
+**Come per il VS, l'operazione può essere effettuata ogni 3 minuti; si consiglia quindi di avere lo scudo attivo per evitare di finire in trappola.**

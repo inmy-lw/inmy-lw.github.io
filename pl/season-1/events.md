@@ -47,3 +47,17 @@ To nowe wydarzenie, które zasadą przypomina ukryte skarby (zdobywane w tajnych
 
 1. Różne fiolki do zebrania
 2. Czas odnowienia dla rekombinacji
+
+## Metoda darmowej teleportacji
+
+Podobnie jak w VS, istnieje metoda, która pozwala na darmową teleportację podczas ekspedycji w strefie wojny.
+
+{% include image.html url="/assets/img/season-1/free-teleport.webp" description="Metoda darmowej teleportacji" %}
+
+1. Kliknij przycisk Sezon 1
+2. Wybierz pierwszy kafelek, następnie „Grupowanie”
+3. Wybierz inny serwer i teleportuj się na niego
+4. Zostaniesz tymczasowo przeniesiony na ten serwer
+5. Wróć za darmo na swój serwer i powtórz.
+
+**Tak jak w VS, operację można wykonywać co 3 minuty, dlatego zaleca się posiadanie aktywnej tarczy, aby nie wpaść w pułapkę.**
