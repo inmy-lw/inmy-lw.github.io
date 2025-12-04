@@ -16,6 +16,25 @@ Durante la Stagione 1, con l’edificio "Sala delle professioni", sarà possibil
 
 Le diverse professioni possibili sono presentate così come sono, e alla fine della pagina viene fornito un consiglio.
 
+## Consigli
+
+Il consiglio migliore è scegliere **Ingegnere** per la Stagione 1, quindi rivalutare e considerare un possibile cambio di professione nella Stagione 2.
+
+## Meccaniche generali
+
+![EXP Professione](/assets/img/season-1/profession_exp.webp)
+
+L’obiettivo è guadagnare esperienza di professione per aumentare il livello di professione e ottenere punti abilità.
+
+## Ottenere esperienza di professione
+
+|               Azione               |                          Effetto                          |
+|:----------------------------------:|:---------------------------------------------------------:|
+|  Miglioramenti degli edifici di stagione |   Edifici rapidi: accumulo veloce di esperienza     |
+|        Attacco alle fortezze       | ca. 500 EXP per nemico sconfitto (fino a 25 per battaglia) |
+|          Attacco alle città        | ca. 470 EXP ogni 1000 punti di durabilità consumati       |
+| Eliminare zombie / élite maledette |    Più alto è il livello, maggiore è l’EXP                |
+
 ## Ingegnere
 
 Professione incentrata su costruzione e ricerca. Esempi di abilità offerte da questa professione:
@@ -24,6 +43,8 @@ Professione incentrata su costruzione e ricerca. Esempi di abilità offerte da q
 - Migliora la produzione di risorse
 - Migliora le capacità difensive
 
+{% include image.html url="/assets/img/season-1/engineer-skills.webp" description="Abilità per la professione Ingegnere" %}
+
 ## Signore della guerra
 
 Professione focalizzata sulle battaglie PvP. Esempi di abilità offerte da questa professione:
@@ -31,6 +52,4 @@ Professione focalizzata sulle battaglie PvP. Esempi di abilità offerte da quest
 - Accelera l’addestramento e la promozione
 - Migliora le capacità d’attacco
 
-## Consigli
-
-Il consiglio migliore è quello di scegliere **Ingegnere** per la stagione 1, poi fare il punto della situazione per un eventuale cambio di professione nella stagione 2.
+{% include image.html url="/assets/img/season-1/war-leader-skills.webp" description="Abilità per la professione Signore della guerra" %}
