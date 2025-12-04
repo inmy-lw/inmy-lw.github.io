@@ -43,7 +43,7 @@ Professione incentrata su costruzione e ricerca. Esempi di abilità offerte da q
 - Migliora la produzione di risorse
 - Migliora le capacità difensive
 
-{% include image.html url="/assets/img/season-1/engineer-skills.webp" description="Abilità per la professione Ingegnere" %}
+{% include image.html url="/assets/img/season-1/engineer-skills.webp" description="Abilità per la professione Ingegnere (© ULG)" %}
 
 ## Signore della guerra
 
@@ -52,4 +52,4 @@ Professione focalizzata sulle battaglie PvP. Esempi di abilità offerte da quest
 - Accelera l’addestramento e la promozione
 - Migliora le capacità d’attacco
 
-{% include image.html url="/assets/img/season-1/war-leader-skills.webp" description="Abilità per la professione Signore della guerra" %}
+{% include image.html url="/assets/img/season-1/war-leader-skills.webp" description="Abilità per la professione Signore della guerra (© ULG)" %}

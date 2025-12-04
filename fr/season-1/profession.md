@@ -44,7 +44,7 @@ Métier axé sur la construction et la recherche. Voici un exemple des compéten
 - Améliore la production de ressources
 - Améliore les capacités de défense
 
-{% include image.html url="/assets/img/season-1/engineer-skills.webp" description="Compétences pour le métier d'ingénieur" %}
+{% include image.html url="/assets/img/season-1/engineer-skills.webp" description="Compétences pour le métier d'ingénieur (© ULG)" %}
 
 ## Chef de guerre
 
@@ -53,5 +53,5 @@ Métier axé sur les batailles en PvP. Voici un exemple des compétences propos�
 - Accélère la formation et la promotion
 - Améliore les capacités d'attaque
 
-{% include image.html url="/assets/img/season-1/war-leader-skills.webp" description="Compétences pour le métier d'ingénieur" %}
+{% include image.html url="/assets/img/season-1/war-leader-skills.webp" description="Compétences pour le métier d'ingénieur (© ULG)" %}
 

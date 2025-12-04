@@ -43,7 +43,7 @@ Beruf mit Schwerpunkt Bau und Forschung. Beispiele für mögliche Fähigkeiten:
 - Verbessert die Ressourcenproduktion
 - Verbessert Verteidigungsfähigkeiten
 
-{% include image.html url="/assets/img/season-1/engineer-skills.webp" description="Fähigkeiten für den Beruf Ingenieur" %}
+{% include image.html url="/assets/img/season-1/engineer-skills.webp" description="Fähigkeiten für den Beruf Ingenieur (© ULG)" %}
 
 ## Kriegsherr
 
@@ -52,4 +52,4 @@ Beruf mit Fokus auf PvP-Schlachten. Beispiele für mögliche Fähigkeiten:
 - Beschleunigt Ausbildung und Beförderung
 - Verbessert Angriffsfähigkeiten
 
-{% include image.html url="/assets/img/season-1/war-leader-skills.webp" description="Fähigkeiten für den Beruf Kriegsherr" %}
+{% include image.html url="/assets/img/season-1/war-leader-skills.webp" description="Fähigkeiten für den Beruf Kriegsherr (© ULG)" %}

@@ -43,7 +43,7 @@ A profession focused on construction and research. Examples of skills offered by
 - Improves resource production
 - Improves defensive capabilities
 
-{% include image.html url="/assets/img/season-1/engineer-skills.webp" description="Skills for the Engineer profession" %}
+{% include image.html url="/assets/img/season-1/engineer-skills.webp" description="Skills for the Engineer profession (© ULG)" %}
 
 ## Warlord
 
@@ -52,4 +52,4 @@ A profession focused on PvP battles. Examples of skills offered by this professi
 - Speeds up training and promotion
 - Improves offensive capabilities
 
-{% include image.html url="/assets/img/season-1/war-leader-skills.webp" description="Skills for the Warlord profession" %}
+{% include image.html url="/assets/img/season-1/war-leader-skills.webp" description="Skills for the Warlord profession (© ULG)" %}

@@ -43,7 +43,7 @@ Zawód nastawiony na budowę i badania. Przykłady umiejętności oferowanych pr
 - Poprawia produkcję zasobów
 - Poprawia zdolności obronne
 
-{% include image.html url="/assets/img/season-1/engineer-skills.webp" description="Umiejętności dla zawodu inżyniera" %}
+{% include image.html url="/assets/img/season-1/engineer-skills.webp" description="Umiejętności dla zawodu inżyniera (© ULG)" %}
 
 ## Wódz wojenny
 
@@ -52,4 +52,4 @@ Zawód skoncentrowany na bitwach PvP. Przykłady umiejętności oferowanych prze
 - Przyspiesza szkolenie i awanse
 - Poprawia zdolności ofensywne
 
-{% include image.html url="/assets/img/season-1/war-leader-skills.webp" description="Umiejętności dla zawodu wodza wojennego" %}
+{% include image.html url="/assets/img/season-1/war-leader-skills.webp" description="Umiejętności dla zawodu wodza wojennego (© ULG)" %}
