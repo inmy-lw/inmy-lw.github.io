@@ -33,4 +33,4 @@ Beruf mit Fokus auf PvP-Schlachten. Beispiele für mögliche Fähigkeiten:
 
 ## Hinweise
 
-Zu Beginn der Saison 1 wird empfohlen, den Beruf Ingenieur zu wählen, wenn das HQ nicht Stufe 30 ist und kein gutes Niveau an technologischer Forschung hat. Andernfalls den Beruf Kriegsherr wählen.
+Der beste Rat ist, sich für Saison 1 für **Ingenieur** zu entscheiden und dann in Saison 2 zu überlegen, ob man den Beruf wechseln möchte.

@@ -33,4 +33,4 @@ A profession focused on PvP battles. Examples of skills offered by this professi
 
 ## Tips
 
-At the start of Season 1, it is recommended to choose the Engineer profession if the HQ is not level 30 with a good level of technological research. Otherwise, choose the Warlord profession.
+The best advice is to choose **Engineer** for season 1, then take stock and consider a possible career change in season 2.

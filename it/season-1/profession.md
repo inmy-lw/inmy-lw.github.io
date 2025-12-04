@@ -33,4 +33,4 @@ Professione focalizzata sulle battaglie PvP. Esempi di abilità offerte da quest
 
 ## Consigli
 
-All’inizio della Stagione 1, si consiglia di scegliere la professione di Ingegnere se il QG non è di livello 30 con un buon livello di ricerche tecnologiche. In caso contrario, scegliere la professione di Signore della guerra.
+Il consiglio migliore è quello di scegliere **Ingegnere** per la stagione 1, poi fare il punto della situazione per un eventuale cambio di professione nella stagione 2.

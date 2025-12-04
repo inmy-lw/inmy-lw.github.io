@@ -33,4 +33,4 @@ Métier axé sur les batailles en PvP. Voici un exemple des compétences propos�
 
 ## Conseils
 
-Au début de la saison 1, il est conseillé de partir sur le métier d'ingénieur si le QG n'est pas niveau 30 avec un bon niveau de recherches technologiques. Sinon, choisir le métier de chef de guerre.
+Le meilleur conseil est de choisir **Ingénieur** pour la saison 1, puis de faire le point pour un éventuel changement de métier en saison 2.

@@ -33,4 +33,4 @@ Zawód skoncentrowany na bitwach PvP. Przykłady umiejętności oferowanych prze
 
 ## Wskazówki
 
-Na początku Sezonu 1 zaleca się wybrać zawód Inżynier, jeśli HQ nie ma poziomu 30 i dobrego poziomu badań technologicznych. W przeciwnym razie wybierz zawód Wódz wojenny.
+Najlepszą radą jest wybranie zawodu **inżyniera** w sezonie 1, a następnie podsumowanie sytuacji i ewentualna zmiana zawodu w sezonie 2.
