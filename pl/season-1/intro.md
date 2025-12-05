@@ -56,7 +56,7 @@ Te nowe zasoby można uzyskać m.in. po pierwszym pokonaniu poziomu Przeklętej 
 |             ![protein farm](/assets/img/season-1/protein-farm.webp)             |        Farma białek        |                                        Ulepsz budynek przy użyciu **kryształów mutantów**, aby produkować **białka odpornościowe**                                         |
 | ![virus research institute](/assets/img/season-1/virus-research-institute.webp) | Instytut badań nad wirusem |                                                   Zwiększ **odporność na wirusa** przy użyciu **białek odpornościowych**                                                   |
 |        ![centre de secours](/assets/img/season-1/emergency-center.webp)         |     Centrum ratunkowe      | Przechowuje «zemdlone jednostki»: oddziały zranione podczas bitew na mapie świata, gdy twój szpital jest w pełni zapełniony. Można korzystać bezpłatnie co dwa i pół dnia. |
-|         ![Hall des métiers](/assets/img/season-1/profession_hall.webp)          |        Sala zawodów        |                                                   Budynek do zarządzania swoim zawodem. (WIP: strona poświęcona zawodom)                                                   |
+|         ![Hall des métiers](/assets/img/season-1/profession_hall.webp)          |        Sala zawodów        |                                              Budynek do zarządzania swoim [zawodem](/{{page.lang}}/season-1/profession.html).                                              |
 
 ## Budynki sezonowe
 

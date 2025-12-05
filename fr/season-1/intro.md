@@ -55,7 +55,7 @@ Ces nouvelles ressources peuvent notamment être obtenues lorsqu'un niveau d'él
 |              ![protein farm](/assets/img/season-1/protein-farm.webp)              |    Ferme à protéines    |                                            Améliorer le bâtiment en utilisant des **cristaux mutants** pour produire des **protéines immunitaires**                                            |
 |  ![virus research institute](/assets/img/season-1/virus-research-institute.webp)  |  Institut de recherche  |                                                       Améliorer la **résistance au virus** en utilisant des **protéines immunitaires**.                                                        |
 |         ![centre de secours](/assets/img/season-1/emergency-center.webp)          |    Centre de secours    | Stocke les « unités évanouies » : les troupes blessées lors des batailles sur la carte du monde lorsque votre hôpital est à pleine capacité. Utilisable gratuitement tous les 2 jours et demi. |
-|          ![Hall des métiers](/assets/img/season-1/profession_hall.webp)           |    Hall des métiers     |                                                                  Bâtiment pour gérer son métier. (WIP : page sur les métiers)                                                                  |
+|          ![Hall des métiers](/assets/img/season-1/profession_hall.webp)           |    Hall des métiers     |                                                           Bâtiment pour gérer son [métier](/{{page.lang}}/season-1/profession.html).                                                           |
 
 ## Bâtiments de saison
 

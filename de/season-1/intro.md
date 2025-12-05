@@ -57,17 +57,20 @@ wurde.
 |             ![protein farm](/assets/img/season-1/protein-farm.webp)             |       Proteinfarm       |                                                   Gebäude mit **Mutantenkristallen** verbessern, um **Immunproteine** zu produzieren                                                    |
 | ![virus research institute](/assets/img/season-1/virus-research-institute.webp) | Virusforschungsinstitut |                                                               **Virusresistenz** mithilfe von **Immunproteinen** erhöhen                                                                |
 |        ![centre de secours](/assets/img/season-1/emergency-center.webp)         |     Rettungszentrum     | Speichert die «ohnmächtigen Einheiten»: Truppen, die bei Kämpfen auf der Weltkarte verletzt wurden, wenn dein Krankenhaus volle Kapazität hat. Alle zweieinhalb Tage kostenlos nutzbar. |
-|         ![Hall des métiers](/assets/img/season-1/profession_hall.webp)          |       Berufshalle       |                                                             Gebäude zur Verwaltung seines Berufs. (WIP: Seite über Berufe)                                                              |
+|         ![Hall des métiers](/assets/img/season-1/profession_hall.webp)          |       Berufshalle       |                                                    Gebäude zur Verwaltung seines [Berufs](/{{page.lang}}/season-1/profession.html).                                                     |
 
 ## Saisonale Gebäude
 
-Es werden neue, zeitlich begrenzte Gebäude erscheinen (sie verschwinden nach der Saison wieder): neue Militärbasen für Panzer, Flugzeuge und Raketen.
-Diese Gebäude sind ab der 3. Woche verfügbar und lassen sich ausschließlich mit Saisonressourcen verbessern (**Mutantenkristall** und **Immunprotein**).
+Es werden neue, zeitlich begrenzte Gebäude erscheinen (sie verschwinden nach der Saison wieder): neue Militärbasen für
+Panzer, Flugzeuge und Raketen.
+Diese Gebäude sind ab der 3. Woche verfügbar und lassen sich ausschließlich mit Saisonressourcen verbessern (*
+*Mutantenkristall** und **Immunprotein**).
 
-Sie erhöhen die LP der entsprechenden Helden pro Stufe um 1 %.
+Sie erhöhen die LP der entsprechenden Helden pro Stufe um 1 %.
 
 ![new building](/assets/img/season-1/seasonal-buildings.webp)
 
 ## Bauzeit und Ressourcen
 
-{% include image.html url="/assets/img/season-1/new-building-resources.webp" description="Verwendete Ressourcen und Bauzeit für neue Gebäude" %}
+{% include image.html url="/assets/img/season-1/new-building-resources.webp" description="Verwendete Ressourcen und
+Bauzeit für neue Gebäude" %}
