@@ -11,11 +11,49 @@ date: 2025-11-10 13:00:22 +0100
 
 # Priorität der Gebäude
 
-Konzentrieren Sie sich hauptsächlich auf das Hauptquartier mit den obligatorischen Gebäuden, um das Hauptquartier zu verbessern.
+Konzentrieren Sie sich in erster Linie auf das Hauptquartier mit den Gebäuden, die erforderlich sind, um die HQ-Stufe zu erhöhen.
 
-# Warteschlangenverwaltung
+## Pflichtgebäude zum Erhöhen der HQ-Stufe (1 - 30)
 
-WIP
+| HQ auf Stufe anheben |      Pflichtgebäude 1      |              Pflichtgebäude 2               |
+|:--------------------:|:---------------------------:|:--------------------------------------------:|
+|          2           | Übungsplatz Stufe 1        | Operation Falke                              |
+|          3           | Mauer Stufe 2              | Aufklärungsflugzeug Stufe 1                  |
+|          4           | Kaserne Stufe 3            | Übungsplatz Stufe 3                          |
+|          5           | Mauer Stufe 4              | Kaserne Stufe 4                              |
+|          6           | Mauer Stufe 5              | Übungsplatz Stufe 5                          |
+|          7           | Mauer Stufe 6              | Panzer/Flugzeug- oder Raketen­zentrum Stufe 6|
+|          8           | Technologiezentrum Stufe 7 | Allianzzentrum Stufe 7                       |
+|          9           | Technologiezentrum Stufe 8 | Panzer/Flugzeug- oder Raketen­zentrum Stufe 8|
+|         10           | Technologiezentrum Stufe 9 | Krankenhaus Stufe 9                          |
+|         11           | Technologiezentrum Stufe 10| Mauer Stufe 10                                |
+|         12           | Technologiezentrum Stufe 11| Kaserne Stufe 11                              |
+|         13           | Technologiezentrum Stufe 12| Panzer/Flugzeug- oder Raketen­zentrum Stufe 12|
+|         14           | Technologiezentrum Stufe 13| Übungsplatz Stufe 13                          |
+|         15           | Technologiezentrum Stufe 14| Mauer Stufe 14                                |
+|         16           | Technologiezentrum Stufe 15| Allianzzentrum Stufe 15                       |
+|         17           | Technologiezentrum Stufe 16| Panzer/Flugzeug- oder Raketen­zentrum Stufe 16|
+|         18           | Technologiezentrum Stufe 17| Krankenhaus Stufe 17                          |
+|         19           | Technologiezentrum Stufe 18| Mauer Stufe 18                                |
+|         20           | Technologiezentrum Stufe 19| Kaserne Stufe 19                              |
+|         21           | Technologiezentrum Stufe 20| Panzer/Flugzeug- oder Raketen­zentrum Stufe 20|
+|         22           | Technologiezentrum Stufe 21| Übungsplatz Stufe 21                          |
+|         23           | Technologiezentrum Stufe 22| Mauer Stufe 22                                |
+|         24           | Technologiezentrum Stufe 23| Allianzzentrum Stufe 23                       |
+|         25           | Technologiezentrum Stufe 24| Panzer/Flugzeug- oder Raketen­zentrum Stufe 24|
+|         26           | Technologiezentrum Stufe 25| Krankenhaus Stufe 25                          |
+|         27           | Technologiezentrum Stufe 26| Mauer Stufe 26                                |
+|         28           | Technologiezentrum Stufe 27| Kaserne Stufe 27                              |
+|         29           | Technologiezentrum Stufe 28| Panzer/Flugzeug- oder Raketen­zentrum Stufe 28|
+|         30           | Technologiezentrum Stufe 29| Übungsplatz Stufe 29                          |
+
+# Warteschlangen-Miete
+
+Das Spiel bietet 4 Bau-Warteschlangen. Die erste ist standardmäßig für alle verfügbar, die drei anderen sind kostenpflichtig. Mit steigender HQ-Stufe dauern Bauvorhaben immer länger.
+
+Es ist jedoch möglich, vorübergehend (für 2 Stunden) eine zweite Bau-Warteschlange für 500 Diamanten zu erhalten. Der Trick dabei: Mieten Sie diese Warteschlange für sehr lange Upgrades, denn sie verschwindet erst nach 2 Stunden – und erst, wenn sie inaktiv geworden ist.
+
+{% include translated_image.html url="construction-queue.webp" description="Zusätzliche Bau-Warteschlange für 2 Stunden mieten" %}
 
 # Ressourcengebäude
 
