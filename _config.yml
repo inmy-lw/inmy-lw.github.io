@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 heure_bascule: "03:00"
-duel_serveur: 1782
+#duel_serveur: 1782
 page_excerpts: true
 
 # Build settings
