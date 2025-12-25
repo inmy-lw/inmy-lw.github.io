@@ -22,7 +22,13 @@ Codziennie zdobyć 18 skrzyń z nagrodami.
 
 ## Poznać różne godziny okien
 
-{% include image.html url="/assets/img/caa/caa_calendrier.webp" description="Przycisk kalendarza z godzinami okien" %}
+{% include translated_image.html url="events/caa/caa_calendrier.webp" description="Przycisk kalendarza z godzinami okien" %}
+
+## Wymiana okien
+
+Dwa okna można wymienić raz dziennie. Jeśli skrzynie z obecnego okna zostały już otwarte, nagrody zostaną zachowane. Nowe okno resetuje nagrody i staje się obecnym oknem do następnej zaplanowanej zmiany. 
+
+{% include translated_image.html url="events/caa/caa_change.webp" description="Wymiana okien CAA" %}
 
 # Różne okna
 

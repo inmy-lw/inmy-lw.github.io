@@ -22,7 +22,13 @@ Obtenir tous les jours les 18 coffres de récompenses.
 
 ## Connaître les différents horaires des créneaux
 
-{% include image.html url="/assets/img/caa/caa_calendrier.webp" description="Bouton calendrier permettant de connaître les horaires des créneaux" %}
+{% include translated_image.html url="events/caa/caa_calendrier.webp" description="Bouton calendrier permettant de connaître les horaires des créneaux" %}
+
+## Échanger des créneaux
+
+Deux créneaux peuvent être échangés une fois par jour. Si les coffres du créneau en cours ont déjà été ouverts, les récompenses sont conservées. Le nouveau créneau réinitialise les récompenses et devient le créneau actuel jusqu'au prochain changement prévu. 
+
+{% include translated_image.html url="events/caa/caa_change.webp" description="Échanger les créneaux du CAA" %}
 
 # Différents créneaux
 

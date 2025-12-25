@@ -22,7 +22,13 @@ Täglich alle 18 Belohnungskisten erhalten.
 
 ## Uhrzeiten der Zeitfenster kennen
 
-{% include image.html url="/assets/img/caa/caa_calendrier.webp" description="Kalender‑Button, um die Zeiten der Zeitfenster einzusehen" %}
+{% include translated_image.html url="events/caa/caa_calendrier.webp" description="Kalender-Button, um die Zeiten der Zeitfenster einzusehen" %}
+
+## Zeitfenster tauschen
+
+Zwei Zeitfenster können einmal pro Tag getauscht werden. Wenn die Kisten des aktuellen Zeitfensters bereits geöffnet wurden, bleiben die Belohnungen erhalten. Das neue Zeitfenster setzt die Belohnungen zurück und wird zum aktuellen Zeitfenster bis zur nächsten geplanten Änderung. 
+
+{% include translated_image.html url="events/caa/caa_change.webp" description="CAA-Zeitfenster tauschen" %}
 
 # Verschiedene Zeitfenster
 

@@ -22,7 +22,13 @@ Ottenere ogni giorno i 18 scrigni ricompensa.
 
 ## Conoscere gli orari delle varie finestre
 
-{% include image.html url="/assets/img/caa/caa_calendrier.webp" description="Pulsante calendario per conoscere gli orari delle finestre" %}
+{% include translated_image.html url="events/caa/caa_calendrier.webp" description="Pulsante calendario per conoscere gli orari delle finestre" %}
+
+## Scambiare le finestre
+
+Due finestre possono être scambiate una volta al giorno. Se gli scrigni della finestra corrente sono già stati aperti, le ricompense vengono conservate. La nuova finestra resetta le ricompense e diventa la finestra attuale fino al prossimo cambio programmato. 
+
+{% include translated_image.html url="events/caa/caa_change.webp" description="Scambiare le finestre del CAA" %}
 
 # Diverse finestre
 
