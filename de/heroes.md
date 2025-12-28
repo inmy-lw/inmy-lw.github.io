@@ -122,6 +122,8 @@ SHADOWSTRIKE1 auf Reddit)
 
 ## Monica
 
+<a href="https://youtu.be/BKgsr3p3j-s" target="_blank">Erklärvideo</a>
+
 Monica ist praktisch im Kampf gegen Zombies, da sie das Sammeln von mehr Ressourcen ermöglicht (Münzen, Nahrung und
 Eisen).
 

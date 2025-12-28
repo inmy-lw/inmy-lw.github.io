@@ -117,6 +117,8 @@ L'exemple de priorisation est donnée pour une équipe Tank : Murphy - Williams 
 
 ## Monica
 
+<a href="https://youtu.be/BKgsr3p3j-s" target="_blank">Vidéo explicative</a>
+
 Monica est pratique lors d'affrontement avec les zombies puisqu'elle permet de récupérer plus de ressources (Pièces, nourriture et fer).
 
 {% include translated_image.html url="heros/monica.webp" description="Compétence passive de Monica" %}

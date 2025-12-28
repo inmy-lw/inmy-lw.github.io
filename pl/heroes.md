@@ -117,6 +117,8 @@ Przykładowa kolejność priorytetów podana jest dla drużyny Czołg: Murphy - 
 
 ## Monica
 
+<a href="https://youtu.be/BKgsr3p3j-s" target="_blank">Film wyjaśniający</a>
+
 Monica jest przydatna podczas walki z zombie, ponieważ pozwala zbierać więcej zasobów (Monety, jedzenie i żelazo).
 
 {% include translated_image.html url="heros/monica.webp" description="Umiejętność pasywna Moniki" %}

@@ -121,6 +121,8 @@ SHADOWSTRIKE1 on Reddit)
 
 ## Monica
 
+<a href="https://youtu.be/BKgsr3p3j-s" target="_blank">Explainer video</a>
+
 Monica is handy when fighting zombies because she allows you to collect more resources (Coins, food and iron).
 
 {% include translated_image.html url="heros/monica.webp" description="Monica's passive skill" %}
