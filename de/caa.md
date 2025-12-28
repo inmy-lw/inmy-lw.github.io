@@ -45,7 +45,7 @@ Um die 12000 Punkte für die 3 Kisten zu erhalten, entspricht das:
 
 ## Stadtgebäude
 
-{% include image.html url="/assets/img/caa/caa_batiments.webp" description="Zeitfenster Stadtgebäude des CAA" %}
+{% include translated_image.html url="events/caa/caa_batiments.webp" description="Zeitfenster Stadtgebäude des CAA" %}
 
 Um die 24000 Punkte für die 3 Kisten zu erhalten, entspricht das:
 

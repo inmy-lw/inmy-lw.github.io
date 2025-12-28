@@ -45,7 +45,7 @@ To get the 12,000 points needed to get the three chests, you need:
 
 ## Base building
 
-{% include image.html url="/assets/img/caa/caa_batiments.webp" description="Base building slot" %}
+{% include translated_image.html url="events/caa/caa_batiments.webp" description="Base building slot" %}
 
 To get the 24,000 points needed to get the three chests, you need:
 

@@ -45,7 +45,7 @@ Pour obtenir les 12000 points nécéssaires pour obtenir les 3 coffres, ça repr
 
 ## Bâtiment de la Ville
 
-{% include image.html url="/assets/img/caa/caa_batiments.webp" description="Créneau Bâtiment de la Ville du CAA" %}
+{% include translated_image.html url="events/caa/caa_batiments.webp" description="Créneau Bâtiment de la Ville du CAA" %}
 
 Pour obtenir les 24000 points nécéssaires pour obtenir les 3 coffres, ça représente :
 

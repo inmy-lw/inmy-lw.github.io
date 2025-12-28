@@ -45,7 +45,7 @@ Aby zdobyć 12000 punktów potrzebnych do 3 skrzyń, to oznacza:
 
 ## Budynki miasta
 
-{% include image.html url="/assets/img/caa/caa_batiments.webp" description="Okno Budynki miasta w CAA" %}
+{% include translated_image.html url="events/caa/caa_batiments.webp" description="Okno Budynki miasta w CAA" %}
 
 Aby zdobyć 24000 punktów potrzebnych do 3 skrzyń, to oznacza:
 
