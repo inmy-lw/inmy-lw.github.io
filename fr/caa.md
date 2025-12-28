@@ -57,7 +57,7 @@ Pour obtenir les 24000 points nécéssaires pour obtenir les 3 coffres, ça repr
 
 ## Progression des Unités
 
-{% include image.html url="/assets/img/caa/caa_unites.webp" description="Créneau Progression des Unités du CAA" %}
+{% include translated_image.html url="events/caa/caa_unites.webp" description="Créneau Progression des Unités du CAA" %}
 
 Pour obtenir les 60000 points nécéssaires pour obtenir les 3 coffres, ça représente :
 

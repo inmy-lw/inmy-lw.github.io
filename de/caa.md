@@ -57,7 +57,7 @@ Um die 24000 Punkte für die 3 Kisten zu erhalten, entspricht das:
 
 ## Einheitenfortschritt
 
-{% include image.html url="/assets/img/caa/caa_unites.webp" description="Zeitfenster Einheitenfortschritt des CAA" %}
+{% include translated_image.html url="events/caa/caa_unites.webp" description="Zeitfenster Einheitenfortschritt des CAA" %}
 
 Um die 60000 Punkte für die 3 Kisten zu erhalten, entspricht das:
 

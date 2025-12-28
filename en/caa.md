@@ -57,7 +57,7 @@ To get the 24,000 points needed to get the three chests, you need:
 
 ## Unit progression
 
-{% include image.html url="/assets/img/caa/caa_unites.webp" description="Unit progression slot" %}
+{% include translated_image.html url="events/caa/caa_unites.webp" description="Unit progression slot" %}
 
 To get the 60,000 points needed to get the three chests, you need:
 
