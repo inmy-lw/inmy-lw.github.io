@@ -34,7 +34,7 @@ Due finestre possono être scambiate una volta al giorno. Se gli scrigni della f
 
 ## Avanzamento dell'Eroe
 
-{% include image.html url="/assets/img/caa/caa_heros.webp" description="Finestra Avanzamento dell'Eroe del CAA" %}
+{% include translated_image.html url="events/caa/caa_heros.webp" description="Finestra Avanzamento dell'Eroe del CAA" %}
 
 Per ottenere i 12000 punti necessari per ottenere i 3 scrigni, questo rappresenta:
 

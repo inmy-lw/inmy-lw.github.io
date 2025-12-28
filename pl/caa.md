@@ -34,7 +34,7 @@ Dwa okna można wymienić raz dziennie. Jeśli skrzynie z obecnego okna zostały
 
 ## Postęp Bohatera
 
-{% include image.html url="/assets/img/caa/caa_heros.webp" description="Okno Postęp Bohatera w CAA" %}
+{% include translated_image.html url="events/caa/caa_heros.webp" description="Okno Postęp Bohatera w CAA" %}
 
 Aby zdobyć 12000 punktów potrzebnych do 3 skrzyń, to oznacza:
 

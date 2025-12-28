@@ -34,7 +34,7 @@ Deux créneaux peuvent être échangés une fois par jour. Si les coffres du cr�
 
 ## Avancement du Héros
 
-{% include image.html url="/assets/img/caa/caa_heros.webp" description="Créneau Avancement du Héros du CAA" %}
+{% include translated_image.html url="events/caa/caa_heros.webp" description="Créneau Avancement du Héros du CAA" %}
 
 Pour obtenir les 12000 points nécéssaires pour obtenir les 3 coffres, ça représente :
 

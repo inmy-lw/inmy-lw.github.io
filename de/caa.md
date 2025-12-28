@@ -34,7 +34,7 @@ Zwei Zeitfenster können einmal pro Tag getauscht werden. Wenn die Kisten des ak
 
 ## Heldenfortschritt
 
-{% include image.html url="/assets/img/caa/caa_heros.webp" description="Zeitfenster Heldenfortschritt des CAA" %}
+{% include translated_image.html url="events/caa/caa_heros.webp" description="Zeitfenster Heldenfortschritt des CAA" %}
 
 Um die 12000 Punkte für die 3 Kisten zu erhalten, entspricht das:
 

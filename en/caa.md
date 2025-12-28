@@ -34,7 +34,7 @@ Two slots can be swapped once a day. If the chests of the current slot have alre
 
 ## Hero Advancement
 
-{% include image.html url="/assets/img/caa/caa_heros.webp" description="Hero advancement slot" %}
+{% include translated_image.html url="events/caa/caa_heros.webp" description="Hero advancement slot" %}
 
 To get the 12,000 points needed to get the three chests, you need:
 
