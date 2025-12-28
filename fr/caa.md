@@ -68,7 +68,7 @@ Pour obtenir les 60000 points nécéssaires pour obtenir les 3 coffres, ça repr
 
 ## Recherche Technologique
 
-{% include image.html url="/assets/img/caa/caa_techno.webp" description="Créneau Recherche Technologique du CAA" %}
+{% include translated_image.html url="events/caa/caa_techno.webp" description="Créneau Recherche Technologique du CAA" %}
 
 Pour obtenir les 24000 points nécéssaires pour obtenir les 3 coffres, ça représente :
 

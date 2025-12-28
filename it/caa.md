@@ -68,7 +68,7 @@ Per ottenere i 60000 punti necessari per ottenere i 3 scrigni, questo rappresent
 
 ## Ricerca Tecnologica
 
-{% include image.html url="/assets/img/caa/caa_techno.webp" description="Finestra Ricerca Tecnologica del CAA" %}
+{% include translated_image.html url="events/caa/caa_techno.webp" description="Finestra Ricerca Tecnologica del CAA" %}
 
 Per ottenere i 24000 punti necessari per ottenere i 3 scrigni, questo rappresenta:
 

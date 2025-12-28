@@ -68,7 +68,7 @@ To get the 60,000 points needed to get the three chests, you need:
 
 ## Tech research
 
-{% include image.html url="/assets/img/caa/caa_techno.webp" description="Tech research slot" %}
+{% include translated_image.html url="events/caa/caa_techno.webp" description="Tech research slot" %}
 
 To get the 24,000 points needed to get the three chests, you need:
 

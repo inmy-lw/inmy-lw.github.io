@@ -68,7 +68,7 @@ Um die 60000 Punkte für die 3 Kisten zu erhalten, entspricht das:
 
 ## Technologie‑Forschung
 
-{% include image.html url="/assets/img/caa/caa_techno.webp" description="Zeitfenster Technologie‑Forschung des CAA" %}
+{% include translated_image.html url="events/caa/caa_techno.webp" description="Zeitfenster Technologie‑Forschung des CAA" %}
 
 Um die 24000 Punkte für die 3 Kisten zu erhalten, entspricht das:
 

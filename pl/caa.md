@@ -67,7 +67,7 @@ Aby zdobyć 60000 punktów potrzebnych do 3 skrzyń, to oznacza:
 
 ## Badania technologiczne
 
-{% include image.html url="/assets/img/caa/caa_techno.webp" description="Okno Badania technologiczne w CAA" %}
+{% include translated_image.html url="events/caa/caa_techno.webp" description="Okno Badania technologiczne w CAA" %}
 
 Aby zdobyć 24000 punktów potrzebnych do 3 skrzyń, to oznacza:
 
