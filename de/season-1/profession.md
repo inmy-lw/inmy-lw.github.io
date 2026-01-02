@@ -16,6 +16,8 @@ Während Saison 1 wird es mit dem Gebäude „Berufshalle“ möglich sein, eine
 
 Die möglichen Berufe werden unten vorgestellt, und am Ende der Seite gibt es einen Hinweis.
 
+{% include translated_image.html url="season-1/profession-hall.webp" description="Berufshalle" %}
+
 ## Hinweise
 
 Der beste Rat ist, sich für Saison 1 für **Ingenieur** zu entscheiden und dann in Saison 2 neu zu beurteilen, ob man den Beruf wechseln möchte.

@@ -16,6 +16,8 @@ During Season 1, with the "Hall of Professions" building, it will be possible to
 
 The different possible professions are presented as-is below, and a tip is provided at the end of the page.
 
+{% include translated_image.html url="season-1/profession-hall.webp" description="Profession hall" %}
+
 ## Tips
 
 The best advice is to choose **Engineer** for Season 1, then reassess and consider a possible profession change in Season 2.

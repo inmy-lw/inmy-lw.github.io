@@ -16,6 +16,8 @@ Durante la Stagione 1, con l’edificio "Sala delle professioni", sarà possibil
 
 Le diverse professioni possibili sono presentate così come sono, e alla fine della pagina viene fornito un consiglio.
 
+{% include translated_image.html url="season-1/profession-hall.webp" description="Sala delle Professioni" %}
+
 ## Consigli
 
 Il consiglio migliore è scegliere **Ingegnere** per la Stagione 1, quindi rivalutare e considerare un possibile cambio di professione nella Stagione 2.

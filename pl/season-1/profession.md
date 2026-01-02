@@ -16,6 +16,8 @@ Podczas Sezonu 1, dzięki budynkowi „Sala zawodów”, będzie można wybrać 
 
 Różne możliwe zawody są przedstawione poniżej w niezmienionej formie, a na końcu strony znajduje się wskazówka.
 
+{% include translated_image.html url="season-1/profession-hall.webp" description="Sala profesji" %}
+
 ## Wskazówki
 
 Najlepszą radą jest wybrać **Inżyniera** w Sezonie 1, a następnie ponownie ocenić i rozważyć ewentualną zmianę zawodu w Sezonie 2.

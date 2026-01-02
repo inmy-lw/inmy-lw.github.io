@@ -16,6 +16,8 @@ Lors de la saison 1, avec le bâtiment "Hall des métiers", il sera possible de 
 
 Les différents métiers possibles sont présentés tels quels et un conseil sera donné à la fin de la page.
 
+{% include translated_image.html url="season-1/profession-hall.webp" description="Salle des professions" %}
+
 ## Conseils
 
 Le meilleur conseil est de choisir **Ingénieur** pour la saison 1, puis de faire le point pour un éventuel changement de métier en saison 2.
