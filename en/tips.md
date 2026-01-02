@@ -33,3 +33,11 @@ There are two free chests you can claim every day that give a few diamonds.
 
 {% include image.html url="/assets/img/tips/coffres_gratuits.webp" description="Two small daily free chests" %}
 
+# Promotions for paid packs
+
+Paid packs can be purchased at a discount on another site: <a href="https://lootbar.gg/top-up/last-war-survival" target="blank">Discounted paid packs</a>.
+
+Once the purchase is made, the site will launch the game. You will need to log in with your in-game email address and use the login code received by email to access your account. You can then select your packs, which will be added directly (depending on your purchases).
+
+{% include translated_image.html url="packs-promo.webp" description="Available paid packs" %}
+

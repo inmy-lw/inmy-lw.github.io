@@ -33,3 +33,11 @@ Il existe deux coffres gratuits pouvant être récupérés tous les jours offran
 
 {% include image.html url="/assets/img/tips/coffres_gratuits.webp" description="Deux petits coffres offerts quotidiennement" %}
 
+# Promotions pour les packs payants
+
+Les packs payants peuvent être achetés en promotion sur un autre site : <a href="https://lootbar.gg/fr/top-up/last-war-survival" target="blank">Packs payants en promotion</a>.
+
+Une fois l'achat effectué, le site lancera le jeu. Il faudra vous connecter avec votre adresse mail du jeu, récupérer le code de connexion reçu par mail pour accéder à votre compte. Vous pourrez alors sélectionner vos packs qui seront directement ajoutés (en fonction de vos achats).
+
+{% include translated_image.html url="packs-promo.webp" description="Packs payants disponibles" %}
+

@@ -33,3 +33,11 @@ Es gibt zwei kostenlose Kisten, die du täglich abholen kannst und die ein paar 
 
 {% include image.html url="/assets/img/tips/coffres_gratuits.webp" description="Zwei kleine Kisten, die täglich angeboten werden" %}
 
+# Sonderangebote für kostenpflichtige Pakete
+
+Kostenpflichtige Pakete können auf einer anderen Website zu einem reduzierten Preis erworben werden: <a href="https://lootbar.gg/de/top-up/last-war-survival" target="blank">Ermäßigte kostenpflichtige Pakete</a>.
+
+Sobald der Kauf getätigt wurde, startet die Website das Spiel. Du musst dich mit deiner E-Mail-Adresse aus dem Spiel anmelden und den per E-Mail erhaltenen Anmeldecode eingeben, um auf dein Konto zuzugreifen. Du kannst dann deine Pakete auswählen, die direkt hinzugefügt werden (entsprechend deiner Einkäufe).
+
+{% include translated_image.html url="packs-promo.webp" description="Verfügbare kostenpflichtige Pakete" %}
+

@@ -33,3 +33,11 @@ Esistono due scrigni gratuiti che possono essere recuperati ogni giorno e offron
 
 {% include image.html url="/assets/img/tips/coffres_gratuits.webp" description="Due piccoli scrigni offerti quotidianamente" %}
 
+# Promozioni per i pacchetti a pagamento
+
+I pacchetti a pagamento possono essere acquistati in promozione su un altro sito: <a href="https://lootbar.gg/it/top-up/last-war-survival" target="blank">Pacchetti a pagamento in promozione</a>.
+
+Una volta effettuato l'acquisto, il sito avvierà il gioco. Dovrai accedere con l'indirizzo email del gioco e inserire il codice di accesso ricevuto via email per accedere al tuo account. Potrai quindi selezionare i tuoi pacchetti che verranno aggiunti direttamente (in base ai tuoi acquisti).
+
+{% include translated_image.html url="packs-promo.webp" description="Pacchetti a pagamento disponibili" %}
+
