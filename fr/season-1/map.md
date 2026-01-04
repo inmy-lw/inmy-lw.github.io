@@ -37,6 +37,7 @@ Cette carte est composée de parcelles très rectangulaires, qui peuvent être t
           - Dimanche : Villes de niveau 6
         - Semaine 4
           - Dimanche : Villes de niveau 7
+- Le chemin suivi par l'alliance est de couleur orange sur la carte <span style="background-color: #EC7A08;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>.
 
 {% include image.html url="/assets/img/season-1/military-stronghold.webp" description="Vue d'une forteresse et des zombies lors de la capture" %}
 

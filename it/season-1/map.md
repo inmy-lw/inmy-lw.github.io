@@ -37,6 +37,7 @@ Questa mappa è composta da parcelle molto rettangolari, tutte catturabili:
           - Domenica: Città di livello 6
         - Settimana 4
           - Domenica: Città di livello 7
+- Il percorso seguito dall'alleanza è di colore arancione sulla mappa <span style="background-color: #EC7A08;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>.
 
 {% include image.html url="/assets/img/season-1/military-stronghold.webp" description="Vista di una fortezza e degli zombie durante la conquista" %}
 

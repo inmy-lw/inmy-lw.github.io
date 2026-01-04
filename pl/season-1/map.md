@@ -37,6 +37,7 @@ Ta mapa składa się z bardzo prostokątnych działek, które można wszystkie z
           - Niedziela: Miasta poziomu 6
         - Tydzień 4
           - Niedziela: Miasta poziomu 7
+- Droga, którą podąża sojusz, jest zaznaczona na pomarańczowo na mapie <span style="background-color: #EC7A08;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>.
 
 {% include image.html url="/assets/img/season-1/military-stronghold.webp" description="Widok fortecy i zombie podczas zdobycia" %}
 

@@ -37,6 +37,7 @@ This map is made up of very rectangular plots, all of which can be captured:
           - Sunday: Level 6 Cities
         - Week 4
           - Sunday: Level 7 Cities
+- The path followed by the alliance is orange on the map <span style="background-color: #EC7A08;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>.
 
 {% include image.html url="/assets/img/season-1/military-stronghold.webp" description="View of a fortress and zombies during capture" %}
 
@@ -60,3 +61,4 @@ From the start of the event, the alliance will earn one outpost per week.
 Precise teleportation will therefore always be available and not only on Saturdays (using the VS TP). There will still be the same cooldown between two uses of this TP.
 
 Server alliances have already started to form. If a city on our server were to be attacked, our friendly servers would come to support us by attacking the conquerors’ bases.
+

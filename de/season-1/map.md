@@ -37,6 +37,7 @@ Diese Karte besteht aus sehr rechteckigen Parzellen, die alle erobert werden kö
           - Sonntag: Städte der Stufe 6
         - Woche 4
           - Sonntag: Städte der Stufe 7
+- Der von der Allianz gewählte Weg ist auf der Karte orange markiert <span style="background-color: #EC7A08;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>.
 
 {% include image.html url="/assets/img/season-1/military-stronghold.webp" description="Blick auf eine Festung und Zombies während der Eroberung" %}
 
