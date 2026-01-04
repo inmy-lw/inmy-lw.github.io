@@ -44,3 +44,7 @@ Po dokonaniu zakupu strona uruchomi grę. Będziesz musiał zalogować się za p
 Oto procedura korzystania z tej strony:
 
 {% include image.html url="/assets/img/packs_soldes.webp" description="Łączenie zakupów pakietów przecenionych w grze" %}
+
+Są dwa mało intuicyjne przyciski do rozpoczęcia płatności:
+1. Ten przycisk pozwoli zobaczyć koszyk (zwłaszcza jeśli dodano kilka pakietów);
+2. Ten przycisk pozwoli na opłacenie tylko aktualnie wybranego pakietu

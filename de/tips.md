@@ -45,3 +45,7 @@ Hier finden Sie die Vorgehensweise zur Nutzung dieser Website:
 
 {% include image.html url="/assets/img/packs_soldes.webp" description="Verkauf von reduzierten Paketen im Spiel verknüpfen" %}
 
+Es gibt zwei nicht wirklich intuitive Schaltflächen, um die Zahlung zu starten:
+1. Diese Schaltfläche ermöglicht es, den Warenkorb anzuzeigen (insbesondere wenn mehrere Pakete hinzugefügt wurden);
+2. Diese Schaltfläche ermöglicht die Zahlung nur für das aktuell ausgewählte Paket
+

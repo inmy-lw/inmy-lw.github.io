@@ -45,3 +45,7 @@ Ecco la procedura da seguire per utilizzare questo sito:
 
 {% include image.html url="/assets/img/packs_soldes.webp" description="Collegare gli acquisti di pacchetti scontati nel gioco" %}
 
+Ci sono due pulsanti non proprio intuitivi per avviare il pagamento:
+1. Questo pulsante permetterà di vedere il carrello (soprattutto se sono stati aggiunti più pacchetti);
+2. Questo pulsante permetterà il pagamento solo del pacchetto attualmente selezionato
+

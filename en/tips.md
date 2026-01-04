@@ -45,3 +45,7 @@ Here is the procedure to follow to use this site:
 
 {% include image.html url="/assets/img/packs_soldes.webp" description="Link purchases of discounted packs in the game" %}
 
+There are two buttons that are not very intuitive to start the payment:
+1. This button will allow you to see the cart (especially if several packs are added);
+2. This button will allow payment only for the pack currently being selected
+

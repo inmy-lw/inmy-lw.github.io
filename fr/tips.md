@@ -45,3 +45,7 @@ Voici la procédure à suivre pour utiliser ce site :
 
 {% include image.html url="/assets/img/packs_soldes.webp" description="Lier les achats de packs soldés dans le jeu" %}
 
+Il y a deux boutons pas franchement intuitifs pour lancer le paiement :
+1. Ce bouton va permettre de voir le panier (notamment si plusieurs packs sont ajoutés) ;
+2. Ce bouton va permettre le paiement uniquement du pack en cours de sélection
+
