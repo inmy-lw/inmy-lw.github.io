@@ -41,3 +41,7 @@ Una volta effettuato l'acquisto, il sito avvierà il gioco. Dovrai accedere con 
 
 {% include translated_image.html url="packs-promo.webp" description="Pacchetti a pagamento disponibili" %}
 
+Ecco la procedura da seguire per utilizzare questo sito:
+
+{% include image.html url="/assets/img/packs_soldes.webp" description="Collegare gli acquisti di pacchetti scontati nel gioco" %}
+

@@ -41,3 +41,7 @@ Sobald der Kauf getätigt wurde, startet die Website das Spiel. Du musst dich mi
 
 {% include translated_image.html url="packs-promo.webp" description="Verfügbare kostenpflichtige Pakete" %}
 
+Hier finden Sie die Vorgehensweise zur Nutzung dieser Website:
+
+{% include image.html url="/assets/img/packs_soldes.webp" description="Verkauf von reduzierten Paketen im Spiel verknüpfen" %}
+

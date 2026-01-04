@@ -41,3 +41,7 @@ Une fois l'achat effectué, le site lancera le jeu. Il faudra vous connecter ave
 
 {% include translated_image.html url="packs-promo.webp" description="Packs payants disponibles" %}
 
+Voici la procédure à suivre pour utiliser ce site :
+
+{% include image.html url="/assets/img/packs_soldes.webp" description="Lier les achats de packs soldés dans le jeu" %}
+

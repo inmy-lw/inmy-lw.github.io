@@ -40,3 +40,7 @@ Płatne pakiety można kupić w promocji na innej stronie: <a href="https://loot
 Po dokonaniu zakupu strona uruchomi grę. Będziesz musiał zalogować się za pomocą swojego adresu e-mail z gry i użyć kodu logowania otrzymanego e-mailem, aby uzyskać dostęp do swojego konta. Będziesz mógł wtedy wybrać pakiety, które zostaną dodane bezpośrednio (w zależności od Twoich zakupów).
 
 {% include translated_image.html url="packs-promo.webp" description="Dostępne płatne pakiety" %}
+
+Oto procedura korzystania z tej strony:
+
+{% include image.html url="/assets/img/packs_soldes.webp" description="Łączenie zakupów pakietów przecenionych w grze" %}

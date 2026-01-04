@@ -41,3 +41,7 @@ Once the purchase is made, the site will launch the game. You will need to log i
 
 {% include translated_image.html url="packs-promo.webp" description="Available paid packs" %}
 
+Here is the procedure to follow to use this site:
+
+{% include image.html url="/assets/img/packs_soldes.webp" description="Link purchases of discounted packs in the game" %}
+
