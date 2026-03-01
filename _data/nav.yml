@@ -14,6 +14,22 @@
   url: category/season1.html #Menu item url.
   icon: assets/img/icons/s1.svg #Menu item icon.
   hue: "var(--c-themeHueBlue)" #Menu item hue - see note [1].
+- title: Saison 2 #Menu item title.
+  translations:
+    - lang: fr
+      value: Saison 2
+    - lang: en
+      value: Season 2
+    - lang: de
+      value: Staffel 2
+    - lang: it
+      value: Stagione 2
+    - lang: pl
+      value: Sezon 2
+  tag: season2
+  url: category/season2.html #Menu item url.
+  icon: assets/img/icons/s2.svg #Menu item icon.
+  hue: "var(--c-themeHueBlue)" #Menu item hue - see note [1].
 - title: Important #Menu item title.
   translations:
     - lang: fr
