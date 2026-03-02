@@ -14,41 +14,7 @@ L'obiettivo della stagione sarà quello di migliorare i nostri edifici stagional
 
 # Programma
 
-- Settimana 1
-    - Temperatura -20°C
-    - Sblocco delle fabbriche di lega di titanio e della fornace ad alta temperatura
-    - Fornace dell'alleanza sbloccata
-    - Cattura città livelli 1 e 2
-    - Arma esclusiva di Murphy
-- Settimana 2
-    - Temperatura -30°C
-    - Sblocco del cane
-    - Fornace dell'alleanza attaccata. Deve essere difesa
-    - Cattura città livelli 3 e 4
-- Settimana 3
-    - Temperatura -50°C
-    - Violet diventa UR
-    - Guerra interserver
-    - Cattura città livelli 5 e 6
-    - Arma esclusiva di Carlie
-- Settimana 4
-    - Temperatura -70°C
-    - Guerra interserver
-    - Cattura della fornace nucleare (campidoglio)
-- Settimana 5
-    - Temperatura -90°C
-    - Attacco alle città
-- Settimana 6
-    - Temperatura -110°C
-    - Guerra delle Terre Rare
-    - Arma esclusiva di Swift
-- Settimana 7
-    - Temperatura -130°C
-    - Guerre tra fazioni
-- Settimana 8
-    - Risultati
-- Settimane da 9 a 13
-    - Celebrazione
+![calendar](/assets/img/it/season-2/calendar.webp)
 
 # Zombie
 

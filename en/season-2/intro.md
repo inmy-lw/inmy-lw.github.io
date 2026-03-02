@@ -14,41 +14,7 @@ The goal of the season will be to improve our seasonal buildings to withstand dr
 
 # Schedule
 
-- Week 1
-    - Temperature -20°C
-    - Unlocking of Titanium Alloy Factories and the High-Heat Furnace
-    - Alliance Furnace unlocked
-    - City capture levels 1 and 2
-    - Murphy's exclusive weapon
-- Week 2
-    - Temperature -30°C
-    - Unlocking of the dog
-    - Alliance Furnace attacked. Must be defended
-    - City capture levels 3 and 4
-- Week 3
-    - Temperature -50°C
-    - Violet turns UR
-    - Interserver war
-    - City capture levels 5 and 6
-    - Carlie's exclusive weapon
-- Week 4
-    - Temperature -70°C
-    - Interserver war
-    - Capture of the nuclear furnace (capitol)
-- Week 5
-    - Temperature -90°C
-    - City attacks
-- Week 6
-    - Temperature -110°C
-    - Rare Earth war
-    - Swift's exclusive weapon
-- Week 7
-    - Temperature -130°C
-    - Faction wars
-- Week 8
-    - Results
-- Weeks 9 to 13
-    - Celebration
+![calendar](/assets/img/en/season-2/calendar.webp)
 
 # Zombies
 

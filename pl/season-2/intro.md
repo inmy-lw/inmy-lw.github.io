@@ -14,41 +14,7 @@ Celem sezonu będzie ulepszenie naszych budynków sezonowych, aby wytrzymały sp
 
 # Harmonogram
 
-- Tydzień 1
-    - Temperatura -20°C
-    - Odblokowanie fabryk stopu tytanu i pieca wysokotemperaturowego
-    - Piec sojuszu odblokowany
-    - Przejmowanie miast poziomy 1 i 2
-    - Ekskluzywna broń Murphy'ego
-- Tydzień 2
-    - Temperatura -30°C
-    - Odblokowanie psa
-    - Piec sojuszu zaatakowany. Musi być broniony
-    - Przejmowanie miast poziomy 3 i 4
-- Tydzień 3
-    - Temperatura -50°C
-    - Violet staje się UR
-    - Wojna międzyserwerowa
-    - Przejmowanie miast poziomy 5 i 6
-    - Ekskluzywna broń Carlie
-- Tydzień 4
-    - Temperatura -70°C
-    - Wojna międzyserwerowa
-    - Przejęcie pieca nuklearnego (kapitol)
-- Tydzień 5
-    - Temperatura -90°C
-    - Atak na miasta
-- Tydzień 6
-    - Temperatura -110°C
-    - Wojna o Ziemie Rzadkie
-    - Ekskluzywna broń Swifta
-- Tydzień 7
-    - Temperatura -130°C
-    - Wojny frakcji
-- Tydzień 8
-    - Wyniki
-- Tygodnie 9 do 13
-    - Świętowanie
+![calendar](/assets/img/pl/season-2/calendar.webp)
 
 # Zombie
 

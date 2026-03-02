@@ -14,41 +14,7 @@ Le but de la saison sera d'améliorer nos bâtiments saisonniers pour résister 
 
 # Planning
 
-- Semaine 1
-    - Température -20°C
-    - Déblocage des Usines d'alliage de Titane et du Four à Haute température
-    - Four d'alliance débloqué
-    - Capture de ville niveaux 1 et 2
-    - Arme exclusive de Murphy
-- Semaine 2
-    - Température -30°C
-    - Déblocage du chien
-    - Four d'alliance attaqué. Doit être défendu
-    - Capture de ville niveaux 3 et 4
-- Semaine 3
-    - Température -50°C
-    - Violet passe UR
-    - Guerre interserveur
-    - Capture de ville niveaux 5 et 6
-    - Arme exclusive de Carlie
-- Semaine 4
-    - Température -70°C
-    - Guerre interserveur
-    - Capture du four nucléaire (capitole)
-- Semaine 5
-    - Température -90°C
-    - Attaque des villes
-- Semaine 6
-    - Température -110°C
-    - Guerre des Terres rares
-    - Arme exclusive de Swift
-- Semaine 7
-    - Température -130°C
-    - Guerres des factions
-- Semaine 8
-    - Résultats
-- Semaines 9 à 13
-    - Célébration
+![calendar](/assets/img/fr/season-2/calendar.webp)
 
 # Zombies
 

@@ -14,41 +14,7 @@ Das Ziel der Saison wird es sein, unsere saisonalen Gebäude zu verbessern, um T
 
 # Planung
 
-- Woche 1
-    - Temperatur -20°C
-    - Freischaltung der Titanlegierungsfabriken und des Hochtemperaturofens
-    - Allianzofen freigeschaltet
-    - Stadteroberung Level 1 und 2
-    - Murphys exklusive Waffe
-- Woche 2
-    - Temperatur -30°C
-    - Freischaltung des Hundes
-    - Allianzofen angegriffen. Muss verteidigt werden
-    - Stadteroberung Level 3 und 4
-- Woche 3
-    - Temperatur -50°C
-    - Violet wird UR
-    - Interserver-Krieg
-    - Stadteroberung Level 5 und 6
-    - Carlies exklusive Waffe
-- Woche 4
-    - Temperatur -70°C
-    - Interserver-Krieg
-    - Eroberung des Kernofens (Kapitol)
-- Woche 5
-    - Temperatur -90°C
-    - Angriff auf die Städte
-- Woche 6
-    - Temperatur -110°C
-    - Seltenerden-Krieg
-    - Swifts exklusive Waffe
-- Woche 7
-    - Temperatur -130°C
-    - Fraktionskriege
-- Woche 8
-    - Ergebnisse
-- Wochen 9 bis 13
-    - Feierlichkeiten
+![calendar](/assets/img/de/season-2/calendar.webp)
 
 # Zombies
 
