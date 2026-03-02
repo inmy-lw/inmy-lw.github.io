@@ -16,7 +16,7 @@ Violet wird von SSR zu UR befördert. Um sie auf UR zu bringen, muss ein Abzeich
 
 {% include image.html url="/assets/img/season-1/legendary-hero-badge.webp" description="Abzeichen für legendäre Helden" %}
 
-Die Verwendung dieses Abzeichens setzt alle Fähigkeiten von Mason auf Stufe 1 zurück.
+Die Verwendung dieses Abzeichens setzt alle Fähigkeiten von Violet auf Stufe 1 zurück.
 
 Das Prinzip ist identisch mit dem, das zur Beförderung von Mason zu UR verwendet wurde.
 

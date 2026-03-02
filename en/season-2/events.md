@@ -18,11 +18,11 @@ Its construction can be done from the start of the season. The process is identi
 
 ## Rare Earth War
 
-Starting from the 4th week, each week, one faction must attack the Alliance Furnace of the enemy faction. The battle will take place in 8 rounds, 4 as attacker and 4 as defender.
+Starting from the 4th week, each week, one faction must attack the Alliance Furnace of the enemy faction. The war will contain 8 battles (2 battles per week): 4 as attacker and 4 as defender.
 
 {% include image.html url="/assets/img/season-2/battle-rounds.webp" description="Breakdown of the 8 rounds of the war" %}
 
-The Alliance Warlord has a special skill, allowing him to launch a missile, destroying all bases hit within a certain radius and turning the hit ground into mud (shields can no longer be deployed). It is absolutely necessary to protect the Alliance Furnace and prevent the opponent's warlord from launching this missile.
+The alliance warlord has a special skill, allowing him to launch a missile, destroying all bases hit within a certain radius and turning the hit ground into mud (shields can no longer be deployed). It is absolutely necessary to protect the Alliance Furnace and prevent the opponent's warlord from launching this missile.
 
 {% include image.html url="/assets/img/season-2/warlord-missile.webp" description="Missile capability of the warlord and screen before impact" %}
 

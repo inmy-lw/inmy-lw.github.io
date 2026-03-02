@@ -18,7 +18,7 @@ Sa construction pourra se faire dès le début de la saison. Le procédé est id
 
 ## Guerre des terres rares
 
-À partir de la 4è semaine, chaque semaine, une faction devra attaquer le four d'alliance de la faction ennemie. La bataille se déroulera en 8 tours, 4 comme attaquant et 4 comme défenseur.
+À partir de la 4è semaine, chaque semaine, une faction devra attaquer le four d'alliance de la faction ennemie. La guerre contiendra 8 batailles (2 batailles par semaine) : 4 comme attaquant et 4 comme défenseur.
 
 {% include image.html url="/assets/img/season-2/battle-rounds.webp" description="Déroulement des 8 tours de la guerre" %}
 

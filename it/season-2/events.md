@@ -18,7 +18,7 @@ La sua costruzione potrà avvenire fin dall'inizio della stagione. Il procedimen
 
 ## Guerra delle terre rare
 
-A partire dalla 4ª settimana, ogni settimana, una fazione dovrà attaccare la Fornace dell'Alleanza della fazione nemica. La battaglia si svolgerà in 8 turni, 4 come attaccante e 4 come difensore.
+A partire dalla 4ª settimana, ogni settimana, una fazione dovrà attaccare la Fornace dell'Alleanza della fazione nemica. La guerra conterrà 8 battaglie (2 battaglie a settimana): 4 come attaccante e 4 come difensore.
 
 {% include image.html url="/assets/img/season-2/battle-rounds.webp" description="Svolgimento degli 8 turni della guerra" %}
 

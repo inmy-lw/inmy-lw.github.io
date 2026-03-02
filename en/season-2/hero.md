@@ -16,7 +16,7 @@ Violet will go from SSR to UR. To promote her to UR, you will need to get a lege
 
 {% include image.html url="/assets/img/season-1/legendary-hero-badge.webp" description="Legendary hero badge" %}
 
-Using this badge will reset all of Mason's skills to level 1.
+Using this badge will reset all of Violet's skills to level 1.
 
 The principle is identical to the one used to promote Mason to UR.
 

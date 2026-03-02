@@ -16,7 +16,7 @@ Violet va passer de SSR vers UR. Pour le passer UR, il faudra récupérer un bad
 
 {% include image.html url="/assets/img/season-1/legendary-hero-badge.webp" description="Badge de héro légendaire" %}
 
-Utiliser ce badge va réinitialiser toutes les compétences de Mason au niveau 1.
+Utiliser ce badge va réinitialiser toutes les compétences de Violet au niveau 1.
 
 Le principe est identique à celui utilisé pour promouvoir Mason en UR.
 

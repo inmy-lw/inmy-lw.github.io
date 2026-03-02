@@ -16,7 +16,7 @@ Violet passerà da SSR a UR. Per passarla a UR, sarà necessario recuperare un d
 
 {% include image.html url="/assets/img/season-1/legendary-hero-badge.webp" description="Distintivo eroe leggendario" %}
 
-L'utilizzo di questo distintivo resetterà tutte le abilità di Mason al livello 1.
+L'utilizzo di questo distintivo resetterà tutte le abilità di Violet al livello 1.
 
 Il principio è identico a quello utilizzato per promuovere Mason a UR.
 

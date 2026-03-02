@@ -18,7 +18,7 @@ Der Bau kann gleich zu Beginn der Saison erfolgen. Das Verfahren ist identisch m
 
 ## Seltenerdkrieg
 
-Ab der 4. Woche muss jede Woche eine Fraktion den Allianzofen der gegnerischen Fraktion angreifen. Die Schlacht findet in 8 Runden statt, 4 als Angreifer und 4 als Verteidiger.
+Ab der 4. Woche muss jede Woche eine Fraktion den Allianzofen der gegnerischen Fraktion angreifen. Der Krieg umfasst 8 Schlachten (2 Schlachten pro Woche): 4 als Angreifer und 4 als Verteidiger.
 
 {% include image.html url="/assets/img/season-2/battle-rounds.webp" description="Ablauf der 8 Runden des Krieges" %}
 

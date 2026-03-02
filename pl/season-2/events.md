@@ -18,7 +18,7 @@ Jego budowa może rozpocząć się już na początku sezonu. Proces jest identyc
 
 ## Wojna o metale ziem rzadkich
 
-Od 4. tygodnia, co tydzień, jedna frakcja musi zaatakować piec sojuszu wrogiej frakcji. Bitwa odbywa się w 8 rundach: 4 jako atakujący i 4 jako obrońca.
+Od 4. tygodnia, co tydzień, jedna frakcja musi zaatakować piec sojuszu wrogiej frakcji. Wojna będzie obejmować 8 bitew (2 bitwy tygodniowo): 4 jako atakujący i 4 jako obrońca.
 
 {% include image.html url="/assets/img/season-2/battle-rounds.webp" description="Przebieg 8 rund wojny" %}
 

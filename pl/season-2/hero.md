@@ -16,7 +16,7 @@ Violet przejdzie z poziomu SSR na UR. Aby ją awansować na UR, konieczne będzi
 
 {% include image.html url="/assets/img/season-1/legendary-hero-badge.webp" description="Odznaka legendarnego bohatera" %}
 
-Użycie tej odznaki zresetuje wszystkie umiejętności Masona do poziomu 1.
+Użycie tej odznaki zresetuje wszystkie umiejętności Violet do poziomu 1.
 
 Zasada jest identyczna jak ta użyta przy awansowaniu Masona na UR.
 
