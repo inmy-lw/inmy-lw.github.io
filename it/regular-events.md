@@ -18,6 +18,11 @@ Per progredire sui 3 percorsi più o meno allo stesso ritmo, è consigliato usar
 - Giovedì: 2 nuovi livelli Aereo; 1 livello già completato su Carro armato e Missile
 - Domenica: 2 nuovi livelli Missile; 1 livello già completato su Carro armato e Aereo
 
+Un'altra strategia consiste nell'usare le squadre giuste (Carro vs. Carro, Aereo vs. Aereo, Missile vs. Missile). Per guadagnare più ricompense, devi essere in grado di completare un livello fino alla fine, poi fermarti al passaggio 19 del livello successivo. Al prossimo reset, potrai rifare integralmente questo livello non terminato (e guadagnare così ancora più ricompense). Per esempio:
+- Martedì: Completiamo il livello 40-20 (i 20 passaggi eseguiti sul livello 40) poi ci fermiamo al passaggio 19 del livello 41. I livelli 40-20 e 41-19 sono completati
+- Giovedì: Completiamo il livello 41-20 poi ci fermiamo al passaggio 19 del livello 42. I livelli 41-20 e 42-19 sont completati
+- Domenica: Completiamo il livello 42-20 poi ci fermiamo al passaggio 19 del livello 43. I livelli 42-20 e 43-19 sono completati
+
 Su un livello nuovo di zecca, il gioco mostra la potenza stimata necessaria per completarlo. Tuttavia, questa informazione non è mostrata per un livello già completato.
 
 Alla fine di questa pagina trovi le potenze stimate per ogni livello della campagna.

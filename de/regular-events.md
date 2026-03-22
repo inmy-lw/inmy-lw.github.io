@@ -19,6 +19,11 @@ Um auf allen 3 Pfaden ungefähr gleichzeitig voranzukommen, empfiehlt es sich, d
 - Donnerstag: 2 neue Flugzeug‑Stufen; 1 bereits abgeschlossene Stufe bei Panzer und Rakete
 - Sonntag: 2 neue Raketen‑Stufen; 1 bereits abgeschlossene Stufe bei Panzer und Flugzeug
 
+Eine andere Strategie besteht darin, die richtigen Teams einzusetzen (Panzer vs. Panzer, Flugzeug vs. Flugzeug, Rakete vs. Rakete). Um mehr Belohnungen zu erhalten, muss man eine Stufe bis zum Ende abschließen können und dann bei Schritt 19 der nächsten Stufe aufhören. Beim nächsten Reset kann man diese unvollständige Stufe vollständig wiederholen (und so noch mehr Belohnungen verdienen). Zum Beispiel:
+- Dienstag: Wir beenden Stufe 40-20 (die 20 Schritte von Stufe 40) und hören dann bei Schritt 19 von Stufe 41 auf. Die Stufen 40-20 und 41-19 sind abgeschlossen
+- Donnerstag: Wir beenden Stufe 41-20 und hören dann bei Schritt 19 von Stufe 42 auf. Die Stufen 41-20 und 42-19 sind abgeschlossen
+- Sonntag: Wir beenden Stufe 42-20 und hören dann bei Schritt 19 von Stufe 43 auf. Die Stufen 42-20 und 43-19 sind abgeschlossen
+
 Bei einer ganz neuen Stufe zeigt das Spiel die geschätzte benötigte Stärke an, um sie zu bestehen. Bei einer bereits abgeschlossenen Stufe wird diese Information jedoch nicht angezeigt.
 
 Am Ende dieser Seite findest du die geschätzten Stärke‑Werte für jede Stufe der Kampagne.

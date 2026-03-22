@@ -20,6 +20,11 @@ Aby rozwijać 3 ścieżki mniej więcej w tym samym tempie, zaleca się używać
 - Czwartek: 2 nowe poziomy Samolot; 1 poziom już zaliczony na Czołg i Pocisk
 - Niedziela: 2 nowe poziomy Pocisk; 1 poziom już zaliczony na Czołg i Samolot
 
+Inną strategią jest używanie odpowiednich drużyn (Czołg vs. Czołg, Samolot vs. Samolot, Pocisk vs. Pocisk). Aby zdobyć więcej nagród, musisz być w stanie ukończyć poziom do końca, a następnie zatrzymać się na etapie 19 kolejnego poziomu. Przy następnym resecie będzie można w całości powtórzyć ten nieukończony poziom (i w ten sposób zdobyć jeszcze więcej nagród). Na przykład:
+- Wtorek: Kończymy poziom 40-20 (20 etapów zaliczonych na poziomie 40), a następnie zatrzymujemy się na etapie 19 poziomu 41. Poziomy 40-20 i 41-19 są ukończone
+- Czwartek: Kończymy poziom 41-20, a następnie zatrzymujemy się na etapie 19 poziomu 42. Poziomy 41-20 i 42-19 są ukończone
+- Niedziela: Kończymy poziom 42-20, a następnie zatrzymujemy się na etapie 19 poziomu 43. Poziomy 42-20 i 43-19 są ukończone
+
 Na zupełnie nowym poziomie gra pokazuje szacowaną wymaganą moc, aby go przejść. Natomiast dla poziomu już zaliczonego ta informacja nie jest podawana.
 
 Na samym końcu tej strony znajdziesz szacowane wartości mocy dla każdego poziomu kampanii.

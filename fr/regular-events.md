@@ -18,6 +18,11 @@ Pour progresser sur les 3 niveaux à peu près en même temps, il est conseillé
 - Jeudi 2 nouveaux niveaux Avion ; 1 niveau déjà fait sur Tank et Missile
 - Dimanche 2 nouveaux niveaux Missile ; 1 niveau déjà fait sur Tank et Avion
 
+Une autre stratégie consiste à utiliser les bonnes équipes (Tank vs. Tank, Avion vs. Avion, Missile vs. Missile). Pour gagner plus de récompenses, il faut pouvoir terminer un niveau jusqu'au bout, puis s'arrêter à l'étape 19 sur le niveau d'après. Lors du prochain reset, on pourra refaire intégralement ce niveau non terminé (et ainsi gagner encore plus de récompenses.). Par exemple :
+- Mardi : On termine le niveau 40-20 (les 20 étapes passées sur le niveau 40) puis on s'arrête à l'étape 19 sur le niveau 41. Les niveaux 40-20 et 41-19 sont complétés
+- Jeudi : On termine le niveau 41-20 puis on s'arrête à l'étape 19 sur le niveau 42. Les niveaux 41-20 et 42-19 sont complétés
+- Dimanche : On termine le niveau 42-20 puis on s'arrête à l'étape 19 sur le niveau 43. Les niveaux 42-20 et 43-19 sont complétés
+
 Sur un nouveau niveau, le jeu nous donne la puissance estimée qu'il faut pour gagner le niveau. En revanche, cette information n'est pas donnée sur un niveau déjà fait.
 
 À la toute fin de la page se trouve les puissances estimées pour chaque niveau de la campagne.

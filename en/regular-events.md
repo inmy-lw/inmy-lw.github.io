@@ -18,6 +18,11 @@ To progress across the 3 paths at roughly the same pace, it’s recommended to u
 - Thursday: 2 new Aircraft stages; 1 previously cleared stage on Tank and Missile
 - Sunday: 2 new Missile stages; 1 previously cleared stage on Tank and Aircraft
 
+Another strategy is to use the right teams (Tank vs. Tank, Aircraft vs. Aircraft, Missile vs. Missile). To earn more rewards, you must be able to complete a stage to the end, then stop at step 19 on the next stage. At the next reset, you will be able to completely redo this unfinished stage (and thus earn even more rewards). For example:
+- Tuesday: We finish stage 40-20 (the 20 steps passed on stage 40) then we stop at step 19 on stage 41. Stages 40-20 and 41-19 are completed
+- Thursday: We finish stage 41-20 then we stop at step 19 on stage 42. Stages 41-20 and 42-19 are completed
+- Sunday: We finish stage 42-20 then we stop at step 19 on stage 43. Stages 42-20 and 43-19 are completed
+
 On a brand‑new stage, the game shows the estimated power needed to clear it. However, this information is not shown for a stage you’ve already completed.
 
 At the very end of this page, you’ll find the estimated power values for every stage of the campaign.
